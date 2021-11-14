@@ -49,14 +49,14 @@ http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/60
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/61
 
 #EXTM3U
-#EXTINF:0,ARTA HD
+#EXTINF:0,Tomi e Xherri 
 #EXTGRP:ALL
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/62
+http://coralsat.com:8000/293800716494609/890488410133364/177121
 
 #EXTM3U
-#EXTINF:0,Kanali 7 News
+#EXTINF:0,Art Kino 2
 #EXTGRP:ALL
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/63
+http://coralsat.com:8000/293800716494609/890488410133364/177217
 
 #EXTM3U
 #EXTINF:0,Report TV
@@ -216,7 +216,7 @@ http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/112
 #EXTM3U
 #EXTINF:0,Smile
 #EXTGRP:ALL
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/113
+http://coralsat.com:8000/293800716494609/890488410133364/177192
 
 #EXTM3U
 #EXTINF:0,Super HD
@@ -394,9 +394,9 @@ http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/207
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/209
 
 #EXTM3U
-#EXTINF:0,Dielli
+#EXTINF:0,Art Kino 1
 #EXTGRP:ALL
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/215
+http://coralsat.com:8000/293800716494609/890488410133364/177216
 
 #EXTM3U
 #EXTINF:0,Star Plus (Shkodër)
@@ -434,14 +434,14 @@ http://195.154.252.221:8000/play/a002/index.m3u8
 http://us.bestvideostreaming.is/7711/index.m3u8
 
 #EXTM3U
-#EXTINF:0,Top Estrada (Muzike)
-#EXTGRP:ALL 
-http://live.topestrada.com/live/topestrada/playlist.m3u8
-
-#EXTM3U
 #EXTINF:0,AMOL TV (Muzike)
 #EXTGRP:ALL 
 http://us.bestvideostreaming.is/7722/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Top Estrada (Muzike)
+#EXTGRP:ALL 
+http://live.topestrada.com/live/topestrada/playlist.m3u8
 
 #EXTM3U
 #EXTINF:0,Dasma TV (Muzike)
@@ -452,6 +452,21 @@ http://us.bestvideostreaming.is/8793/playlist.m3u8
 #EXTINF:0,RTV Arberia (Muzike)
 #EXTGRP:ALL 
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,Art Kino 1
+#EXTGRP:ALL 
+http://coralsat.com:8000/293800716494609/890488410133364/177216
+
+#EXTM3U
+#EXTINF:0,Art Kino 2
+#EXTGRP:ALL 
+http://coralsat.com:8000/293800716494609/890488410133364/177218
+
+#EXTM3U
+#EXTINF:0,Art Kino 3
+#EXTGRP:ALL 
+http://coralsat.com:8000/293800716494609/890488410133364/177218
 
 #EXTM3U
 #EXTINF:0,BET Her
@@ -469,19 +484,19 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 #EXTM3U
-#EXTINF:0,Example
+#EXTINF:0,Super Sport 2
 #EXTGRP:ALL 
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/168
+http://coralsat.com:8000/293800716494609/890488410133364/177133
 
 #EXTM3U
-#EXTINF:0,Example
+#EXTINF:0,Super Sport 3
 #EXTGRP:ALL 
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/168
+http://coralsat.com:8000/293800716494609/890488410133364/177134
 
 #EXTM3U
-#EXTINF:0,Example
+#EXTINF:0,Super Sport 4
 #EXTGRP:ALL 
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/168
+http://coralsat.com:8000/293800716494609/890488410133364/177135
 
 #EXTM3U
 #EXTINF:0,Example

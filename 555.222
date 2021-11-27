@@ -1,4 +1,106 @@
 #EXTM3U
+#EXTINF:0,GOLD HD
+http://93.157.62.180/FilmNje/index.m3u8
+
+#EXTM3U
+#EXTINF:0,MAX HD
+http://93.157.62.180/FilmDy/index.m3u8
+
+#EXTM3U
+#EXTINF:0,HITS HD
+http://93.157.62.180/FilmHits/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Komedi
+http://93.157.62.180/FilmKomedi/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Tring Action
+http://93.157.62.180/TringAction/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Tring Comedy
+http://93.157.62.180/TringComedy/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Tring Life
+http://93.157.62.180/TringLife/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Tring Super
+http://93.157.62.180/TringSuper/index.m3u8
+
+#EXTM3U
+#EXTINF:0,TIP TV
+http://93.157.62.180/TipTV/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Star PLUS
+http://93.157.62.180/StarPlus/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Bang Bang
+http://93.157.62.180/BangBang/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Çufo
+http://93.157.62.180/Cufo/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Top News
+http://93.157.62.180/TopNews/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Vizion Plus
+http://93.157.62.180/VizionPlus/index.m3u8
+
+#EXTM3U
+#EXTINF:0,ABC News AL
+http://93.157.62.180/ABCNews/index.m3u8
+
+#EXTM3U
+#EXTINF:0,RTSH 1
+http://93.157.62.180/RTSH1/index.m3u8
+
+#EXTM3U
+#EXTINF:0,RTSH 2
+http://93.157.62.180/RTSH2/index.m3u8
+
+#EXTM3U
+#EXTINF:0,RTSH 3
+http://93.157.62.180/RTSH3/index.m3u8
+
+#EXTM3U
+#EXTINF:0,RTSH Shqip
+http://93.157.62.180/RTSHShqip/index.m3u8
+
+#EXTM3U
+#EXTINF:0,RTSH Sport
+http://93.157.62.180/RTSHSport/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Syri TV
+http://93.157.62.180/SyriTV/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
 #EXTINF:0,FILM AKSION HD
 http://coralsat.com:8000/293800716494609/890488410133364/177150
 

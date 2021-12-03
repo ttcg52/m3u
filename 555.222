@@ -83,7 +83,9 @@ http://93.157.62.180/RTSHSport/index.m3u8
 http://93.157.62.180/SyriTV/index.m3u8
 
 
-
+#EXTM3U
+#EXTINF:0,Dorcel
+http://93.157.62.180/DorcelXXX/index.m3u8
 
 
 

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,7 
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/168
+
+#EXTM3U
 #EXTINF:0,GOLD HD
 http://93.157.62.180/FilmNje/index.m3u8
 

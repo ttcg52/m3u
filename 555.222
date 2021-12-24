@@ -10,6 +10,9 @@ http://93.157.62.180/FilmNje/index.m3u8
 #EXTINF:0,MAX HD
 http://93.157.62.180/FilmDy/index.m3u8
 
+
+
+
 #EXTM3U
 #EXTINF:0,HITS HD
 http://93.157.62.180/FilmHits/index.m3u8

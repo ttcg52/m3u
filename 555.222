@@ -335,3 +335,472 @@ http://coralsat.com:8000/293800716494609/890488410133364/177150
 http://coralsat.com:8000/293800716494609/890488410133364/177150
 
 
+#EXTM3U
+#EXTINF:0,7
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/168
+
+#EXTM3U
+#EXTINF:0,Klan
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/24
+
+#EXTM3U
+#EXTINF:0,Top Channel 1
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/25
+
+#EXTM3U
+#EXTINF:0,Top Channel 2
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/26
+
+#EXTM3U
+#EXTINF:0,Vizion Plus
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/28
+
+#EXTM3U
+#EXTINF:0,RTSH Sat
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/35
+
+#EXTM3U
+#EXTINF:0,7
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/168
+
+#EXTM3U
+#EXTINF:0,Syri TV
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/59
+
+#EXTM3U
+#EXTINF:0,ABC
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/60
+
+#EXTM3U
+#EXTINF:0,News 24
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/61
+
+#EXTM3U
+#EXTINF:0,ARTA HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/62
+
+#EXTM3U
+#EXTINF:0,Kanali 7 News
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/63
+
+#EXTM3U
+#EXTINF:0,Report TV
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/65
+
+#EXTM3U
+#EXTINF:0,Top News
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/66
+
+#EXTM3U
+#EXTINF:0,Fax News
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/67
+
+#EXTM3U
+#EXTINF:0,A TV (Kosove)
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/68
+
+#EXTM3U
+#EXTINF:0,Ora News
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/69
+
+#EXTM3U
+#EXTINF:0,Baby TV
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/74
+
+#EXTM3U
+#EXTINF:0,Bang Bang
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/77
+
+#EXTM3U
+#EXTINF:0,Cufo
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/78
+
+#EXTM3U
+#EXTINF:0,Tip TV
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/80
+
+#EXTM3U
+#EXTINF:0,Sofia
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/81
+
+#EXTM3U
+#EXTINF:0,Tring Kids
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/82
+
+#EXTM3U
+#EXTINF:0,Tring Tring
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/83
+
+#EXTM3U
+#EXTINF:0,RTSH Femije
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/84
+
+#EXTM3U
+#EXTINF:0,TVO Kids (Anglisht)
+#EXTGRP:Femije
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/87
+
+#EXTM3U
+#EXTINF:0,Eurofilm
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/92
+
+#EXTM3U
+#EXTINF:0,Gold HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/93
+
+#EXTM3U
+#EXTINF:0,Max HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/95
+
+#EXTM3U
+#EXTINF:0,Hits HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/97
+
+#EXTM3U
+#EXTINF:0,Aksion HD 1
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/98
+
+#EXTM3U
+#EXTINF:0,Aksion HD 2
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/99
+
+#EXTM3U
+#EXTINF:0,Thriller
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/100
+
+#EXTM3U
+#EXTINF:0,Drame
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/101
+
+#EXTM3U
+#EXTINF:0,Autor
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/102
+
+#EXTM3U
+#EXTINF:0,Komedi
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/103
+
+#EXTM3U
+#EXTINF:0,Family HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/104
+
+#EXTM3U
+#EXTINF:0,Stinet 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/105
+
+#EXTM3U
+#EXTINF:0,T HD 1
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/108
+
+#EXTM3U
+#EXTINF:0,T HD 2
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/109
+
+#EXTM3U
+#EXTINF:0,RTSH Shqip
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/110
+
+#EXTM3U
+#EXTINF:0,Tring Shqip 1
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/111
+
+#EXTM3U
+#EXTINF:0,Tring Shqip 2
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/112
+
+#EXTM3U
+#EXTINF:0,Smile
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/113
+
+#EXTM3U
+#EXTINF:0,Super HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/115
+
+#EXTM3U
+#EXTINF:0,Action HD 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/116
+
+#EXTM3U
+#EXTINF:0,Life HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/117
+
+#EXTM3U
+#EXTINF:0,Tring Comedy
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/118
+
+#EXTM3U
+#EXTINF:0,Tring Fantasy
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/119
+
+#EXTM3U
+#EXTINF:0,Jolly 1 HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/120
+
+#EXTM3U
+#EXTINF:0,Jolly 2 HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/122
+
+#EXTM3U
+#EXTINF:0,3 Plus
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/126
+
+#EXTM3U
+#EXTINF:0,7 HD 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/129
+
+#EXTM3U
+#EXTINF:0,Sky Star HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/128
+
+#EXTM3U
+#EXTINF:0,Sky Aksion 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/130
+
+#EXTM3U
+#EXTINF:0,Sky Komedi
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/131
+
+#EXTM3U
+#EXTINF:0,Sky Max
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/132
+
+#EXTM3U
+#EXTINF:0,Sky Drame
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/133
+
+#EXTM3U
+#EXTINF:0,Novela
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/134
+
+#EXTM3U
+#EXTINF:0,Alpo HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/143
+
+#EXTM3U
+#EXTINF:0,Shkencë
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/151
+
+#EXTM3U
+#EXTINF:0,Natyra
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/152
+
+#EXTM3U
+#EXTINF:0,Histori
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/153
+
+#EXTM3U
+#EXTINF:0,World
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/154
+
+#EXTM3U
+#EXTINF:0,Planet
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/155
+
+#EXTM3U
+#EXTINF:0,Tring History
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/156
+
+#EXTM3U
+#EXTINF:0,Living 1 HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/157
+
+#EXTM3U
+#EXTINF:0,Living 2 HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/158
+
+#EXTM3U
+#EXTINF:0,Muse
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/159
+
+#EXTM3U
+#EXTINF:0,Animal Planet 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/164
+
+#EXTM3U
+#EXTINF:0,National Geographic 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/165
+
+#EXTM3U
+#EXTINF:0,ALB UK
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/173
+
+#EXTM3U
+#EXTINF:0,Albanian America TV 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/175
+
+#EXTM3U
+#EXTINF:0,T7
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/187
+
+#EXTM3U
+#EXTINF:0,21 MIX HD 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/191
+
+#EXTM3U
+#EXTINF:0,Radio Flutura 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/201
+
+#EXTM3U
+#EXTINF:0,MFM
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/204
+
+#EXTM3U
+#EXTINF:0,RTV Fontana 
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/207
+
+#EXTM3U
+#EXTINF:0,albMuzik HD
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/209
+
+#EXTM3U
+#EXTINF:0,Dielli
+#EXTGRP:ALL
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/215
+
+#EXTM3U
+#EXTINF:0,Star Plus (Shkodër)
+#EXTGRP:ALL 
+http://93.157.62.180/StarPlus/index.m3u8
+
+#EXTM3U
+#EXTINF:0,TV Rozafa (Shkodër)
+#EXTGRP:ALL 
+http://93.157.62.180/RozafaTV/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Diaspora TV (Muzike)
+#EXTGRP:ALL 
+http://us.bestvideostreaming.is/8779/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,Elrodi TV (Muzike)
+#EXTGRP:ALL 
+http://edge01eu.ekranet.com/elroditv_240p/index.m3u8
+
+#EXTM3U
+#EXTINF:0,First (Muzike)
+#EXTGRP:ALL 
+http://us.bestvideostreaming.is/8717/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Frame TV (Muzike)
+#EXTGRP:ALL 
+http://195.154.252.221:8000/play/a002/index.m3u8
+
+#EXTM3U
+#EXTINF:0,MFM (Muzike)
+#EXTGRP:ALL 
+http://us.bestvideostreaming.is/7711/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Top Estrada (Muzike)
+#EXTGRP:ALL 
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,AMOL TV (Muzike)
+#EXTGRP:ALL 
+http://us.bestvideostreaming.is/7722/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Dasma TV (Muzike)
+#EXTGRP:ALL 
+http://us.bestvideostreaming.is/8793/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,RTV Arberia (Muzike)
+#EXTGRP:ALL 
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,BET Her
+#EXTGRP:MOVIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTM3U
+#EXTINF:0,Hallmark Movies & More
+#EXTGRP:MOVIES
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,Movie Kingdom
+#EXTGRP:MOVIES 
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8

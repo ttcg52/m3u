@@ -133,10 +133,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="NTVEurope.bd" tvg-name="NTV Europe (720p) [Not 24/7]" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General",NTV Europe (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PeaceTVAlbanian.ae" tvg-name="Peace TV Albanian (360p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/albanian.jpg" group-title="Religious",Peace TV Albanian (360p)
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-name="Peace TV English (1080p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg" group-title="Religious",Peace TV English (1080p)
-http://199.223.252.162:8032/english_adaptive/index.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary (1080p)" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p)
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-name="World Fashion Channel (1080p)" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)

@@ -1,203 +1,134 @@
 #EXTINF:-1 tvg-id="7HD.al" tvg-name="7 HD (540p)" group-title="(no group)",7 HD (540p)
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-name="AlbUK TV (1080p) [Not 24/7]" group-title="(no group)",AlbUK TV (1080p) [Not 24/7]
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ALPO.al" tvg-name="ALPO (720p) [Not 24/7]" group-title="(no group)",ALPO (720p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Alsat.al" tvg-name="Alsat (1080p) [Not 24/7]"  group-title="(no group)",Alsat (1080p) [Not 24/7]
 http://93.157.62.180/AlsatM/index.m3u8
-
 #EXTINF:-1 tvg-id="ATD.al" tvg-name="ATD (720p)"  group-title="(no group)",ATD (720p)
 http://46.99.146.236/0.m3u8
-
 #EXTINF:-1 tvg-id="FaxNews.al" tvg-name="Fax News (360p) [Not 24/7]"  group-title="(no group)",Fax News (360p) [Not 24/7]
 http://edge01eu.ekranet.com/faxnews/index.m3u8
-
 #EXTINF:-1 tvg-id="FrameTV.al" tvg-name="Frame TV (1080p) [Not 24/7]"  group-title="(no group)",Frame TV (1080p) [Not 24/7]
 http://195.154.252.221:8000/play/a002/index.m3u8
-
 #EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1 (406p) [Not 24/7]" group-title="(no group)",RTSH 1 (406p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSH1HD.al" tvg-name="RTSH 1 HD (540p)" group-title="(no group)",RTSH 1 HD (540p)
 http://93.157.62.180/RTSH1/index.m3u8
-
 #EXTINF:-1 tvg-id="RTSH2HD.al" tvg-name="RTSH 2 HD (720p)" group-title="(no group)",RTSH 2 HD (720p)
 http://93.157.62.180/RTSH2/index.m3u8
-
 #EXTINF:-1 tvg-id="RTSH3.al" tvg-name="RTSH 3 (270p)"  group-title="(no group)",RTSH 3 (270p)
 http://93.157.62.180/RTSH3/index.m3u8
-
 #EXTINF:-1 tvg-id="RTSH24.al" tvg-name="RTSH 24 (1080p)"  group-title="(no group)",RTSH 24 (1080p)
 http://93.157.62.180/RTSH24/index.m3u8
-
 #EXTINF:-1 tvg-id="RTSHAgro.al" tvg-name="RTSH Agro (480p) [Not 24/7]"  group-title="(no group)",RTSH Agro (480p) [Not 24/7]
 http://93.157.62.180/RTSHAgro/index.m3u8
-
 #EXTINF:-1 tvg-id="RTSHFemije.al" tvg-name="RTSH Femijë (480p) [Not 24/7]" group-title="(no group)",RTSH Femijë (480p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHFilm.al" tvg-name="RTSH Film (406p) [Not 24/7]"  group-title="(no group)",RTSH Film (406p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHGjirokastra.al" tvg-name="RTSH Gjirokastra (480p) [Not 24/7]" group-title="(no group)",RTSH Gjirokastra (480p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHKorca.al" tvg-name="RTSH Korça (480p) [Not 24/7]" group-title="(no group)",RTSH Korça (480p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHKukesi.al" tvg-name="RTSH Kukësi (360p) [Not 24/7]" group-title="(no group)",RTSH Kukësi (360p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHKuvend.al" tvg-name="RTSH Kuvend (360p) [Not 24/7]" group-title="(no group)",RTSH Kuvend (360p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-name="RTSH Muzike (406p) [Not 24/7]" group-title="(no group)",RTSH Muzike (406p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHPlus.al" tvg-name="RTSH Plus (480p) [Not 24/7]" group-title="(no group)",RTSH Plus (480p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHShkolle.al" tvg-name="RTSH Shkollë (360p) [Not 24/7]" group-title="(no group)",RTSH Shkollë (360p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="RTSH Shqip (406p) [Not 24/7]" group-title="(no group)",RTSH Shqip (406p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Sport (720p) [Not 24/7]" group-title="(no group)",RTSH Sport (720p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida (360p) [Not 24/7]" group-title="(no group)",RTV Ilirida (360p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTVSCAN.al" tvg-name="RTV SCAN (480p)" group-title="(no group)",RTV SCAN (480p)
 http://edge01eu.ekranet.com/scantv/index.m3u8
-
 #EXTINF:-1 tvg-id="Shqiponja.al" tvg-name="Shqiponja (720p)"  group-title="(no group)",Shqiponja (720p)
 http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
-
 #EXTINF:-1 tvg-id="SofiaHD.al" tvg-name="Sofia HD (576p) [Not 24/7]"  group-title="(no group)",Sofia HD (576p) [Not 24/7]
 http://93.157.62.180/Sofia/index.m3u8
-
 #EXTINF:-1 tvg-id="SyriHD.al" tvg-name="Syri HD (720p)"  group-title="(no group)",Syri HD (720p)
 http://93.157.62.180/SyriTV/index.m3u8
-
 #EXTINF:-1 tvg-id="SyriTV.al" tvg-name="Syri TV (720p) [Not 24/7]" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" group-title="(no group)",Syri TV (720p) [Not 24/7]
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
-
 #EXTINF:-1 tvg-id="TopNews.al" tvg-name="Top News (720p)"  group-title="(no group)",Top News (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
-
-#EXTINF:-1 tvg-id="Tring3.al" tvg-name="Tring 3 (576p) [Geo-blocked]"  group-title="(no group)",Tring 3 (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8773/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TringActionHD.al" tvg-name="Tring Action HD (720p) [Not 24/7]"  group-title="(no group)",Tring Action HD (720p) [Not 24/7]
 http://93.157.62.180/TringAction/index.m3u8
-
 #EXTINF:-1 tvg-id="TringJollyHD.al" tvg-name="Tring Jolly HD (1080p) [Not 24/7]"  group-title="(no group)",Tring Jolly HD (1080p) [Not 24/7]
 http://93.157.62.180/JollyHD/index.m3u8
-
 #EXTINF:-1 tvg-id="TringKids.al" tvg-name="Tring Kids (576p) [Not 24/7]" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringKids_logo.png" group-title="(no group)",Tring Kids (576p) [Not 24/7]
 http://93.157.62.180/TringKids/index.m3u8
-
 #EXTINF:-1 tvg-id="TringLife.al" tvg-name="Tring Life (1080p)"  group-title="(no group)",Tring Life (1080p)
 http://93.157.62.180/TringLife/index.m3u8
-
 #EXTINF:-1 tvg-id="TringPlanet.al" tvg-name="Tring Planet (576p)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringPlanet.png" group-title="(no group)",Tring Planet (576p)
 http://93.157.62.180/TringPlanet/index.m3u8
-
 #EXTINF:-1 tvg-id="TringShqip.al" tvg-name="Tring Shqip (576p) [Not 24/7]" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringShqip.png" group-title="(no group)",Tring Shqip (576p) [Not 24/7]
 http://93.157.62.180/TringShqip/index.m3u8
-
 #EXTINF:-1 tvg-id="TringSmile.al" tvg-name="Tring Smile (576p)"  group-title="(no group)",Tring Smile (576p)
 http://93.157.62.180/TringSmile/index.m3u8
-
 #EXTINF:-1 tvg-id="TringSuperHD.al" tvg-name="Tring Super HD (1080p)"  group-title="(no group)",Tring Super HD (1080p)
 http://93.157.62.180/TringSuper/index.m3u8
-
 #EXTINF:-1 tvg-id="TringWorld.al" tvg-name="Tring World (576p)"  group-title="(no group)",Tring World (576p)
 http://93.157.62.180/TringWorld/index.m3u8
-
 #EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania (540p) [Not 24/7]" group-title="(no group)",TV 7 Albania (540p) [Not 24/7]
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVApollon.al" tvg-name="TV Apollon (480p)"  group-title="(no group)",TV Apollon (480p)
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-
 #EXTINF:-1 tvg-id="TVDielli.al" tvg-name="TV Dielli (720p)"  group-title="(no group)",TV Dielli (720p)
 http://93.157.62.180/DielliTV/index.m3u8
-
 #EXTINF:-1 tvg-id="VPlus.al" tvg-name="V Plus (1080p)"  group-title="(no group)",V Plus (1080p)
 http://93.157.62.180/VizionPlus/index.m3u8
-
 #EXTINF:-1 tvg-id="ZjarrTelevizion.al" tvg-name="Zjarr Televizion (360p) [Not 24/7]" group-title="(no group)",Zjarr Televizion (360p) [Not 24/7]
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News (720p) [Not 24/7]" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="News",ABC News (720p) [Not 24/7]
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English (1080p)" group-title="News",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (480p)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News (576p)" group-title="News",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International Europe (720p)"  group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English (1080p)"   group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 #EXTINF:-1 tvg-id="EuronewsAlbania.fr" tvg-name="Euronews Albania (1080p) [Not 24/7]" group-title="News",Euronews Albania (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
-
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English (720p)" tvg-logo="https://i.postimg.cc/X7YYFZR2/euronews.png" group-title="News",Euronews English (720p)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English (1080p)" group-title="News",France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
 #EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 (392p) [Not 24/7]" 
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTNews.ru" tvg-name="RT News (1080p) [Not 24/7]" group-title="News",RT News (1080p) [Not 24/7]
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World (720p) [Not 24/7]" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang (576p) [Not 24/7]" group-title="Kids",Bang Bang (576p) [Not 24/7]
 http://93.157.62.180/BangBang/index.m3u8
-
 #EXTINF:-1 tvg-id="Cufo.al" tvg-name="Çufo (576p)"  group-title="Kids",Çufo (576p)
 http://93.157.62.180/Cufo/index.m3u8
-
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event (720p)" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe (720p)" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Europe (720p)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-
 #EXTINF:-1 tvg-id="MavTVSelect.us" tvg-name="MavTV Select (720p)"  group-title="Sports",MavTV Select (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV (1080p)"  group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
 #EXTINF:-1 tvg-id="MetalTV.ru" tvg-name="Metal TV (360p) [Not 24/7]"  group-title="Music",Metal TV (360p) [Not 24/7]
 https://v2.catcast.tv/content/33816/index.m3u8
-
 #EXTINF:-1 tvg-id="NTVEurope.bd" tvg-name="NTV Europe (720p) [Not 24/7]" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General",NTV Europe (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary (1080p)" group-title="Documentary",RT Documentary (1080p)
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-name="World Fashion Channel (1080p)" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8

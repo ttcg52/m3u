@@ -1,3 +1,7 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="7HD.al" tvg-name="7 HD (540p)" tvg-logo="" group-title="(no group)",7 HD (540p)
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh 1" tvg-logo="" group-title="(no group)",RTSH HD
+https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8

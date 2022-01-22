@@ -3,5 +3,33 @@
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh 1" tvg-logo="" group-title="(no group)",RTSH HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH 1
+https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH (CILESI CEL.)
 https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH
+https://tvlive.rtsh.dev/live/rtsh_3_ott/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH
+https://tvlive.rtsh.dev/live/rtsh_2_ott/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH 1 
+https://tvlive.rtsh.dev/live/rtsh_1_ott/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH LAJME
+https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH ShQiP 
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH PLUS
+https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8

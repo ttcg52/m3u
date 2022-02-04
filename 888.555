@@ -1,35 +1,90 @@
+#EXTM3U
+#EXTINF:-1,KLAN
+http://62.210.152.92:25461/kanale2/Ass/6
+#EXTINF:-1,Top Channel
+http://62.210.152.92:25461/kanale2/Ass/8
+#EXTINF:-1,Vizion Plus
+http://62.210.152.92:25461/kanale2/Ass/9
+#EXTINF:-1,RTSH 24
+http://62.210.152.92:25461/kanale2/Ass/10
+#EXTINF:-1,KLAN KOSOVA
+http://62.210.152.92:25461/kanale2/Ass/11
+#EXTINF:-1,KTV
+http://62.210.152.92:25461/kanale2/Ass/12
+#EXTINF:-1,21 RTV
+http://62.210.152.92:25461/kanale2/Ass/13
+#EXTINF:-1,DUKAGJINI TV
+http://62.210.152.92:25461/kanale2/Ass/14
+#EXTINF:-1,RTSH 1
+http://62.210.152.92:25461/kanale2/Ass/17
+#EXTINF:-1,X KIDS
+http://62.210.152.92:25461/kanale2/Ass/18
+#EXTINF:-1,BANG BANG 
+http://62.210.152.92:25461/kanale2/Ass/20
+#EXTINF:-1,HITS HD
+http://62.210.152.92:25461/kanale2/Ass/34
+#EXTINF:-1,GOLD 1
+http://62.210.152.92:25461/kanale2/Ass/35
+#EXTINF:-1,AKSION HD
+http://62.210.152.92:25461/kanale2/Ass/37
+#EXTINF:-1,premiere 1
+http://62.210.152.92:25461/kanale2/Ass/38
+#EXTINF:-1,premiere 2
+http://62.210.152.92:25461/kanale2/Ass/36
+#EXTINF:-1,premiere 3
+http://62.210.152.92:25461/kanale2/Ass/80
+#EXTINF:-1,premiere 4
+http://62.210.152.92:25461/kanale2/Ass/39
+#EXTINF:-1,extrem family
+http://62.210.152.92:25461/kanale2/Ass/40
+#EXTINF:-1,extrem thriller
+http://62.210.152.92:25461/kanale2/Ass/42
+#EXTINF:-1,gold 2
+http://62.210.152.92:25461/kanale2/Ass/43
+#EXTINF:-1,News 24
+http://62.210.152.92:25461/kanale2/Ass/45
+#EXTINF:-1,Report TV
+http://62.210.152.92:25461/kanale2/Ass/46
+#EXTINF:-1,RTK 1
+http://62.210.152.92:25461/kanale2/Ass/48
+#EXTINF:-1,abc News
+http://62.210.152.92:25461/kanale2/Ass/50
+#EXTINF:-1,Dielli TV  
+http://62.210.152.92:25461/kanale2/Ass/53
+#EXTINF:-1,Jolly HD 
+http://62.210.152.92:25461/kanale2/Ass/56
+#EXTINF:-1,3 Plus 
+http://62.210.152.92:25461/kanale2/Ass/57
+#EXTINF:-1,TR. WORLD
+http://62.210.152.92:25461/kanale2/Ass/66
+#EXTINF:-1,T7
+http://62.210.152.92:25461/kanale2/Ass/74
+#EXTINF:-1,Big Brother VIP 1
+http://62.210.152.92:25461/kanale2/Ass/76
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="7HD.al" tvg-name="7 HD (540p)" tvg-logo="" group-title="(no group)",7 HD (540p)
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH 1
 https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH (CILESI CEL.)
 https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH
 https://tvlive.rtsh.dev/live/rtsh_3_ott/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH
 https://tvlive.rtsh.dev/live/rtsh_2_ott/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH 1 
 https://tvlive.rtsh.dev/live/rtsh_1_ott/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH LAJME
 https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH ShQiP 
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FALAS RTSH",RTSH PLUS
 https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8

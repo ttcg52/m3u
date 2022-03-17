@@ -3,6 +3,8 @@
 http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/647.m3u8
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=10B21A4111C771A840753A473F19745D844A3EC8&profile=pass&checkedby:iptvcat.com
+#EXTINF:-1,Rete 4
+http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/665?checkedby:iptvcat.com
 #EXTINF:-1,IT: CANALE 5
 http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/648.m3u8
 #EXTINF:-1,IT: CINE 1 HD

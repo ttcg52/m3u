@@ -1,65 +1,43 @@
 #EXTM3U
-#EXTINF:-1,KLAN
-http://62.210.152.92:25461/kanale2/Ass/6
-#EXTINF:-1,Top Channel
-http://62.210.152.92:25461/kanale2/Ass/8
-#EXTINF:-1,Vizion Plus
-http://62.210.152.92:25461/kanale2/Ass/9
-#EXTINF:-1,RTSH 24
-http://62.210.152.92:25461/kanale2/Ass/10
-#EXTINF:-1,KLAN KOSOVA
-http://62.210.152.92:25461/kanale2/Ass/11
-#EXTINF:-1,KTV
-http://62.210.152.92:25461/kanale2/Ass/12
-#EXTINF:-1,21 RTV
-http://62.210.152.92:25461/kanale2/Ass/13
-#EXTINF:-1,DUKAGJINI TV
-http://62.210.152.92:25461/kanale2/Ass/14
-#EXTINF:-1,RTSH 1
-http://62.210.152.92:25461/kanale2/Ass/17
-#EXTINF:-1,X KIDS
-http://62.210.152.92:25461/kanale2/Ass/18
-#EXTINF:-1,BANG BANG 
-http://62.210.152.92:25461/kanale2/Ass/20
-#EXTINF:-1,HITS HD
-http://62.210.152.92:25461/kanale2/Ass/34
-#EXTINF:-1,GOLD 1
-http://62.210.152.92:25461/kanale2/Ass/35
-#EXTINF:-1,AKSION HD
-http://62.210.152.92:25461/kanale2/Ass/37
-#EXTINF:-1,premiere 1
-http://62.210.152.92:25461/kanale2/Ass/38
-#EXTINF:-1,premiere 2
-http://62.210.152.92:25461/kanale2/Ass/36
-#EXTINF:-1,premiere 3
-http://62.210.152.92:25461/kanale2/Ass/80
-#EXTINF:-1,premiere 4
-http://62.210.152.92:25461/kanale2/Ass/39
-#EXTINF:-1,extrem family
-http://62.210.152.92:25461/kanale2/Ass/40
-#EXTINF:-1,extrem thriller
-http://62.210.152.92:25461/kanale2/Ass/42
-#EXTINF:-1,gold 2
-http://62.210.152.92:25461/kanale2/Ass/43
-#EXTINF:-1,News 24
-http://62.210.152.92:25461/kanale2/Ass/45
-#EXTINF:-1,Report TV
-http://62.210.152.92:25461/kanale2/Ass/46
-#EXTINF:-1,RTK 1
-http://62.210.152.92:25461/kanale2/Ass/48
-#EXTINF:-1,abc News
-http://62.210.152.92:25461/kanale2/Ass/50
-#EXTINF:-1,Dielli TV  
-http://62.210.152.92:25461/kanale2/Ass/53
-#EXTINF:-1,Jolly HD 
-http://62.210.152.92:25461/kanale2/Ass/56
-#EXTINF:-1,3 Plus 
-http://62.210.152.92:25461/kanale2/Ass/57
-#EXTINF:-1,TR. WORLD
-http://62.210.152.92:25461/kanale2/Ass/66
-#EXTINF:-1,T7
-http://62.210.152.92:25461/kanale2/Ass/74
-#EXTINF:-1,Big Brother VIP 1
-http://62.210.152.92:25461/kanale2/Ass/76
+#EXTINF:-1,★«=【IT:  ITALIA 】=»★
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/647.m3u8
 #EXTINF:-1,Rai 1
 http://185.204.32.4:9981/stream/channelid/2078368351?ticket=10B21A4111C771A840753A473F19745D844A3EC8&profile=pass&checkedby:iptvcat.com
+#EXTINF:-1,IT: CANALE 5
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/648.m3u8
+#EXTINF:-1,IT: CINE 1 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/649.m3u8
+#EXTINF:-1,IT: CINE FAMILY
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/650.m3u8
+#EXTINF:-1,IT: DMAX
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/652.m3u8
+#EXTINF:-1,IT: ITALIA 1
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/654.m3u8
+#EXTINF:-1,IT: PREMIUM CRIME
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/657.m3u8
+#EXTINF:-1,IT: PRIMAFILA 1 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/658.m3u8
+#EXTINF:-1,IT: PRIMAFILA 2 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/659.m3u8
+#EXTINF:-1,IT: PRIMAFILA 3 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/660.m3u8
+#EXTINF:-1,IT: PRIMAFILA 5 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/661.m3u8
+#EXTINF:-1,IT: PRIMAFILA 6 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/662.m3u8
+#EXTINF:-1,IT: PRIMAFILA 7 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/663.m3u8
+#EXTINF:-1,IT: PRIMAFILA 8 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/664.m3u8
+#EXTINF:-1,IT: RAI 3
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/666.m3u8
+#EXTINF:-1,IT: RAI 5 HD
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/668.m3u8
+#EXTINF:-1,IT: RAI NEWS 24
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/671.m3u8
+#EXTINF:-1,IT: RAI YOYO
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/673.m3u8
+#EXTINF:-1,IT: RSI LA1
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/674.m3u8
+#EXTINF:-1,IT: Discovery Motor Trend
+http://main-url.glass-iptv.xyz:39512/live/@TITAN@IPTV@/mCuFdBhdBTH9/677.m3u8

@@ -1,0 +1,689 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] GENERAL #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| GENERAL",##### [UK] GENERAL #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577276
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BBC-1.png" group-title="|UK| GENERAL",UK - BBC 1 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577275
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BBC-1.png" group-title="|UK| GENERAL",UK - BBC 1 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577274
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK - BBC 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc2hd.png" group-title="|UK| GENERAL",UK - BBC 2 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577273
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK - BBC 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc2hd.png" group-title="|UK| GENERAL",UK - BBC 2 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577272
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC 3 CBBC UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc3.png" group-title="|UK| GENERAL",UK - BBC 3 CBBC UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577271
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC 3 CBBC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc3.png" group-title="|UK| GENERAL",UK - BBC 3 CBBC FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577270
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK - BBC 4 CBEEBIES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc4cbeebies.png" group-title="|UK| GENERAL",UK - BBC 4 CBEEBIES UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577269
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK - BBC 4 CBEEBIES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc4cbeebies.png" group-title="|UK| GENERAL",UK - BBC 4 CBEEBIES FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577268
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="UK - BBC SCOTLAND FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcscotland.png" group-title="|UK| GENERAL",UK - BBC SCOTLAND FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577267
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK - ITV 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/ITV-1.png" group-title="|UK| GENERAL",UK - ITV 1 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577266
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK - ITV 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/ITV-1.png" group-title="|UK| GENERAL",UK - ITV 1 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577265
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK - ITV 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv2hd.png" group-title="|UK| GENERAL",UK - ITV 2 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577264
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK - ITV 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv2hd.png" group-title="|UK| GENERAL",UK - ITV 2 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577263
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK - ITV 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv3hd.png" group-title="|UK| GENERAL",UK - ITV 3 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577262
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK - ITV 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv3hd.png" group-title="|UK| GENERAL",UK - ITV 3 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577261
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK - ITV 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv4hd.png" group-title="|UK| GENERAL",UK - ITV 4 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577260
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK - ITV 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv4hd.png" group-title="|UK| GENERAL",UK - ITV 4 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577259
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK - ITV BE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvbehd.png" group-title="|UK| GENERAL",UK - ITV BE UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577258
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK - CHANNEL 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel4hd.png" group-title="|UK| GENERAL",UK - CHANNEL 4 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577257
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK - CHANNEL 5 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel5hd.png" group-title="|UK| GENERAL",UK - CHANNEL 5 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577256
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK - E4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/e4hd.png" group-title="|UK| GENERAL",UK - E4 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577255
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK - CBBC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbbchd.png" group-title="|UK| GENERAL",UK - CBBC FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577254
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK - 4SEVEN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/4sevenhd.png" group-title="|UK| GENERAL",UK - 4SEVEN FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577253
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK - ALIBI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/alibihd.png" group-title="|UK| GENERAL",UK - ALIBI FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577252
+#EXTINF:-1 tvg-id="" tvg-name="UK - ALIBI +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/alibiplus1.png" group-title="|UK| GENERAL",UK - ALIBI +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577251
+#EXTINF:-1 tvg-id="SmithsonianChannel.uk" tvg-name="UK - SMITHSONIAN CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SMITHSONIAN-CHANNEL-HD.png" group-title="|UK| GENERAL",UK - SMITHSONIAN CHANNEL FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577250
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] GENERAL SD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| GENERAL",##### [UK] GENERAL SD #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577249
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc1.png" group-title="|UK| GENERAL",UK - BBC 1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577248
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK - BBC 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc2.png" group-title="|UK| GENERAL",UK - BBC 2
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577247
+#EXTINF:-1 tvg-id="UK| BBC 3" tvg-name="UK - BBC 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc3.png" group-title="|UK| GENERAL",UK - BBC 3
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577246
+#EXTINF:-1 tvg-id="UK| BBC 4" tvg-name="UK - BBC 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbc4.png" group-title="|UK| GENERAL",UK - BBC 4
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577245
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK - ITV 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv1hd.png" group-title="|UK| GENERAL",UK - ITV 1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577244
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK - ITV 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv2.png" group-title="|UK| GENERAL",UK - ITV 2
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577243
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV 2+1" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv2plus1.png" group-title="|UK| GENERAL",UK - ITV 2+1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577242
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK - ITV 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv3.png" group-title="|UK| GENERAL",UK - ITV 3
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577241
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV 3+1" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv3plus1.png" group-title="|UK| GENERAL",UK - ITV 3+1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577240
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK - ITV 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv4.png" group-title="|UK| GENERAL",UK - ITV 4
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577239
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV 4+1" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv4plus1.png" group-title="|UK| GENERAL",UK - ITV 4+1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577238
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK - ITV BE" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvbe.png" group-title="|UK| GENERAL",UK - ITV BE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577237
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV BE+1" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvbeplus1.png" group-title="|UK| GENERAL",UK - ITV BE+1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577236
+#EXTINF:-1 tvg-id="Live360.uk" tvg-name="UK - LIVE 360" tvg-logo="http://logo.protv.cc/picons-dino/logos/LIVE-360.png" group-title="|UK| GENERAL",UK - LIVE 360
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577232
+#EXTINF:-1 tvg-id="" tvg-name="UK - TALK TV HD" tvg-logo="http://logo.protv.cc/picons/logos/TALK-TV.jpeg" group-title="|UK| GENERAL",UK - TALK TV HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/811606
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="UK - CITV" tvg-logo="http://logo.protv.cc/picons-dino/logos/citvuk.png" group-title="|UK| GENERAL",UK - CITV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577233
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK - LONDON LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/londonlive.png" group-title="|UK| GENERAL",UK - LONDON LIVE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577231
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] COOKING #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| GENERAL",##### [UK] COOKING #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577207
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK - FOOD NETWORK" tvg-logo="http://logo.protv.cc/picons-dino/logos/foodnetwork.png" group-title="|UK| GENERAL",UK - FOOD NETWORK
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577206
+#EXTINF:-1 tvg-id="uk.Food Network +1" tvg-name="UK - FOOD NETWORK +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/foodnetworkplus1.png" group-title="|UK| GENERAL",UK - FOOD NETWORK +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577205
+#EXTINF:-1 tvg-id="uk.Good Food" tvg-name="UK - GOOD FOOD FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/goodfoodhd.png" group-title="|UK| GENERAL",UK - GOOD FOOD FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577204
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="UK - HOME" tvg-logo="http://logo.protv.cc/picons-dino/logos/home.png" group-title="|UK| GENERAL",UK - HOME
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577203
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] LOCALS #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| GENERAL",##### [UK] LOCALS #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577202
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="UK - BBC ALBA" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcalba.png" group-title="|UK| GENERAL",UK - BBC ALBA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577201
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="UK - BBC SCOTLAND UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcscotlandhd.png" group-title="|UK| GENERAL",UK - BBC SCOTLAND UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577200
+#EXTINF:-1 tvg-id="uk.BBC1 Cambridgeshire" tvg-name="UK - BBC ONE CAMBRIDGE" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbccambridge.jpeg" group-title="|UK| GENERAL",UK - BBC ONE CAMBRIDGE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577199
+#EXTINF:-1 tvg-id="" tvg-name="UK - ABC RALEIGH" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ABC.png" group-title="|UK| GENERAL",UK - ABC RALEIGH
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/699016
+#EXTINF:-1 tvg-id="uk.Channel 5+1" tvg-name="UK - CHANNEL 5 +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel5plus1.png" group-title="|UK| GENERAL",UK - CHANNEL 5 +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577198
+#EXTINF:-1 tvg-id="UK| BBC 1 CHANNEL ISLANDS" tvg-name="UK - BBC ONE CHANNEL ISLAND" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconehd.png" group-title="|UK| GENERAL",UK - BBC ONE CHANNEL ISLAND
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577197
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeeaste.png" group-title="|UK| GENERAL",UK - BBC ONE EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577196
+#EXTINF:-1 tvg-id="ukBBC1 East Midlands" tvg-name="UK - BBC ONE EAST MIDLANDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeeastmidlands.png" group-title="|UK| GENERAL",UK - BBC ONE EAST MIDLANDS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577195
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE EAST W" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeeastwest.png" group-title="|UK| GENERAL",UK - BBC ONE EAST W
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577194
+#EXTINF:-1 tvg-id="UK| BBC ONE NI" tvg-name="UK - BBC ONE NI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeni.png" group-title="|UK| GENERAL",UK - BBC ONE NI UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577193
+#EXTINF:-1 tvg-id="UK| BBC ONE NI" tvg-name="UK - BBC ONE NI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeni.png" group-title="|UK| GENERAL",UK - BBC ONE NI UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577192
+#EXTINF:-1 tvg-id="UK| BBC ONE NI" tvg-name="UK - BBC ONE NI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeni.png" group-title="|UK| GENERAL",UK - BBC ONE NI FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577191
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE NORTH EAST& CAM" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeeaste.png" group-title="|UK| GENERAL",UK - BBC ONE NORTH EAST& CAM
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577190
+#EXTINF:-1 tvg-id="uk.BBC1 N West" tvg-name="UK - BBC ONE NORTH WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconenorthwest.png" group-title="|UK| GENERAL",UK - BBC ONE NORTH WEST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577189
+#EXTINF:-1 tvg-id="uk.BBC1 Oxfordshire" tvg-name="UK - BBC ONE OXFORD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeoxford.png" group-title="|UK| GENERAL",UK - BBC ONE OXFORD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577188
+#EXTINF:-1 tvg-id="UK| BBC ONE SCOTLAND" tvg-name="UK - BBC ONE SCOT" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconescot.png" group-title="|UK| GENERAL",UK - BBC ONE SCOT
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577187
+#EXTINF:-1 tvg-id="UK| BBC ONE SCOTLAND" tvg-name="UK - BBC ONE SCOT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconescot.png" group-title="|UK| GENERAL",UK - BBC ONE SCOT UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577186
+#EXTINF:-1 tvg-id="UK| BBC ONE SCOTLAND" tvg-name="UK - BBC ONE SCOTLAND UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconescotland.png" group-title="|UK| GENERAL",UK - BBC ONE SCOTLAND UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577185
+#EXTINF:-1 tvg-id="UK| BBC ONE SCOTLAND" tvg-name="UK - BBC ONE SCOTLAND FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconescotland.png" group-title="|UK| GENERAL",UK - BBC ONE SCOTLAND FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577184
+#EXTINF:-1 tvg-id="uk.BBC1 S East" tvg-name="UK - BBC ONE SOUTH EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconesoutheast.png" group-title="|UK| GENERAL",UK - BBC ONE SOUTH EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577183
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE SOUTH WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconesouthwest.png" group-title="|UK| GENERAL",UK - BBC ONE SOUTH WEST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577182
+#EXTINF:-1 tvg-id="UK| BBC ONE WALES" tvg-name="UK - BBC ONE WALES" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconewales.png" group-title="|UK| GENERAL",UK - BBC ONE WALES
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577181
+#EXTINF:-1 tvg-id="UK| BBC ONE WALES" tvg-name="UK - BBC ONE WALES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconewales.png" group-title="|UK| GENERAL",UK - BBC ONE WALES UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577180
+#EXTINF:-1 tvg-id="UK| BBC ONE WALES" tvg-name="UK - BBC ONE WALES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconewales.png" group-title="|UK| GENERAL",UK - BBC ONE WALES FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577179
+#EXTINF:-1 tvg-id="uk.BBC1 West" tvg-name="UK - BBC ONE WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconewest.png" group-title="|UK| GENERAL",UK - BBC ONE WEST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577178
+#EXTINF:-1 tvg-id="BBCOneWestMidland.uk" tvg-name="UK - BBC ONE WEST MIDLANDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconewestmidlands.png" group-title="|UK| GENERAL",UK - BBC ONE WEST MIDLANDS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577177
+#EXTINF:-1 tvg-id="BBC1Yorkshire.uk" tvg-name="UK - BBC ONE YORKS" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeyorks.png" group-title="|UK| GENERAL",UK - BBC ONE YORKS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577176
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ONE YK LI" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconeykandli.png" group-title="|UK| GENERAL",UK - BBC ONE YK LI
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577175
+#EXTINF:-1 tvg-id="uk.BBC1 London" tvg-name="UK - BBC ONE LONDON" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconelondon.png" group-title="|UK| GENERAL",UK - BBC ONE LONDON
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577174
+#EXTINF:-1 tvg-id="UK| BBC TWO ENGLAND" tvg-name="UK - BBC TWO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbctwohd.png" group-title="|UK| GENERAL",UK - BBC TWO UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577173
+#EXTINF:-1 tvg-id="uk.BBC2 N Ireland" tvg-name="UK - BBC TWO NORTHERN IRELAND" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbctwoni.png" group-title="|UK| GENERAL",UK - BBC TWO NORTHERN IRELAND
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577172
+#EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="UK - BBC TWO WALES" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbctwowales.png" group-title="|UK| GENERAL",UK - BBC TWO WALES
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577171
+#EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="UK - BBC TWO WALES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbctwowalhd.png" group-title="|UK| GENERAL",UK - BBC TWO WALES UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577170
+#EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="UK - BBC TWO WALES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbctwowalhd.png" group-title="|UK| GENERAL",UK - BBC TWO WALES FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577169
+#EXTINF:-1 tvg-id="uk.BBC2 Scotland" tvg-name="UK - BBC TWO SCOTLAND" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbctwoscotland.png" group-title="|UK| GENERAL",UK - BBC TWO SCOTLAND
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577168
+#EXTINF:-1 tvg-id="BBCOneSouthEast.uk" tvg-name="UK - BBC ONE SOUTH EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbconesoutheast.png" group-title="|UK| GENERAL",UK - BBC ONE SOUTH EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577167
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 LONDON" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel4.png" group-title="|UK| GENERAL",UK - CHANNEL 4 LONDON
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577166
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 MIDLANDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel4.png" group-title="|UK| GENERAL",UK - CHANNEL 4 MIDLANDS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577165
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 NORTH" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel4.png" group-title="|UK| GENERAL",UK - CHANNEL 4 NORTH
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577164
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 SCOTLAND" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel4.png" group-title="|UK| GENERAL",UK - CHANNEL 4 SCOTLAND
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577163
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHANNEL 4 SOUTH & EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel4.png" group-title="|UK| GENERAL",UK - CHANNEL 4 SOUTH & EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577162
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV CENTRAL EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvcentraleast.png" group-title="|UK| GENERAL",UK - ITV CENTRAL EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577158
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV CENTRAL WEST" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvcentralwesthd.png" group-title="|UK| GENERAL",UK - ITV CENTRAL WEST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577157
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV GRANADA" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvgranada.png" group-title="|UK| GENERAL",UK - ITV GRANADA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577156
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV LONDON" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvlondon.png" group-title="|UK| GENERAL",UK - ITV LONDON
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577155
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV MERIDIAN EAST" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvmeridianeast.png" group-title="|UK| GENERAL",UK - ITV MERIDIAN EAST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577154
+#EXTINF:-1 tvg-id="ITVWales.uk" tvg-name="UK - ITV WALES" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvwales.png" group-title="|UK| GENERAL",UK - ITV WALES
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577150
+#EXTINF:-1 tvg-id="ITVWales.uk" tvg-name="UK - ITV WALES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvwaleshd.png" group-title="|UK| GENERAL",UK - ITV WALES UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577149
+#EXTINF:-1 tvg-id="ITVWales.uk" tvg-name="UK - ITV WALES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvwaleshd.png" group-title="|UK| GENERAL",UK - ITV WALES FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577148
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SCOTLAND #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| GENERAL",##### [UK] SCOTLAND #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577143
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV BORDER SCOTLAND" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvborderscotland.png" group-title="|UK| GENERAL",UK - ITV BORDER SCOTLAND
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577142
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] NEWS ######" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| NEWS",##### [UK] NEWS ######
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577230
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK - BBC NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcnewshd.png" group-title="|UK| NEWS",UK - BBC NEWS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577228
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK - BBC NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcnewshd.png" group-title="|UK| NEWS",UK - BBC NEWS FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577227
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="UK - BBC WORLD NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcworldnews.png" group-title="|UK| NEWS",UK - BBC WORLD NEWS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577226
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK - BBC PARLIAMENT" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcparliament.png" group-title="|UK| NEWS",UK - BBC PARLIAMENT
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577225
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ARABIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcarabic.png" group-title="|UK| NEWS",UK - BBC ARABIC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577224
+#EXTINF:-1 tvg-id="" tvg-name="UK - BLOOMBERG EU" tvg-logo="http://logo.protv.cc/picons-dino/logos/bloomberg.png" group-title="|UK| NEWS",UK - BLOOMBERG EU
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577223
+#EXTINF:-1 tvg-id="" tvg-name="UK - BLOOMBERG UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bloomberg.png" group-title="|UK| NEWS",UK - BLOOMBERG UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577222
+#EXTINF:-1 tvg-id="" tvg-name="UK - BLOOMBERG FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bloomberg.png" group-title="|UK| NEWS",UK - BLOOMBERG FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577221
+#EXTINF:-1 tvg-id="uk.CNN" tvg-name="UK - CNN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnnhd.png" group-title="|UK| NEWS",UK - CNN FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577220
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK - CNN INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnninternational.png" group-title="|UK| NEWS",UK - CNN INTERNATIONAL
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577219
+#EXTINF:-1 tvg-id="" tvg-name="UK - FRANCE 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/france24.png" group-title="|UK| NEWS",UK - FRANCE 24
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577218
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK - GB NEWS" tvg-logo="http://logo.protv.cc/picons/logos/GB-NEWS.jpeg" group-title="|UK| NEWS",UK - GB NEWS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/766339
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT AMERICA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RT-AMERICA.png" group-title="|UK| NEWS",UK - RT AMERICA UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577217
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT DOCUMENTRY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtdocumentary.png" group-title="|UK| NEWS",UK - RT DOCUMENTRY UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577216
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RT-NEWS-HD.png" group-title="|UK| NEWS",UK - RT NEWS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577215
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT UK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RT-NEWS-HD.png" group-title="|UK| NEWS",UK - RT UK UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577214
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK - SKY NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skynews.png" group-title="|UK| NEWS",UK - SKY NEWS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577229
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="UK - AL JAZEERA EN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/aljazeeraenglishhd.png" group-title="|UK| NEWS",UK - AL JAZEERA EN UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577213
+#EXTINF:-1 tvg-id="" tvg-name="UK - TRT WORLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/trtworld.png" group-title="|UK| NEWS",UK - TRT WORLD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577212
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK - CNBC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnbc.png" group-title="|UK| NEWS",UK - CNBC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577211
+#EXTINF:-1 tvg-id="" tvg-name="UK - I24NEWS EN" tvg-logo="http://logo.protv.cc/picons-dino/logos/i24newsenglish.png" group-title="|UK| NEWS",UK - I24NEWS EN
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577210
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="UK - EURONEWS EN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/euronewsenglish.png" group-title="|UK| NEWS",UK - EURONEWS EN UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577209
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="UK - EURONEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/euronewsenglish.png" group-title="|UK| NEWS",UK - EURONEWS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577208
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] ENTERTAINM. FHD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| ENTERTAINMENT",##### [UK] ENTERTAINM. FHD #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577527
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAYSTAR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DAYSTAR-HD.jpeg" group-title="|UK| ENTERTAINMENT",UK - DAYSTAR UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577526
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAYSTAR FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DAYSTAR-HD.jpeg" group-title="|UK| ENTERTAINMENT",UK - DAYSTAR FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577525
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK - EDEN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/edenhd.png" group-title="|UK| ENTERTAINMENT",UK - EDEN FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577524
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK - FOX FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxhd.png" group-title="|UK| ENTERTAINMENT",UK - FOX FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577523
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK - GOLD FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/gold.png" group-title="|UK| ENTERTAINMENT",UK - GOLD FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577522
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK - DAVE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/davehd.png" group-title="|UK| ENTERTAINMENT",UK - DAVE FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577521
+#EXTINF:-1 tvg-id="uk.Lifetime" tvg-name="UK - LIFETIME FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lifetime.jpg" group-title="|UK| ENTERTAINMENT",UK - LIFETIME FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577520
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="UK - E! ENTERTAINMENT FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eentertainmenthd.png" group-title="|UK| ENTERTAINMENT",UK - E! ENTERTAINMENT FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577519
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK - MORE 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/more4hd.png" group-title="|UK| ENTERTAINMENT",UK - MORE 4 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577518
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK - QUEST FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/questhd.png" group-title="|UK| ENTERTAINMENT",UK - QUEST FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577517
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK - UTV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/utv.png" group-title="|UK| ENTERTAINMENT",UK - UTV FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577516
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK - SKY NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skynewshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY NEWS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577515
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK - SKY ARTS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyartshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ARTS FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577513
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK - SKY ONE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyonehd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ONE FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577514
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK - SKY ATLANTIC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyatlantichd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ATLANTIC FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577512
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK - SKY WITNESS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skywitnesshd.png" group-title="|UK| ENTERTAINMENT",UK - SKY WITNESS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577511
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY MAX" tvg-logo="" group-title="|UK| ENTERTAINMENT",UK - SKY MAX
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/780566
+#EXTINF:-1 tvg-id="uk.Universal" tvg-name="UK - UNIVERSAL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/universalhd.png" group-title="|UK| ENTERTAINMENT",UK - UNIVERSAL FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577510
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK - TLC FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tlchd.png" group-title="|UK| ENTERTAINMENT",UK - TLC FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577509
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK - STV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/stvhd.png" group-title="|UK| ENTERTAINMENT",UK - STV FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577508
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK - STV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/stvhd.png" group-title="|UK| ENTERTAINMENT",UK - STV FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577507
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK - COMEDY CENTRAL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd.png" group-title="|UK| ENTERTAINMENT",UK - COMEDY CENTRAL FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577506
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK - COMEDY CENTRAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd.png" group-title="|UK| ENTERTAINMENT",UK - COMEDY CENTRAL
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577505
+#EXTINF:-1 tvg-id="" tvg-name="UK - COMEDY CENT XTRA+1" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd.png" group-title="|UK| ENTERTAINMENT",UK - COMEDY CENT XTRA+1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577504
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] ENTERTAINM. SD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| ENTERTAINMENT",##### [UK] ENTERTAINM. SD #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577503
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="UK - 5 SELECT" tvg-logo="http://logo.protv.cc/picons-dino/logos/5select.png" group-title="|UK| ENTERTAINMENT",UK - 5 SELECT
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577501
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK - 5 STAR" tvg-logo="http://logo.protv.cc/picons-dino/logos/5star.png" group-title="|UK| ENTERTAINMENT",UK - 5 STAR
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577500
+#EXTINF:-1 tvg-id="uk.5STAR +1" tvg-name="UK - 5 STAR+1" tvg-logo="http://logo.protv.cc/picons-dino/logos/5starplus1.png" group-title="|UK| ENTERTAINMENT",UK - 5 STAR+1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577499
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK - 5 USA" tvg-logo="http://logo.protv.cc/picons-dino/logos/5usa.png" group-title="|UK| ENTERTAINMENT",UK - 5 USA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577498
+#EXTINF:-1 tvg-id="uk.5 USA +1" tvg-name="UK - 5 USA +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/5usaplus1.png" group-title="|UK| ENTERTAINMENT",UK - 5 USA +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577497
+#EXTINF:-1 tvg-id="" tvg-name="UK - 5 SPIKE" tvg-logo="http://logo.protv.cc/picons-dino/logos/5spike.png" group-title="|UK| ENTERTAINMENT",UK - 5 SPIKE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577496
+#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="UK - GEMS TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/gemstv.png" group-title="|UK| ENTERTAINMENT",UK - GEMS TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577495
+#EXTINF:-1 tvg-id="" tvg-name="UK - ID +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/idplus1.png" group-title="|UK| ENTERTAINMENT",UK - ID +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577494
+#EXTINF:-1 tvg-id="" tvg-name="UK - IDEAL EXTRA" tvg-logo="http://logo.protv.cc/picons-dino/logos/idealextra.png" group-title="|UK| ENTERTAINMENT",UK - IDEAL EXTRA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577493
+#EXTINF:-1 tvg-id="JMLDirect.uk" tvg-name="UK - JML DIRECT" tvg-logo="http://logo.protv.cc/picons-dino/logos/jmldirect.png" group-title="|UK| ENTERTAINMENT",UK - JML DIRECT
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577492
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="UK - KERRANG" tvg-logo="http://logo.protv.cc/picons-dino/logos/kerrang.png" group-title="|UK| ENTERTAINMENT",UK - KERRANG
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577491
+#EXTINF:-1 tvg-id="BestDirect.uk" tvg-name="UK - BEST DIRECT" tvg-logo="http://logo.protv.cc/picons-dino/logos/bestdirect.png" group-title="|UK| ENTERTAINMENT",UK - BEST DIRECT
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577488
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="UK - BLAZE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/blaze.png" group-title="|UK| ENTERTAINMENT",UK - BLAZE FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577486
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK - CBS DRAMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbsdrama.png" group-title="|UK| ENTERTAINMENT",UK - CBS DRAMA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577485
+#EXTINF:-1 tvg-id="CBSJustice.uk" tvg-name="UK - CBS JUSTICE" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbsjustice.png" group-title="|UK| ENTERTAINMENT",UK - CBS JUSTICE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577484
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK - CBS REALITY" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbsreality.png" group-title="|UK| ENTERTAINMENT",UK - CBS REALITY
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577483
+#EXTINF:-1 tvg-id="uk.CBS Reality+1" tvg-name="UK - CBS REALITY +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbsrealityplus1.png" group-title="|UK| ENTERTAINMENT",UK - CBS REALITY +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577482
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK - CHALLENGE" tvg-logo="http://logo.protv.cc/picons-dino/logos/challenge.png" group-title="|UK| ENTERTAINMENT",UK - CHALLENGE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577481
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK - DAVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/dave.png" group-title="|UK| ENTERTAINMENT",UK - DAVE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577480
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="UK - DMAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/dmax.png" group-title="|UK| ENTERTAINMENT",UK - DMAX
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577479
+#EXTINF:-1 tvg-id="uk.DMAX+1" tvg-name="UK - DMAX +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/dmaxplus1.png" group-title="|UK| ENTERTAINMENT",UK - DMAX +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577478
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="UK - DRAMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/drama.png" group-title="|UK| ENTERTAINMENT",UK - DRAMA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577477
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK - E4" tvg-logo="http://logo.protv.cc/picons-dino/logos/e4uk.png" group-title="|UK| ENTERTAINMENT",UK - E4
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577476
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK - EDEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/eden.png" group-title="|UK| ENTERTAINMENT",UK - EDEN
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577475
+#EXTINF:-1 tvg-id="" tvg-name="UK - EDEN +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/edenplus1.png" group-title="|UK| ENTERTAINMENT",UK - EDEN +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577474
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK - FOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/fox.png" group-title="|UK| ENTERTAINMENT",UK - FOX
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577473
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/goldplus1.png" group-title="|UK| ENTERTAINMENT",UK - GOLD +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577472
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK - MORE4" tvg-logo="http://logo.protv.cc/picons-dino/logos/more4.png" group-title="|UK| ENTERTAINMENT",UK - MORE4
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577471
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="UK - PBS AMERICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/pbsamerica.png" group-title="|UK| ENTERTAINMENT",UK - PBS AMERICA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577470
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK - PICK TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/picktv.png" group-title="|UK| ENTERTAINMENT",UK - PICK TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577469
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK - SKY ONE" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyonehd.png" group-title="|UK| ENTERTAINMENT",UK - SKY ONE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577468
+#EXTINF:-1 tvg-id="uk.Sky2" tvg-name="UK - SKY TWO" tvg-logo="http://logo.protv.cc/picons-dino/logos/skytwo.png" group-title="|UK| ENTERTAINMENT",UK - SKY TWO
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577467
+#EXTINF:-1 tvg-id="CraftExtra.uk" tvg-name="UK - CRAFT EXTRA" tvg-logo="http://logo.protv.cc/picons-dino/logos/craftextra.png" group-title="|UK| ENTERTAINMENT",UK - CRAFT EXTRA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577466
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="UK - QVC UK." tvg-logo="http://logo.protv.cc/picons-dino/logos/QVC-HD.png" group-title="|UK| ENTERTAINMENT",UK - QVC UK.
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577465
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="UK - QVC BEAUTY" tvg-logo="http://logo.protv.cc/picons-dino/logos/qvcbeauty.png" group-title="|UK| ENTERTAINMENT",UK - QVC BEAUTY
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577464
+#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="UK - QVC STYLE" tvg-logo="http://logo.protv.cc/picons-dino/logos/qvcstyle.png" group-title="|UK| ENTERTAINMENT",UK - QVC STYLE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577463
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="UK - QVC EXTRA" tvg-logo="http://logo.protv.cc/picons-dino/logos/qvcextra.png" group-title="|UK| ENTERTAINMENT",UK - QVC EXTRA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577462
+#EXTINF:-1 tvg-id="uk.QUEST+1" tvg-name="UK - QUEST +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/questplus1.png" group-title="|UK| ENTERTAINMENT",UK - QUEST +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577461
+#EXTINF:-1 tvg-id="uk.Quest Red+1" tvg-name="UK - QUEST RED +1" tvg-logo="http://logo.protv.cc/picons-dino/logos/questredplus1.png" group-title="|UK| ENTERTAINMENT",UK - QUEST RED +1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577460
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK - REALLY" tvg-logo="http://logo.protv.cc/picons-dino/logos/really.png" group-title="|UK| ENTERTAINMENT",UK - REALLY
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577459
+#EXTINF:-1 tvg-id="" tvg-name="UK - SONY LIFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/laz.sony.png" group-title="|UK| ENTERTAINMENT",UK - SONY LIFE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577457
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK - YESTERDAY" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesterday.png" group-title="|UK| ENTERTAINMENT",UK - YESTERDAY
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577456
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SPORTS UHD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| SPORTS",##### [UK] SPORTS UHD #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/578002
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENTS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577997
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SKY-SPORTS-BOX-OFFICE.png" group-title="|UK| SPORTS",UK - SKY SPORTS BOX OFFICE HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/767347
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577996
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577995
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577994
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577993
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577992
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577991
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="|UK| SPORTS",UK - SKY SPORTS F1 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577990
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577989
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577988
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577987
+#EXTINF:-1 tvg-id="uk.867 BT Sport 1 HD" tvg-name="UK - BT SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport1hd.png" group-title="|UK| SPORTS",UK - BT SPORTS 1 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/578001
+#EXTINF:-1 tvg-id="uk.868 BT Sport 2 HD" tvg-name="UK - BT SPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport2hd.png" group-title="|UK| SPORTS",UK - BT SPORTS 2 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/578000
+#EXTINF:-1 tvg-id="uk.869 BT Sport 3 HD" tvg-name="UK - BT SPORTS 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport3hd.png" group-title="|UK| SPORTS",UK - BT SPORTS 3 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577999
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 4 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/782732
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 5 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774608
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 5 HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774607
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 5" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 5
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774606
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 6" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 6
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774605
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 7" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 7
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774604
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 8" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 8
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774603
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 9" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 9
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774602
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORTS 10" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" group-title="|UK| SPORTS",UK - BT SPORTS 10
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/774601
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT SPORT ULTIMATE" tvg-logo="http://logo.protv.cc/picons/logos/BT-SPORT-ULTIMATE.png" group-title="|UK| SPORTS",UK - BT SPORT ULTIMATE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/804331
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BT-BOX-OFFICE.png" group-title="|UK| SPORTS",UK - BT BOX OFFICE HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/783987
+#EXTINF:-1 tvg-id="uk.872 BTSpt//ESPNHD" tvg-name="UK - BT SPORTS ESPN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportespnhd.png" group-title="|UK| SPORTS",UK - BT SPORTS ESPN UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577998
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-title="|UK| SPORTS",UK - SUPERSPORTS 1 HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/766852
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-title="|UK| SPORTS",UK - SUPERSPORTS 2 HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/766853
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport3.png" group-title="|UK| SPORTS",UK - SUPERSPORTS 3 HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/766854
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-title="|UK| SPORTS",UK - SUPERSPORTS 4 HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/766855
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="UK - FREE SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/freesportshd.png" group-title="|UK| SPORTS",UK - FREE SPORTS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577986
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577985
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2hd.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577984
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577983
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - PREMIER SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports1hd.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 1 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577982
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - PREMIER SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports2hd.png" group-title="|UK| SPORTS",UK - PREMIER SPORT 2 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577981
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHELSEA TV UHD [LIVE ON MATCHES]" tvg-logo="http://logo.protv.cc/picons-dino/logos/chelseatvhd.png" group-title="|UK| SPORTS",UK - CHELSEA TV UHD [LIVE ON MATCHES]
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577980
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK]  SKY SPORTS FHD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| SPORTS",##### [UK]  SKY SPORTS FHD #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577979
+#EXTINF:-1 tvg-id="" tvg-name="UK - RANGERS TV LIVE EVENT" tvg-logo="http://logo.protv.cc/picons-dino/logos/RANGERS-TV.png" group-title="|UK| SPORTS",UK - RANGERS TV LIVE EVENT
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/755223
+#EXTINF:-1 tvg-id="" tvg-name="UK - CELTIC TV" tvg-logo="http://logo.protv.cc/picons/logos/CELTIC.png" group-title="|UK| SPORTS",UK - CELTIC TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/759746
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577978
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577977
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577976
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577975
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577974
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577973
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="|UK| SPORTS",UK - SKY SPORTS F1 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577972
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577971
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577970
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577969
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577968
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS ACTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/skysportsactionhd.png" group-title="|UK| SPORTS",UK - SKY SPORTS ACTION FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/726827
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK - BT SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport1hd.png" group-title="|UK| SPORTS",UK - BT SPORTS 1 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577967
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK - BT SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport2hd.png" group-title="|UK| SPORTS",UK - BT SPORTS 2 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577966
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK - BT SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport3hd.png" group-title="|UK| SPORTS",UK - BT SPORTS 3 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577965
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK - BT SPORTS ESPN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportespnhd.png" group-title="|UK| SPORTS",UK - BT SPORTS ESPN FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577964
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577963
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2hd.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577962
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577961
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - PREMIER SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports1hd.png" group-title="|UK| SPORTS",UK - PREMIER SPORT 1 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577960
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - PREMIER SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports2hd.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 2 FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577959
+#EXTINF:-1 tvg-id="" tvg-name="UK - MUTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/mutv.png" group-title="|UK| SPORTS",UK - MUTV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/754447
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK - RACING UK FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/racinguk.png" group-title="|UK| SPORTS",UK - RACING UK FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577958
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK - BOXNATION FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/boxnationhd.png" group-title="|UK| SPORTS",UK - BOXNATION FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577957
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK - BOXNATION" tvg-logo="http://logo.protv.cc/picons-dino/logos/boxnation.png" group-title="|UK| SPORTS",UK - BOXNATION
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577956
+#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK - LFC TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/lfctv.png" group-title="|UK| SPORTS",UK - LFC TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577953
+#EXTINF:-1 tvg-id="" tvg-name="UK - MAN UNITED FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/manchesterunitedtv.png" group-title="|UK| SPORTS",UK - MAN UNITED FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577952
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="UK - FREE SPORTS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/freesportshd.png" group-title="|UK| SPORTS",UK - FREE SPORTS FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577951
+#EXTINF:-1 tvg-id="" tvg-name="UK - RMTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/RMTV.jpg" group-title="|UK| SPORTS",UK - RMTV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577950
+#EXTINF:-1 tvg-id="" tvg-name="UK - WWE LIVE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WWE.png" group-title="|UK| SPORTS",UK - WWE LIVE FHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577949
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SKY SPORTS SD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| SPORTS",##### [UK] SKY SPORTS SD #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577948
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS BOX OFFICE" tvg-logo="http://logo.protv.cc/picons-dino/logos/SKY-SPORTS-BOX-OFFICE.png" group-title="|UK| SPORTS",UK - SKY SPORTS BOX OFFICE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/767348
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577947
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PREMIER LEAGUE" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportspremierleague.png" group-title="|UK| SPORTS",UK - SKY SPORTS PREMIER LEAGUE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577946
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577945
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577944
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577943
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS F1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577942
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577941
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577940
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577939
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577938
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577937
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS EVENTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="|UK| SPORTS",UK - SUPERSPORTS EVENTS UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/577935
+#EXTINF:-1 tvg-id="" tvg-name="#####  [UK]  EPL #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| EPL SOCCER",#####  [UK]  EPL #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/766094
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL LEEDS UTD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/800px-Leeds_United_F.C._logo.svg.png" group-title="|UK| EPL SOCCER",UK - EPL LEEDS UTD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764325
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL WEST HAM" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png" group-title="|UK| EPL SOCCER",UK - EPL WEST HAM
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764323
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL WOLVERGAMPTON WANDERERS" tvg-logo="https://seeklogo.com/images/W/wolverhampton-wanderers-fc-logo-20C56B0ADC-seeklogo.com.png" group-title="|UK| EPL SOCCER",UK - EPL WOLVERGAMPTON WANDERERS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764324
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL TOTTENHAM" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/6/6d/Tottenham_Hotspur.png" group-title="|UK| EPL SOCCER",UK - EPL TOTTENHAM
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764322
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL SOUTHAMPTON" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ea.png" group-title="|UK| EPL SOCCER",UK - EPL SOUTHAMPTON
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764321
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL NOTTINGHAM FOREST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Nottingham_Forest_logo.png" group-title="|UK| EPL SOCCER",UK - EPL NOTTINGHAM FOREST
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764320
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL NEWCASTLE UTD" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/2/25/Newcastle_United_Logo.png" group-title="|UK| EPL SOCCER",UK - EPL NEWCASTLE UTD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764319
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL MANCHESTER UTD" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png" group-title="|UK| EPL SOCCER",UK - EPL MANCHESTER UTD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764318
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL MANCHESTER CITY" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/e/eb/Manchester_City_FC_badge.svg/1024px-Manchester_City_FC_badge.svg.png" group-title="|UK| EPL SOCCER",UK - EPL MANCHESTER CITY
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764317
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL LIVERPOOL" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/b/bd/Liverpool_FC.png" group-title="|UK| EPL SOCCER",UK - EPL LIVERPOOL
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764316
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL LEICESTER" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/a/ab/Leicester_City_crest.png" group-title="|UK| EPL SOCCER",UK - EPL LEICESTER
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764315
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL FULHAM" tvg-logo="http://logo.protv.cc/picons/logos/EPL-FULHAM.png" group-title="|UK| EPL SOCCER",UK - EPL FULHAM
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764314
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL EVERTON" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png" group-title="|UK| EPL SOCCER",UK - EPL EVERTON
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764313
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL CRYSTAL PALACE" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/c/c1/Crystal_Palace_FC_logo.png" group-title="|UK| EPL SOCCER",UK - EPL CRYSTAL PALACE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764312
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL CHELSEA" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/c/cc/Chelsea_FC.svg/2048px-Chelsea_FC.svg.png" group-title="|UK| EPL SOCCER",UK - EPL CHELSEA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764311
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL BRIGHTON" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png" group-title="|UK| EPL SOCCER",UK - EPL BRIGHTON
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764310
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL BRENTFORD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png" group-title="|UK| EPL SOCCER",UK - EPL BRENTFORD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764309
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL AFC BOURNEMOUTH" tvg-logo="https://iconape.com/wp-content/png_logo_vector/afc-bournemouth-logo.png" group-title="|UK| EPL SOCCER",UK - EPL AFC BOURNEMOUTH
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764308
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL ASTON VILLA" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c4e4.png" group-title="|UK| EPL SOCCER",UK - EPL ASTON VILLA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764307
+#EXTINF:-1 tvg-id="" tvg-name="UK - EPL ARSENAL" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/8/82/Arsenal_FC.png" group-title="|UK| EPL SOCCER",UK - EPL ARSENAL
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/764306
+#EXTINF:-1 tvg-id="" tvg-name="##### EFL CHAMPIONSHIP #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| EFL SOCCER",##### EFL CHAMPIONSHIP #####
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761952
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : BLACKPOOL FC" tvg-logo="http://logo.protv.cc/picons/logos/BLACKPOOL-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : BLACKPOOL FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761950
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : BLACKBURN ROVERS FC" tvg-logo="http://logo.protv.cc/picons/logos/BLACKBURN-ROVERS-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : BLACKBURN ROVERS FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761951
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : BRISTOL CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/BRISTOL-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : BRISTOL CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761949
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : BURNLEY FC" tvg-logo="http://logo.protv.cc/picons/logos/BURNLEY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : BURNLEY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761948
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : CARDIFF CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/CARDIFF-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : CARDIFF CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761947
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : HULL CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/HULL-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : HULL CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761946
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : LUTON TOWN FC" tvg-logo="http://logo.protv.cc/picons/logos/LUTON-TOWN-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : LUTON TOWN FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761945
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : MIDDLESBROUGH FC" tvg-logo="http://logo.protv.cc/picons/logos/MIDDLESBROUGH-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : MIDDLESBROUGH FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761944
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : MILLWALL FC" tvg-logo="http://logo.protv.cc/picons/logos/MILLWALL-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : MILLWALL FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761943
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : PRESTON NORTH END FC" tvg-logo="http://logo.protv.cc/picons/logos/PRESTON-NORTH-END-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : PRESTON NORTH END FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761942
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : HUDDERSFIELD TOWN FC" tvg-logo="http://logo.protv.cc/picons/logos/HUDDERSFIELD-TOWN-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : HUDDERSFIELD TOWN FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761941
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : COVENTRY CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/COVENTRY-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : COVENTRY CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761940
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : ROTHERHAM UNITED FC" tvg-logo="http://logo.protv.cc/picons/logos/ROTHERHAM-UNITED-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : ROTHERHAM UNITED FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761939
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : WATFORD FC" tvg-logo="http://logo.protv.cc/picons/logos/WATFORD-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : WATFORD FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761938
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : WEST BROMWICH ALBION FC" tvg-logo="http://logo.protv.cc/picons/logos/WEST-BROMWICH-ALBION-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : WEST BROMWICH ALBION FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761937
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : NORWICH CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/NORWICH-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : NORWICH CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761936
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : QPR FC" tvg-logo="http://logo.protv.cc/picons/logos/QPR-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : QPR FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761935
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : READING FC" tvg-logo="http://logo.protv.cc/picons/logos/READING-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : READING FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761934
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : SHEFFIELD UNITED FC" tvg-logo="http://logo.protv.cc/picons/logos/SHEFFIELD-UNITED-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : SHEFFIELD UNITED FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761933
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : STOKE CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/STOKE-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : STOKE CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761932
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : SUNDERLAND AFC" tvg-logo="http://logo.protv.cc/picons/logos/SUNDERLAND-AFC.png" group-title="|UK| EFL SOCCER",UK - EFL : SUNDERLAND AFC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761931
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : SWANSEA CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/SWANSEA-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : SWANSEA CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761930
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : WIGAN ATHLETIC FC" tvg-logo="http://logo.protv.cc/picons/logos/WIGAN-ATHLETIC-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : WIGAN ATHLETIC FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761929
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : BIRMINGHAM FC" tvg-logo="http://logo.protv.cc/picons/logos/BIRMINGHAM-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : BIRMINGHAM FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/761928
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : WALSALL FC" tvg-logo="http://logo.protv.cc/picons/logos/WALSALL-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : WALSALL FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828170
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : AFC WIMBLEDON FC" tvg-logo="http://logo.protv.cc/picons/logos/AFC-WIMBLEDON-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : AFC WIMBLEDON FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828169
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : BRADFORD CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/BRADFORD-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : BRADFORD CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828168
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : CARLISLE UNITED FC" tvg-logo="http://logo.protv.cc/picons/logos/CARLISLE-UNITED-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : CARLISLE UNITED FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828167
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : COLCHESTER UNITED FC" tvg-logo="http://logo.protv.cc/picons/logos/COLCHESTER-UNITED-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : COLCHESTER UNITED FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828166
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : CRAWLEY TOWN FC" tvg-logo="http://logo.protv.cc/picons/logos/CRAWLEY-TOWN-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : CRAWLEY TOWN FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828165
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : CREWE ALEXANDRA FC" tvg-logo="http://logo.protv.cc/picons/logos/CREWE-ALEXANDRA-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : CREWE ALEXANDRA FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828164
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : DONCASTER ROVERS FC" tvg-logo="http://logo.protv.cc/picons/logos/DONCASTER-ROVERS-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : DONCASTER ROVERS FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828163
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : GILLINGHAM FC" tvg-logo="http://logo.protv.cc/picons/logos/GILLINGHAM-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : GILLINGHAM FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828162
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : GRIMSBY TOWN" tvg-logo="http://logo.protv.cc/picons/logos/GRIMSBY-TOWN.png" group-title="|UK| EFL SOCCER",UK - EFL : GRIMSBY TOWN
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828161
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : HARROGATE TOWN FC" tvg-logo="http://logo.protv.cc/picons/logos/HARROGATE-TOWN-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : HARROGATE TOWN FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828160
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : HARTLEPOOL UNITED FC" tvg-logo="http://logo.protv.cc/picons/logos/HARTLEPOOL-UNITED-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : HARTLEPOOL UNITED FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828159
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : LEYTON ORIENT FC" tvg-logo="http://logo.protv.cc/picons/logos/LEYTON-ORIENT-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : LEYTON ORIENT FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828158
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : MANSFIELD TOWN FC" tvg-logo="http://logo.protv.cc/picons/logos/MANSFIELD-TOWN-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : MANSFIELD TOWN FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828157
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : NEWPORT COUNTY FC" tvg-logo="http://logo.protv.cc/picons/logos/NEWPORT-COUNTY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : NEWPORT COUNTY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828156
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : NORTHAMPTON TOWN FC" tvg-logo="http://logo.protv.cc/picons/logos/NORTHAMPTON-TOWN-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : NORTHAMPTON TOWN FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828155
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : ROCHDALE FC" tvg-logo="http://logo.protv.cc/picons/logos/ROCHDALE-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : ROCHDALE FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828154
+#EXTINF:-1 tvg-id="" tvg-name="UK - EFL : SALFORD CITY FC" tvg-logo="http://logo.protv.cc/picons/logos/SALFORD-CITY-FC.png" group-title="|UK| EFL SOCCER",UK - EFL : SALFORD CITY FC
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/828153

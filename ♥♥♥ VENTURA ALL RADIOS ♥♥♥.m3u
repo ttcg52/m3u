@@ -1,0 +1,17 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Suprafive Music" tvg-logo="" group-title="VENTURA",24/7 Suprafive Music
+https://vocal.ventura.radio/listen/suprafivemusic/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura HYBRID Radio by Tommy Riverra" tvg-logo="" group-title="VENTURA",Ventura HYBRID Radio by Tommy Riverra
+https://vocal.ventura.radio/listen/ventura_hybrid/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura MASH - 24/7 All Style Radio" tvg-logo="" group-title="VENTURA",Ventura MASH - 24/7 All Style Radio
+https://vocal.ventura.radio/listen/d33b_radio_all/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura Radio - CLASSIC Vocal Deep House & Nu Disco Music for Your Business" tvg-logo="" group-title="VENTURA",Ventura Radio - CLASSIC Vocal Deep House & Nu Disco Music for Your Business
+https://vocal.ventura.radio/listen/d33b.house_-_top_all_times/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura Radio - CLUB - New & Exclusive Club Music for Your Business" tvg-logo="" group-title="VENTURA",Ventura Radio - CLUB - New & Exclusive Club Music for Your Business
+https://vocal.ventura.radio/listen/d33b.house_-_247_new__exclusive_club_music/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura Radio - DEEP Vocal House & Nu Disco for Your Business" tvg-logo="" group-title="VENTURA",Ventura Radio - DEEP Vocal House & Nu Disco for Your Business
+https://vocal.ventura.radio/listen/d33b.house_-_247_deep_vocal_house/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura Radio - PROGRESSIVE House Music for Your Business" tvg-logo="" group-title="VENTURA",Ventura Radio - PROGRESSIVE House Music for Your Business
+https://vocal.ventura.radio/listen/d33b.house_-_247_progressive_house/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura Radio - TECH House Music for Your Business" tvg-logo="" group-title="VENTURA",Ventura Radio - TECH House Music for Your Business
+https://vocal.ventura.radio/listen/ventura-tech/radio.mp3

@@ -1,0 +1,119 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="ALB - BIG BROTHER ALBANIA 1" tvg-logo="http://logo.protv.cc/picons/logos/bigbrother.png" group-title="|ALB| GENERAL",ALB - BIG BROTHER ALBANIA 1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/827921
+#EXTINF:-1 tvg-id="" tvg-name="ALB - BIG BROTHER ALBANIA 2" tvg-logo="http://logo.protv.cc/picons/logos/bigbrother.png" group-title="|ALB| GENERAL",ALB - BIG BROTHER ALBANIA 2
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/827920
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="ALB - TOP CHANNEL 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/topchannel.png" group-title="|ALB| GENERAL",ALB - TOP CHANNEL 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/261954
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="ALB - TOP CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/topchannel.png" group-title="|ALB| GENERAL",ALB - TOP CHANNEL UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/261955
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="ALB - TV KLAN 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/klanhd.png" group-title="|ALB| GENERAL",ALB - TV KLAN 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/261956
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM AKSION" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-AKSION.jpeg" group-title="|ALB| MOVIES",ALB - FILM AKSION
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM AUTOR" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-TV.png" group-title="|ALB| MOVIES",ALB - FILM AUTOR
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM DRAMË" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-DRAME.png" group-title="|ALB| MOVIES",ALB - FILM DRAMË
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM FAMILY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-TV.png" group-title="|ALB| MOVIES",ALB - FILM FAMILY UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM HITS" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-HITS.png" group-title="|ALB| MOVIES",ALB - FILM HITS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM KOMEDI" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-KOMEDI.png" group-title="|ALB| MOVIES",ALB - FILM KOMEDI
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM THRILLER" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-THRILLER.png" group-title="|ALB| MOVIES",ALB - FILM THRILLER
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - DIGI GOLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIGI-GOLD.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/719605
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - DIGI GOLD 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIGI-GOLD-1.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 1
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/719604
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - DIGI GOLD 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIGI-GOLD-2.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 2
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/719603
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - DIGI GOLD 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIGI-GOLD-3.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 3
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/719602
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - DIGI GOLD 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIGI-GOLD-4.png" group-title="|ALB| MOVIES",ALB - DIGI GOLD 4
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/719601
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING SUPER 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-SUPER.jpeg" group-title="|ALB| MOVIES",ALB - TRING SUPER 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING ACTION" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-ACTION.jpeg" group-title="|ALB| MOVIES",ALB - TRING ACTION
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING COMEDY" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-COMEDY.jpeg" group-title="|ALB| MOVIES",ALB - TRING COMEDY
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING FANTASY" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-FANTASY.jpeg" group-title="|ALB| MOVIES",ALB - TRING FANTASY
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING SHQIP" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-SHQIP.jpeg" group-title="|ALB| MOVIES",ALB - TRING SHQIP
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING LIFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-LIFE.jpeg" group-title="|ALB| MOVIES",ALB - TRING LIFE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262044
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING SMILE" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-SMILE.jpg" group-title="|ALB| MOVIES",ALB - TRING SMILE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING JOLLY 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-JOLLY-HD.png" group-title="|ALB| MOVIES",ALB - TRING JOLLY 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING 3+" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRING-3-HD.png" group-title="|ALB| MOVIES",ALB - TRING 3+
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262047
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING CLASSIC HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING CLASSIC HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/719599
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TRING NOVELAS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tring.png" group-title="|ALB| MOVIES",ALB - TRING NOVELAS HD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/719600
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - STAR PLUS SHKODËR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/starplushd.png" group-title="|ALB| GENERAL",ALB - STAR PLUS SHKODËR UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/261989
+#EXTINF:-1 tvg-id="EXPHistori.al" tvg-name="ALB - EXPLORER HISTORI" tvg-logo="http://logo.protv.cc/picons-dino/logos/HISTORY--.png" group-title="|ALB| DOCUMENTARY",ALB - EXPLORER HISTORI
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262176
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - EXPLORER NATYRA" tvg-logo="http://logo.protv.cc/picons-dino/logos/EXPLORER-NATYRA.png" group-title="|ALB| DOCUMENTARY",ALB - EXPLORER NATYRA
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262177
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - EXPLORER SHKENCE" tvg-logo="http://logo.protv.cc/picons-dino/logos/EXPLORER-SHKENCE.png" group-title="|ALB| DOCUMENTARY",ALB - EXPLORER SHKENCE
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262178
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - BLUE SKY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/BLUE-SKY.jpeg" group-title="|ALB| MUSIC",ALB - BLUE SKY TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/261996
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TV ZJARR" tvg-logo="http://logo.protv.cc/picons-dino/logos/TV-ZJARR.jpeg" group-title="|ALB| MUSIC",ALB - TV ZJARR
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - MY MUSIC UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MY-MUSIC.png" group-title="|ALB| MUSIC",ALB - MY MUSIC UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - MUSIC X" tvg-logo="http://logo.protv.cc/picons-dino/logos/MUSIC-X.jpg" group-title="|ALB| MUSIC",ALB - MUSIC X
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - MUSIC: FOLK PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/folkplus.png" group-title="|ALB| MUSIC",ALB - MUSIC: FOLK PLUS
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - MUSIC: STV FOLK" tvg-logo="http://logo.protv.cc/picons-dino/logos/STV-FOLK.png" group-title="|ALB| MUSIC",ALB - MUSIC: STV FOLK
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - MUSIC: SUPERSONIC TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersonictv.png" group-title="|ALB| MUSIC",ALB - MUSIC: SUPERSONIC TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - MUSIC: TV SHARRI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TV-SHARRI-HD.jpeg" group-title="|ALB| MUSIC",ALB - MUSIC: TV SHARRI UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - A MOL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/A-MOL-TV.jpeg" group-title="|ALB| MUSIC",ALB - A MOL TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - CLICK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/click.png" group-title="|ALB| MUSIC",ALB - CLICK UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - GLOBE TV" tvg-logo="https://www.sr.de/sr/logos_alle_wellen_facebook_twitter_youtube118~_v-sr__169__313.jpg" group-title="|ALB| MUSIC",ALB - GLOBE TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/785457
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - TV RED" tvg-logo="http://logo.protv.cc/picons/logos/TV-RED.png" group-title="|ALB| MUSIC",ALB - TV RED
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/786539
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FLUTURA TV" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/FLUTURA-TV.png" group-title="|ALB| MUSIC",ALB - FLUTURA TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/791017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - SHOTA TV" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SHOTA.png" group-title="|ALB| MUSIC",ALB - SHOTA TV
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/803340
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - SUPER SPORT 1 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 1 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262220
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - SUPER SPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 1 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262221
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="ALB - SUPER SPORT 2 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 2 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262222
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="ALB - SUPER SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 2 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262223
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="ALB - SUPER SPORT 3 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport3.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 3 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262224
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="ALB - SUPER SPORT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport3.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 3 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262225
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="ALB - SUPER SPORT 4 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport4.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 4 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262226
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="ALB - SUPER SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport4.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 4 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262227
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="ALB - SUPER SPORT 5 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport5.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 5 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262228
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="ALB - SUPER SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport5.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 5 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262229
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - SUPER SPORT 6 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport6.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 6 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262230
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - SUPER SPORT 6 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport6.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 6 UHD
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262231
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - SUPER SPORT 7 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport7.png" group-title="|ALB| SPORTS",ALB - SUPER SPORT 7 4K
+http://line.powerdino.com:80/a19c66a96f/99de3133c7/262232

@@ -15,3 +15,9 @@ https://vocal.ventura.radio/listen/d33b.house_-_247_deep_vocal_house/radio.mp3
 https://vocal.ventura.radio/listen/d33b.house_-_247_progressive_house/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ventura Radio - TECH House Music for Your Business" tvg-logo="" group-title="VENTURA",Ventura Radio - TECH House Music for Your Business
 https://vocal.ventura.radio/listen/ventura-tech/radio.mp3
+#EXTINF:-1,Radio JEHONA
+http://stream.iradio.pro:8086/;
+#EXTINF:-1,Radio LIRIA
+http://46.4.104.238:9998/stream
+#EXTINF:-1,Radio JEHONA (original)
+https://stream.iradio.pro/proxy/radiojehona?mp=/1

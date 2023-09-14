@@ -26,7 +26,7 @@ http://line.powerdino.com:80/a19c66a96f/99de3133c7/261966
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - RTSH PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/RTSH-PLUS.png" group-title="|ALB| GENERAL",ALB - RTSH PLUS
 http://line.powerdino.com:80/a19c66a96f/99de3133c7/261968
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - RTSH SPORT 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/RTSH-SPORT.jpeg" group-title="|ALB| GENERAL",ALB - RTSH SPORT 4K
-http://line.powerdino.com:80/a19c66a96f/99de3133c7/261969
+https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="ALB - RTSH SHQIP" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtshshqip.png" group-title="|ALB| GENERAL",ALB - RTSH SHQIP
 http://line.powerdino.com:80/a19c66a96f/99de3133c7/261972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - RTSH KUVEND" tvg-logo="http://logo.protv.cc/picons-dino/logos/RTSH-KUVEND.jpg" group-title="|ALB| GENERAL",ALB - RTSH KUVEND

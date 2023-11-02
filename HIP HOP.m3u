@@ -1,0 +1,77 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Love Hip Hop - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="HIP-HOP",I Love Hip Hop - 128 kbit/s
+http://stream12.iloveradio.de/iloveradio3.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTLR Radio - 64 kbit/s" tvg-logo="https://www.radio.pervii.com/im/2/1563160872.jpg" group-title="HIP-HOP",DTLR Radio - 64 kbit/s
+http://108.178.13.122:8195/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Tequila Hip Hop Romania wWw.RadioTequila.Ro - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/4/1537588934.jpg" group-title="HIP-HOP",Radio Tequila Hip Hop Romania wWw.RadioTequila.Ro - 128 kbit/s
+http://necenzurat.radiotequila.ro:7000/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="100 Hip Hop and RNB FM - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/9/1617377529.jpg" group-title="HIP-HOP",100 Hip Hop and RNB FM - 128 kbit/s
+http://192.99.41.102:5429/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigFM DEUTSCHER HIP-HOP CHARTS - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="HIP-HOP",bigFM DEUTSCHER HIP-HOP CHARTS - 128 kbit/s
+http://streams.bigfm.de/bigfm-dhiphopcharts-128-mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOT 108 JAMZ - #1 FOR HIP HOP - www.hot108.com (a Powerhitz.com station) - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/19766.jpg" group-title="HIP-HOP",HOT 108 JAMZ - #1 FOR HIP HOP - www.hot108.com (a Powerhitz.com station) - 128 kbit/s
+http://108.61.30.179:4030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52nd Street-Beat - 192 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/19766.jpg" group-title="HIP-HOP",52nd Street-Beat - 192 kbit/s
+http://151.80.43.143:8036/_autodj.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dilemaradio - Hip Hop Rap Radio Station - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/4/1555206044.jpg" group-title="HIP-HOP",Dilemaradio - Hip Hop Rap Radio Station - 128 kbit/s
+https://dilemaradiolive.radioca.st/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GotRadio - Hip Hop Stop - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="HIP-HOP",GotRadio - Hip Hop Stop - 128 kbit/s
+http://gr02.cdnstream.com:8140/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WHAT?! Radio - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403816012.png" group-title="HIP-HOP",WHAT?! Radio - 128 kbit/s
+http://whatradio.macchiatomedia.org:9119/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1 Power - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="HIP-HOP",1 Power - 128 kbit/s
+http://108.61.30.179:5040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTLR Radio 128k Stream - #DTLRradioFM - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="HIP-HOP",DTLR Radio 128k Stream - #DTLRradioFM - 128 kbit/s
+http://67.212.165.106:8024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE STATION - HIP-HOP SOUL FUNK RADIO - ONESTATION.FR - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/8/1555325748.jpg" group-title="HIP-HOP",ONE STATION - HIP-HOP SOUL FUNK RADIO - ONESTATION.FR - 128 kbit/s
+http://stream.onestation.net/onestation-128.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Romanian Hip-Hop - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/7/1571841817.jpg" group-title="HIP-HOP",Radio Romanian Hip-Hop - 128 kbit/s
+http://asculta.radioromanian.net:8400/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hot 107.1 - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403420647.png" group-title="HIP-HOP",Hot 107.1 - 128 kbit/s
+https://stream1.flinn.com:8443/1071FM.aac
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bigFM US RAP & HIP-HOP - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="HIP-HOP",bigFM US RAP & HIP-HOP - 128 kbit/s
+http://streams.bigfm.de/bigfm-usrap-128-mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Studio Souto - Rap Nacional - 48 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1555120575.jpg" group-title="HIP-HOP",Radio Studio Souto - Rap Nacional - 48 kbit/s
+https://centova5.transmissaodigital.com:20031/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneChristianRadio - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1555120575.jpg" group-title="HIP-HOP",OneChristianRadio - 128 kbit/s
+http://radio.wsradio.net:33001/onechristianradio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HEBREW ISRAELITE RADIO NETWORK - 192 kbit/s" tvg-logo="https://www.radio.pervii.com/im/6/1550201706.jpg" group-title="HIP-HOP",HEBREW ISRAELITE RADIO NETWORK - 192 kbit/s
+http://usa12.fastcast4u.com:5084/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.1 The Fam Digital Radio - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/2/1559959342.jpg" group-title="HIP-HOP",101.1 The Fam Digital Radio - 128 kbit/s
+http://107.181.227.250:8118/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Energy 100FM - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/2/1559959342.jpg" group-title="HIP-HOP",Energy 100FM - 128 kbit/s
+http://s2.stationplaylist.com:7094/listen.aac
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hot Jamz Radio NL - 160 kbit/s" tvg-logo="https://www.radio.pervii.com/im/6/1563105866.jpg" group-title="HIP-HOP",Hot Jamz Radio NL - 160 kbit/s
+http://stream.click2.nl/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Audioasyl - 320 kbit/s" tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="HIP-HOP",Audioasyl - 320 kbit/s
+http://stream.audioasyl.net:8000/audioasyl
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UGN RADIO - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1596161735.jpg" group-title="HIP-HOP",UGN RADIO - 128 kbit/s
+http://ice31.securenetsystems.net/UGNR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="www.bmradio.de - 24/7 The finest in Black Music - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="HIP-HOP",www.bmradio.de - 24/7 The finest in Black Music - 128 kbit/s
+http://pluto.bmradio.de:8002/bmradio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A-1 Hits @ Distortion Radio [www.distortionradio.com] - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/6/1550334486.jpg" group-title="HIP-HOP",A-1 Hits @ Distortion Radio [www.distortionradio.com] - 128 kbit/s
+http://s1.distortionradio.com:80/a-1-hits-32
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Studio Souto - Hip Hop - 48 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1555120575.jpg" group-title="HIP-HOP",Radio Studio Souto - Hip Hop - 48 kbit/s
+https://centova5.transmissaodigital.com:20019/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONLYRAI - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1555120575.jpg" group-title="HIP-HOP",ONLYRAI - 128 kbit/s
+http://broadcast.infomaniak.ch/onlyrai-high.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWERHITZ.COM - 1POWER - #1 For Hitz & Hip Hop - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="HIP-HOP",POWERHITZ.COM - 1POWER - #1 For Hitz & Hip Hop - 128 kbit/s
+http://jbmedia-edge1.cdnstream.com:80/1power
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="u3y9n1ykb - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/20333.jpg" group-title="HIP-HOP",u3y9n1ykb - 128 kbit/s
+http://stream.radiojar.com/u3y9n1ykb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shaq Fu Radio - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/20333.jpg" group-title="HIP-HOP",Shaq Fu Radio - 128 kbit/s
+http://radiocustoms.cdnstream1.com/shaqfu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio HIPHOP www.radiogora.ru - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/5843.jpg" group-title="HIP-HOP",Radio HIPHOP www.radiogora.ru - 128 kbit/s
+http://srv2.listen.radiogora.ru:8800/hiphop128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="181.FM Old School HipHop RnB - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="HIP-HOP",181.FM Old School HipHop RnB - 128 kbit/s
+http://listen.181fm.com/181-oldschool_128k.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tjks Radio - 192 kbit/s" tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="HIP-HOP",Tjks Radio - 192 kbit/s
+http://thassos.cdnstream.com:5485/stream/1/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="laut.fm hiphop - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="HIP-HOP",laut.fm hiphop - 128 kbit/s
+http://stream.laut.fm/hiphop
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Excitement Radio - 128 kbit/s" tvg-logo="https://www.radio.pervii.com/im/5/1596165695.jpg" group-title="HIP-HOP",Excitement Radio - 128 kbit/s
+https://stream.excitementradio.com:8444/excitementradio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="starfrosch Radio 1 - 192 kbit/s" tvg-logo="https://www.radio.pervii.com/im/8/1549696278.jpg" group-title="HIP-HOP",starfrosch Radio 1 - 192 kbit/s
+http://starfrosch.ch:8000/stream
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destiny's Child - 8 Days of Christmas" tvg-logo="" group-title="HIP-HOP",Destiny's Child - 8 Days of Christmas
+http://162.144.106.6:8569/stream/1/

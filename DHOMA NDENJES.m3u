@@ -1,13 +1,7 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="" tvg-name="ALB - BIG BROTHER ALBANIA 1" tvg-logo="http://logo.protv.cc/picons/logos/bigbrother.png" group-title="ALB GENERAL",ALB - BIG BROTHER ALBANIA 1
-http://line.powerdino.com:80/a19c66a96f/99de3133c7/827921
-#EXTINF:-1 tvg-id="" tvg-name="ALB - BIG BROTHER ALBANIA 2" tvg-logo="http://logo.protv.cc/picons/logos/bigbrother.png" group-title="ALB GENERAL",ALB - BIG BROTHER ALBANIA 2
-http://line.powerdino.com:80/a19c66a96f/99de3133c7/827920
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="ALB - TOP CHANNEL 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/topchannel.png" group-title="ALB GENERAL",ALB - TOP CHANNEL 4K
-http://line.powerdino.com:80/a19c66a96f/99de3133c7/261954
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="ALB - TOP CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/topchannel.png" group-title="ALB GENERAL",ALB - TOP CHANNEL UHD
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="ALB - TOP CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/topchannel.png" group-title="ALB GENERAL",ALB - TOP CHANNEL UHD
 http://line.powerdino.com:80/a19c66a96f/99de3133c7/261955
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="ALB - TV KLAN 4K" tvg-logo="http://logo.protv.cc/picons-dino/logos/klanhd.png" group-title="ALB GENERAL",ALB - TV KLAN 4K
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="ALB - TV KLAN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/klanhd.png" group-title="ALB GENERAL",ALB - TV KLAN 4K
 http://line.powerdino.com:80/a19c66a96f/99de3133c7/261956
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB - FILM AKSION" tvg-logo="http://logo.protv.cc/picons-dino/logos/FILM-AKSION.jpeg" group-title="ALB MOVIES",ALB - FILM AKSION
 http://line.powerdino.com:80/a19c66a96f/99de3133c7/262027

@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="HIP-HOP",I Love Hip Hop - 128 kbit/s
+http://stream12.iloveradio.de/iloveradio3.mp3
 #EXTINF:-1,tvg-logo="https://www.radio.pervii.com/im/2/1563160872.jpg" group-title="HIP-HOP",DTLR Radio - 64 kbit/s
 http://108.178.13.122:8195/stream/1/
-#EXTINF:-1,tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="HIP-HOP",I Love Hip Hop by ilovemusic.de - 128 kbit/s
-http://stream12.iloveradio.de/iloveradio3.mp3
 #EXTINF:-1,tvg-logo="https://www.radio.pervii.com/im/4/1537588934.jpg" group-title="HIP-HOP",Radio Tequila Hip Hop Romania wWw.RadioTequila.Ro - 128 kbit/s
 http://necenzurat.radiotequila.ro:7000/stream/1/
 #EXTINF:-1,tvg-logo="https://www.radio.pervii.com/im/9/1617377529.jpg" group-title="HIP-HOP",100 Hip Hop and RNB FM - 128 kbit/s

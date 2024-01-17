@@ -1,0 +1,877 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL| TOP CHANNEL HD" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="GENERAL - AL",AL| TOP CHANNEL HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360050
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL| TOP CHANNEL SD" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="GENERAL - AL",AL| TOP CHANNEL SD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118088
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL| KLAN FHD" tvg-logo="https://lo1.in/alb/klan.png" group-title="GENERAL - AL",AL| KLAN FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183903
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL| KLAN HD" tvg-logo="https://lo1.in/alb/klan.png" group-title="GENERAL - AL",AL| KLAN HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/321597
+#EXTINF:-1 tvg-id="jolly.al" tvg-name="AL| SERIES FHD" tvg-logo="https://lo1.in/alb/jolly.png" group-title="GENERAL - AL",AL| SERIES FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148466
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TRING 3 PLUS HD" tvg-logo="https://lo1.in/alb/trinpls3.png" group-title="GENERAL - AL",AL| TRING 3 PLUS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148468
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EPISODE FHD" tvg-logo="https://lo1.in/alb/epsd.png" group-title="GENERAL - AL",AL| EPISODE FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148463
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="AL| ALSAT M FHD" tvg-logo="https://lo1.in/alb/alsat.png" group-title="GENERAL - AL",AL| ALSAT M FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148471
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="AL| ALSAT HD" tvg-logo="https://lo1.in/alb/alsat.png" group-title="GENERAL - AL",AL| ALSAT HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148470
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="AL| ALSAT FHD" tvg-logo="https://lo1.in/alb/alsat.png" group-title="GENERAL - AL",AL| ALSAT FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148469
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KANAL D DRAMA FHD" tvg-logo="https://lo1.in/alb/kanadra.png" group-title="GENERAL - AL",AL| KANAL D DRAMA FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183793
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTM 2 HD" tvg-logo="https://lo1.in/alb/mktv2.png" group-title="GENERAL - AL",AL| RTM 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183918
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV SHENJA HD" tvg-logo="https://lo1.in/alb/tvshenj.png" group-title="GENERAL - AL",AL| TV SHENJA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148461
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KLAN MACEDONIA HD" tvg-logo="https://lo1.in/alb/klanmcdon.png" group-title="GENERAL - AL",AL| KLAN MACEDONIA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183905
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV TETOVA HD" tvg-logo="https://lo1.in/alb/tvteto.png" group-title="GENERAL - AL",AL| TV TETOVA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV KOHA HD" tvg-logo="https://lo1.in/alb/gjene.png" group-title="GENERAL - AL",AL| TV KOHA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BB VIP KOSOVA 1" tvg-logo="https://lo1.in/alb/BBVK.png" group-title="GENERAL - KS",AL| BB VIP KOSOVA 1
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400846671
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BB VIP KOSOVA 2" tvg-logo="https://lo1.in/alb/BBVK.png" group-title="GENERAL - KS",AL| BB VIP KOSOVA 2
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400846672
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TëVë 1 HD" tvg-logo="https://lo1.in/alb/albsp.png" group-title="GENERAL - KS",AL| TëVë 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400406119
+#EXTINF:-1 tvg-id="klankosova.al" tvg-name="AL| KLAN KOSOVA HD" tvg-logo="https://lo1.in/alb/klnkoso.png" group-title="GENERAL - KS",AL| KLAN KOSOVA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183904
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="AL| RTV 21 FHD" tvg-logo="https://lo1.in/alb/rtv21.png" group-title="GENERAL - KS",AL| RTV 21 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400252331
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="AL| RTV 21 HD" tvg-logo="https://lo1.in/alb/rtv21.png" group-title="GENERAL - KS",AL| RTV 21 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KANAL 10 FHD" tvg-logo="https://lo1.in/alb/kan10.png" group-title="GENERAL - KS",AL| KANAL 10 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| PRO1 FHD" tvg-logo="" group-title="GENERAL - KS",AL| PRO1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400449156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ATV FHD" tvg-logo="https://lo1.in/alb/atv.png" group-title="GENERAL - KS",AL| ATV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148246
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KTV FHD" tvg-logo="https://lo1.in/alb/ktv.png" group-title="GENERAL - KS",AL| KTV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/212446
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KTV HD" tvg-logo="https://lo1.in/alb/ktv.png" group-title="GENERAL - KS",AL| KTV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183848
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL| TOP CHANNEL FHD" tvg-logo="https://lo1.in/alb/tpchan.png" group-title="GENERAL - KS",AL| TOP CHANNEL FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148422
+#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="AL| TV DUKAGJINI FHD" tvg-logo="https://lo1.in/alb/tvdukagj.png" group-title="GENERAL - KS",AL| TV DUKAGJINI FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ASHK TV 1 HD" tvg-logo="https://lo1.in/alb/Ashk.png" group-title="GENERAL - KS",AL| ASHK TV 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45666
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ASHK TV 2 HD" tvg-logo="https://lo1.in/alb/Ashk.png" group-title="GENERAL - KS",AL| ASHK TV 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45665
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ASHK TV 3 HD" tvg-logo="https://lo1.in/alb/Ashk.png" group-title="GENERAL - KS",AL| ASHK TV 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45664
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SARANDA TV HD" tvg-logo="https://lo1.in/alb/sarnda.png" group-title="GENERAL - KS",AL| SARANDA TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261888
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| T7 HD" tvg-logo="https://lo1.in/alb/t7.png" group-title="GENERAL - KS",AL| T7 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| T7 FHD" tvg-logo="https://lo1.in/alb/t7.png" group-title="GENERAL - KS",AL| T7 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360047
+#EXTINF:-1 tvg-id="rtk.al" tvg-name="AL| RTK 1 FHD" tvg-logo="https://lo1.in/alb/rt1.png" group-title="GENERAL - KS",AL| RTK 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183924
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTK 2 FHD" tvg-logo="https://lo1.in/alb/rtk2.png" group-title="GENERAL - KS",AL| RTK 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183925
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTK 4 FHD" tvg-logo="https://lo1.in/alb/rtk4.png" group-title="GENERAL - KS",AL| RTK 4 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183927
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✦●✦ LOKALE KOSOVARE ✦●✦" tvg-logo="https://lo1.in/alb/loklkoso.png" group-title="GENERAL - KS",✦●✦ LOKALE KOSOVARE ✦●✦
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148448
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTK 3 FHD" tvg-logo="https://lo1.in/alb/rtk3.png" group-title="GENERAL - KS",AL| RTK 3 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183926
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DRITA TV FHD" tvg-logo="https://lo1.in/alb/drita.png" group-title="GENERAL - KS",AL| DRITA TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183836
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ISTOGU CHANNEL FHD" tvg-logo="https://lo1.in/alb/istochan.png" group-title="GENERAL - KS",AL| ISTOGU CHANNEL FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183900
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KORÇA PLUS FHD" tvg-logo="https://lo1.in/alb/korpls.png" group-title="GENERAL - KS",AL| KORÇA PLUS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261896
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV GLOBI HD" tvg-logo="https://lo1.in/alb/globi.png" group-title="GENERAL - KS",AL| TV GLOBI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| REAL TV HD" tvg-logo="https://lo1.in/alb/real.png" group-title="GENERAL - KS",AL| REAL TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ALPO TV HD" tvg-logo="https://lo1.in/alb/alpo.png" group-title="GENERAL - KS",AL| ALPO TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261893
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NTV HD" tvg-logo="https://lo1.in/alb/ntv.png" group-title="GENERAL - KS",AL| NTV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261892
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV GOLD JOHANITER HD" tvg-logo="https://lo1.in/alb/gldjohan.png" group-title="GENERAL - KS",AL| TV GOLD JOHANITER HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261891
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ALBSE HD" tvg-logo="https://lo1.in/alb/albse.png" group-title="GENERAL - KS",AL| ALBSE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261890
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| PREMIUM TRAVEL FHD" tvg-logo="https://lo1.in/alb/premtrvl.png" group-title="GENERAL - KS",AL| PREMIUM TRAVEL FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261886
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV TEUTA FHD" tvg-logo="https://lo1.in/alb/teuta.png" group-title="GENERAL - KS",AL| TV TEUTA FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELEVIZIONI TV R HD" tvg-logo="https://lo1.in/alb/teleitvr.png" group-title="GENERAL - KS",AL| TELEVIZIONI TV R HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV PODUJEVA HD" tvg-logo="https://lo1.in/alb/podu.png" group-title="GENERAL - KS",AL| TV PODUJEVA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261883
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OVER SPORT NEWS FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="SPORTS - AL",AL| OVER SPORT NEWS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/473495
+#EXTINF:-1 tvg-id="eurosport.al" tvg-name="AL| EUROSPORT 1 HD" tvg-logo="https://lo1.in/alb/eursp1.png" group-title="SPORTS - AL",AL| EUROSPORT 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EUROSPORT 2 HD" tvg-logo="https://lo1.in/alb/eursp2.png" group-title="SPORTS - AL",AL| EUROSPORT 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/alb/oversp.png" group-title="SPORTS - AL",AL| OVERSPORT 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260897
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/alb/oversp.png" group-title="SPORTS - AL",AL| OVERSPORT 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260896
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/alb/oversp.png" group-title="SPORTS - AL",AL| OVERSPORT 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/alb/oversp.png" group-title="SPORTS - AL",AL| OVERSPORT 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260894
+#EXTINF:-1 tvg-id="supersportnews.al" tvg-name="AL| SUPER SPORT NEWS HD" tvg-logo="https://lo1.in/alb/sprspns.png" group-title="SPORTS - AL",AL| SUPER SPORT NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118056
+#EXTINF:-1 tvg-id="supersportkosova1.al" tvg-name="AL| SUPER SPORT KOSOVA 1 HD" tvg-logo="https://lo1.in/alb/sprspkoso1.png" group-title="SPORTS - AL",AL| SUPER SPORT KOSOVA 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118045
+#EXTINF:-1 tvg-id="supersportkosova2.al" tvg-name="AL| SUPER SPORT KOSOVA 2 HD" tvg-logo="https://lo1.in/alb/sprspkosoo2.png" group-title="SPORTS - AL",AL| SUPER SPORT KOSOVA 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SUPER SPORT KOSOVA 3 HD" tvg-logo="https://lo1.in/alb/SSK3.png" group-title="SPORTS - AL",AL| SUPER SPORT KOSOVA 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38073
+#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="AL| TRING SPORT NEWS HD" tvg-logo="https://lo1.in/alb/trinspns.png" group-title="SPORTS - AL",AL| TRING SPORT NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118114
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="AL| TRING SPORT 1 HD" tvg-logo="https://lo1.in/alb/trinsp1.png" group-title="SPORTS - AL",AL| TRING SPORT 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118110
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="AL| TRING SPORT 2 HD" tvg-logo="https://lo1.in/alb/trinsp2.png" group-title="SPORTS - AL",AL| TRING SPORT 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118111
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="AL| TRING SPORT 3 HD" tvg-logo="https://lo1.in/alb/trinsp3.png" group-title="SPORTS - AL",AL| TRING SPORT 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118112
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="AL| TRING SPORT 4 HD" tvg-logo="https://lo1.in/alb/trinsp4.png" group-title="SPORTS - AL",AL| TRING SPORT 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KUJTESA SPORT 1 HD" tvg-logo="https://lo1.in/alb/kujtsp1.png" group-title="SPORTS - AL",AL| KUJTESA SPORT 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KUJTESA SPORT 2 HD" tvg-logo="https://lo1.in/alb/kujtsp2.png" group-title="SPORTS - AL",AL| KUJTESA SPORT 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KUJTESA SPORT 3 HD" tvg-logo="https://lo1.in/alb/kujtsp3.png" group-title="SPORTS - AL",AL| KUJTESA SPORT 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KUJTESA SPORT 4 HD" tvg-logo="https://lo1.in/alb/kujtsp4.png" group-title="SPORTS - AL",AL| KUJTESA SPORT 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KUJTESA SPORT 5 HD" tvg-logo="https://lo1.in/alb/kujtsp5.png" group-title="SPORTS - AL",AL| KUJTESA SPORT 5 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260898
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SUPER SPORT 1 FHD" tvg-logo="https://lo1.in/alb/sprsp1.png" group-title="SPORTS - AL",AL| SUPER SPORT 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148238
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="AL| SUPER SPORT 2 FHD" tvg-logo="https://lo1.in/alb/sprsp2.png" group-title="SPORTS - AL",AL| SUPER SPORT 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360088
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="AL| SUPER SPORT 3 FHD" tvg-logo="https://lo1.in/alb/sprsp3.png" group-title="SPORTS - AL",AL| SUPER SPORT 3 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360089
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="AL| SUPER SPORT 4 FHD" tvg-logo="https://lo1.in/alb/sprsp4.png" group-title="SPORTS - AL",AL| SUPER SPORT 4 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360090
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="AL| SUPER SPORT 5 FHD" tvg-logo="https://lo1.in/alb/sprsp5.png" group-title="SPORTS - AL",AL| SUPER SPORT 5 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360091
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="AL| SUPER SPORT 6 FHD" tvg-logo="https://lo1.in/alb/sprsp6.png" group-title="SPORTS - AL",AL| SUPER SPORT 6 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148242
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="AL| TRING SPORT 1 FHD" tvg-logo="https://lo1.in/alb/trinsp1.png" group-title="SPORTS - AL",AL| TRING SPORT 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360092
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="AL| TRING SPORT 2 FHD" tvg-logo="https://lo1.in/alb/trinsp2.png" group-title="SPORTS - AL",AL| TRING SPORT 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360093
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="AL| TRING SPORT 3 FHD" tvg-logo="https://lo1.in/alb/trinsp3.png" group-title="SPORTS - AL",AL| TRING SPORT 3 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360094
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="AL| TRING SPORT 4 FHD" tvg-logo="https://lo1.in/alb/trinsp4.png" group-title="SPORTS - AL",AL| TRING SPORT 4 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360095
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART SPORT 1 FHD" tvg-logo="https://lo1.in/alb/artsp1.png" group-title="SPORTS - AL",AL| ART SPORT 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART SPORT 2 FHD" tvg-logo="https://lo1.in/alb/artsp2.png" group-title="SPORTS - AL",AL| ART SPORT 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART SPORT 3 FHD" tvg-logo="https://lo1.in/alb/artsp3.png" group-title="SPORTS - AL",AL| ART SPORT 3 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART SPORT 4 FHD" tvg-logo="https://lo1.in/alb/artsp.png" group-title="SPORTS - AL",AL| ART SPORT 4 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260893
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART SPORT 5 FHD" tvg-logo="https://lo1.in/alb/artsp.png" group-title="SPORTS - AL",AL| ART SPORT 5 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260892
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART SPORT 6 FHD" tvg-logo="https://lo1.in/alb/artsp.png" group-title="SPORTS - AL",AL| ART SPORT 6 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400260891
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SPORT 1 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="SPORTS - AL",AL| SPORT 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/473500
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SPORT 2 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="SPORTS - AL",AL| SPORT 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/473499
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SPORT 3 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="SPORTS - AL",AL| SPORT 3 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/473498
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SPORT 4 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="SPORTS - AL",AL| SPORT 4 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/473497
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SPORT 5 FHD" tvg-logo="https://lo1.in/som/flg.png" group-title="SPORTS - AL",AL| SPORT 5 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/473496
+#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="AL| EXPLORER NATYRA HD" tvg-logo="https://lo1.in/alb/explnat.png" group-title="DOCUMENTARIES - AL",AL| EXPLORER NATYRA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183877
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="AL| EXPLORER SHKENCE HD" tvg-logo="https://lo1.in/alb/explshk.png" group-title="DOCUMENTARIES - AL",AL| EXPLORER SHKENCE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183878
+#EXTINF:-1 tvg-id="exphistori.al" tvg-name="AL| EXPLORER HISTORI HD" tvg-logo="https://lo1.in/alb/explrhis.png" group-title="DOCUMENTARIES - AL",AL| EXPLORER HISTORI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183876
+#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="AL| TRING PLANET FHD" tvg-logo="https://lo1.in/alb/trinplnt.png" group-title="DOCUMENTARIES - AL",AL| TRING PLANET FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TRING HISTORY HD" tvg-logo="https://lo1.in/alb/tringhis.png" group-title="DOCUMENTARIES - AL",AL| TRING HISTORY HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118097
+#EXTINF:-1 tvg-id="tringworld.al" tvg-name="AL| TRING WORLD HD" tvg-logo="https://lo1.in/alb/trngwrd.png" group-title="DOCUMENTARIES - AL",AL| TRING WORLD HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118117
+#EXTINF:-1 tvg-id="nationalgeographic.al" tvg-name="AL| NAT GEO FHD" tvg-logo="https://lo1.in/alb/natgeo.png" group-title="DOCUMENTARIES - AL",AL| NAT GEO FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183865
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/alb/discsci.png" group-title="DOCUMENTARIES - AL",AL| DISCOVERY SCIENCE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183862
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| GJURME SHQIPTARE HD" tvg-logo="https://lo1.in/alb/gjshtre.png" group-title="DOCUMENTARIES - AL",AL| GJURME SHQIPTARE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183840
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY PLANET HD" tvg-logo="https://lo1.in/alb/skuplnt.png" group-title="DOCUMENTARIES - AL",AL| SKY PLANET HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY GALAXY FHD" tvg-logo="https://lo1.in/alb/skygal.png" group-title="DOCUMENTARIES - AL",AL| SKY GALAXY FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261774
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY GEO FHD" tvg-logo="https://lo1.in/alb/skygeo.png" group-title="DOCUMENTARIES - AL",AL| SKY GEO FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261775
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="AL| TRAVEL CHANNEL FHD" tvg-logo="https://lo1.in/alb/trvlchan.png" group-title="DOCUMENTARIES - AL",AL| TRAVEL CHANNEL FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EB TOM AND JERRY HD" tvg-logo="https://lo1.in/alb/ebtmnjer.png" group-title="KIDS - AL",AL| EB TOM AND JERRY HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400149111
+#EXTINF:-1 tvg-id="boomerang.al" tvg-name="AL| BOOMERANG HD" tvg-logo="https://lo1.in/alb/bmrng.png" group-title="KIDS - AL",AL| BOOMERANG HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183951
+#EXTINF:-1 tvg-id="tiptv.al" tvg-name="AL| TIP TV FHD" tvg-logo="https://lo1.in/alb/tip.png" group-title="KIDS - AL",AL| TIP TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SOFIA FHD" tvg-logo="https://lo1.in/alb/sfia.png" group-title="KIDS - AL",AL| SOFIA FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118037
+#EXTINF:-1 tvg-id="smile.al" tvg-name="AL| SMILE HD" tvg-logo="https://lo1.in/alb/smil.png" group-title="KIDS - AL",AL| SMILE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118036
+#EXTINF:-1 tvg-id="cufotv.al" tvg-name="AL| ÇUFO HD" tvg-logo="https://lo1.in/alb/cufo.png" group-title="KIDS - AL",AL| ÇUFO HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183973
+#EXTINF:-1 tvg-id="bangbang.al" tvg-name="AL| BANG BANG HD" tvg-logo="https://lo1.in/alb/bngbng.png" group-title="KIDS - AL",AL| BANG BANG HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183965
+#EXTINF:-1 tvg-id="juniortv.al" tvg-name="AL| JUNIOR TV HD" tvg-logo="https://lo1.in/alb/jr.png" group-title="KIDS - AL",AL| JUNIOR TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/212445
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="AL| RTV 21 JUNIOR HD" tvg-logo="https://lo1.in/alb/rtv21jr.png" group-title="KIDS - AL",AL| RTV 21 JUNIOR HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DUCK TV HD" tvg-logo="https://lo1.in/alb/dcktv.png" group-title="KIDS - AL",AL| DUCK TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183968
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NICK JUNIOR FHD" tvg-logo="https://lo1.in/alb/nickjr.png" group-title="KIDS - AL",AL| NICK JUNIOR FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/117930
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DISNEY JUNIOR HD" tvg-logo="https://lo1.in/alb/disjr.png" group-title="KIDS - AL",AL| DISNEY JUNIOR HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183953
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BABY TV HD" tvg-logo="https://lo1.in/alb/bbytv.png" group-title="KIDS - AL",AL| BABY TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183957
+#EXTINF:-1 tvg-id="tringtring.al" tvg-name="AL| TRING TRING HD" tvg-logo="https://lo1.in/alb/tringt.png" group-title="KIDS - AL",AL| TRING TRING HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ARBËRIA 3 HD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="KIDS - AL",AL| RTV ARBËRIA 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400271474
+#EXTINF:-1 tvg-id="tringkids.al" tvg-name="AL| TRING KIDS HD" tvg-logo="https://lo1.in/alb/tringkds.png" group-title="KIDS - AL",AL| TRING KIDS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMA VIZATIMOR 1 HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="KIDS - AL",AL| FILMA VIZATIMOR 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261781
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMA VIZATIMOR 2 HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="KIDS - AL",AL| FILMA VIZATIMOR 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261780
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMA VIZATIMOR 4 HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="KIDS - AL",AL| FILMA VIZATIMOR 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261779
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMA VIZATIMOR 5 HD" tvg-logo="https://lo1.in/alb/femijet.png" group-title="KIDS - AL",AL| FILMA VIZATIMOR 5 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLANETA TV 4K" tvg-logo="" group-title="MUSIC - AL",PLANETA TV 4K
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/16730
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG MUSIC CHANNEL" tvg-logo="" group-title="MUSIC - AL",BG MUSIC CHANNEL
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/171181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hit Mix Music BG" tvg-logo="" group-title="MUSIC - AL",Hit Mix Music BG
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/160384
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ARBËRIA 4 HD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="MUSIC - AL",AL| RTV ARBËRIA 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400271475
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MTV HITS HD" tvg-logo="https://lo1.in/alb/mtvhts.png" group-title="MUSIC - AL",AL| MTV HITS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261765
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MTV HD" tvg-logo="https://lo1.in/alb/mtv.png" group-title="MUSIC - AL",AL| MTV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261764
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV ZIKO FHD" tvg-logo="https://lo1.in/alb/ziko.png" group-title="MUSIC - AL",AL| TV ZIKO FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261763
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| AA NEWYORK TV FHD" tvg-logo="https://lo1.in/alb/aany.png" group-title="MUSIC - AL",AL| AA NEWYORK TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261760
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ACTV MICHIGAN HD" tvg-logo="https://lo1.in/alb/actvmich.png" group-title="MUSIC - AL",AL| ACTV MICHIGAN HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261759
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| E MIRË TV MUZIKË HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="MUSIC - AL",AL| E MIRË TV MUZIKË HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261757
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK POPULLORE HD" tvg-logo="https://lo1.in/alb/drkpopulr.png" group-title="MUSIC - AL",AL| DARK POPULLORE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188417
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MALISHEVA TV FHD" tvg-logo="https://lo1.in/alb/malish.png" group-title="MUSIC - AL",AL| MALISHEVA TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148435
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV MALISHEVA HD" tvg-logo="https://lo1.in/alb/rtvmalshv.png" group-title="MUSIC - AL",AL| RTV MALISHEVA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FOLK + ♫" tvg-logo="https://lo1.in/alb/folk.png" group-title="MUSIC - AL",AL| FOLK + ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148378
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KLAN MUSIC ♫" tvg-logo="https://lo1.in/alb/klanmus.png" group-title="MUSIC - AL",AL| KLAN MUSIC ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148377
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ELRODI TV ♫" tvg-logo="https://lo1.in/alb/elrodi.png" group-title="MUSIC - AL",AL| ELRODI TV ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148376
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MELODY TV ♫" tvg-logo="https://lo1.in/alb/melod.png" group-title="MUSIC - AL",AL| MELODY TV ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148375
+#EXTINF:-1 tvg-id="clicktv.al" tvg-name="AL| CLICK TV ♫" tvg-logo="https://lo1.in/alb/clik.png" group-title="MUSIC - AL",AL| CLICK TV ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148374
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| BBF MUSIC ♫" tvg-logo="https://lo1.in/alb/bfbmus.png" group-title="MUSIC - AL",AL| BBF MUSIC ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148373
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="AL| RTV21 POPULLORE FHD ♫" tvg-logo="https://lo1.in/alb/rtv21pplr.png" group-title="MUSIC - AL",AL| RTV21 POPULLORE FHD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148371
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TOP ESTRADA TV ♫" tvg-logo="https://lo1.in/alb/topestra.png" group-title="MUSIC - AL",AL| TOP ESTRADA TV ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148367
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STV FOLK HD" tvg-logo="https://lo1.in/alb/SFolk.png" group-title="MUSIC - AL",AL| STV FOLK HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MTV KOSOVA ♫" tvg-logo="https://lo1.in/alb/mtvkoso.png" group-title="MUSIC - AL",AL| MTV KOSOVA ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148366
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| LUGINA POPULLORE HD ♫" tvg-logo="https://lo1.in/alb/lugapoplr.png" group-title="MUSIC - AL",AL| LUGINA POPULLORE HD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148364
+#EXTINF:-1 tvg-id="mymusic.al" tvg-name="AL| MY MUSIC ♫" tvg-logo="https://lo1.in/alb/mymus.png" group-title="MUSIC - AL",AL| MY MUSIC ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ROMA TV ♫" tvg-logo="https://lo1.in/alb/roma.png" group-title="MUSIC - AL",AL| ROMA TV ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SUPERSONIC TV HD ♫" tvg-logo="https://lo1.in/alb/sprsnic.png" group-title="MUSIC - AL",AL| SUPERSONIC TV HD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148326
+#EXTINF:-1 tvg-id="muse.al" tvg-name="AL| MUSE TV HD" tvg-logo="https://lo1.in/alb/muse.png" group-title="MUSIC - AL",AL| MUSE TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| APOLLON TV FHD" tvg-logo="https://lo1.in/alb/apollon.png" group-title="MUSIC - AL",AL| APOLLON TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148319
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV21 PLUS FHD ♫" tvg-logo="https://lo1.in/alb/rtv21pls.png" group-title="MUSIC - AL",AL| RTV21 PLUS FHD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148316
+#EXTINF:-1 tvg-id="rtv21m.al" tvg-name="AL| RTV21 MIX FHD ♫" tvg-logo="https://lo1.in/alb/rtv21mx.png" group-title="MUSIC - AL",AL| RTV21 MIX FHD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TURBO CHANNEL TV HD ♫" tvg-logo="https://lo1.in/alb/turbchn.png" group-title="MUSIC - AL",AL| TURBO CHANNEL TV HD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148311
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV FONTANA HD ♫" tvg-logo="https://lo1.in/alb/rtvfntana.png" group-title="MUSIC - AL",AL| RTV FONTANA HD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148310
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SYRI VISION TV FHD" tvg-logo="https://lo1.in/alb/sryvisi.png" group-title="MUSIC - AL",AL| SYRI VISION TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148302
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| LIRIA TV HD" tvg-logo="https://lo1.in/alb/liria.png" group-title="MUSIC - AL",AL| LIRIA TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148301
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SHQIPONIA TV HD" tvg-logo="https://lo1.in/alb/flg.png" group-title="MUSIC - AL",AL| SHQIPONIA TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/48112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY BLUE TV HD" tvg-logo="https://lo1.in/alb/skyblu.png" group-title="MUSIC - AL",AL| SKY BLUE TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ALBSWISS TV FHD" tvg-logo="https://lo1.in/alb/albswis.png" group-title="MUSIC - AL",AL| ALBSWISS TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148297
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV ULQINI HD" tvg-logo="https://lo1.in/alb/tvulq.png" group-title="MUSIC - AL",AL| TV ULQINI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148292
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ON TV HD ♫" tvg-logo="https://lo1.in/alb/ontv.png" group-title="MUSIC - AL",AL| ON TV HD ♫
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148289
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| USKANA TV HD" tvg-logo="https://lo1.in/alb/uskana.png" group-title="MUSIC - AL",AL| USKANA TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DIELLI TV HD" tvg-logo="https://lo1.in/alb/diell.png" group-title="MUSIC - AL",AL| DIELLI TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FASHION TV HD" tvg-logo="https://lo1.in/alb/fshn.png" group-title="MUSIC - AL",AL| FASHION TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183893
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SPIN TV HD" tvg-logo="https://lo1.in/alb/spin.png" group-title="MUSIC - AL",AL| SPIN TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FRAME TV HD" tvg-logo="https://lo1.in/alb/frm.png" group-title="MUSIC - AL",AL| FRAME TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261761
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ABC NEWS FHD" tvg-logo="https://lo1.in/alb/abcns.png" group-title="NEWS - AL",AL| ABC NEWS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ARTA NEWS HD" tvg-logo="https://lo1.in/alb/artans.png" group-title="NEWS - AL",AL| ARTA NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| A1 REPORT FHD" tvg-logo="https://lo1.in/alb/a1repo.png" group-title="NEWS - AL",AL| A1 REPORT FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| A2 NEWS FHD" tvg-logo="https://lo1.in/alb/a2ns.png" group-title="NEWS - AL",AL| A2 NEWS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EURONEWS FHD" tvg-logo="https://lo1.in/alb/eurns.png" group-title="NEWS - AL",AL| EURONEWS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FAX NEWS HD" tvg-logo="https://lo1.in/alb/faxns.png" group-title="NEWS - AL",AL| FAX NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KLAN NEWS FHD" tvg-logo="https://lo1.in/alb/klanns.png" group-title="NEWS - AL",AL| KLAN NEWS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261771
+#EXTINF:-1 tvg-id="kanali7.al" tvg-name="AL| KANALI 7 HD" tvg-logo="https://lo1.in/alb/kanali7.png" group-title="NEWS - AL",AL| KANALI 7 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NEWS 24 HD" tvg-logo="https://lo1.in/alb/ns24.png" group-title="NEWS - AL",AL| NEWS 24 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360057
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NEWS TV MK FHD" tvg-logo="https://lo1.in/alb/nsmk.png" group-title="NEWS - AL",AL| NEWS TV MK FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261770
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ORA NEWS HD" tvg-logo="https://lo1.in/alb/orans.png" group-title="NEWS - AL",AL| ORA NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360058
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ORA HD" tvg-logo="https://lo1.in/alb/ora.png" group-title="NEWS - AL",AL| ORA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261769
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MCN 24 HD" tvg-logo="https://lo1.in/alb/mcn.png" group-title="NEWS - AL",AL| MCN 24 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MCN TV FHD" tvg-logo="https://lo1.in/alb/mcn.png" group-title="NEWS - AL",AL| MCN TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400149106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ZERI TV FHD" tvg-logo="https://lo1.in/alb/zeri.png" group-title="NEWS - AL",AL| ZERI TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118195
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="AL| RTV 21 NEWSBIZ HD" tvg-logo="https://lo1.in/alb/rtv21nsbiz.png" group-title="NEWS - AL",AL| RTV 21 NEWSBIZ HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| REPORT FHD" tvg-logo="https://lo1.in/alb/repor.png" group-title="NEWS - AL",AL| REPORT FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SCAN TV HD" tvg-logo="https://lo1.in/alb/scan.png" group-title="NEWS - AL",AL| SCAN TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SYRI TV HD" tvg-logo="https://lo1.in/alb/syri.png" group-title="NEWS - AL",AL| SYRI TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SYRI NEWS TV" tvg-logo="https://lo1.in/alb/syrns.png" group-title="NEWS - AL",AL| SYRI NEWS TV
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/184084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TOP NEWS HD" tvg-logo="https://lo1.in/alb/topns.png" group-title="NEWS - AL",AL| TOP NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KANALI 7 NEWS HD" tvg-logo="https://lo1.in/alb/kanali7.png" group-title="NEWS - AL",AL| KANALI 7 NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183803
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Panorama TV HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="NEWS - AL",AL| Panorama TV HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/48101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| PANORAMA NEWS HD" tvg-logo="https://lo1.in/alb/alb.png" group-title="NEWS - AL",AL| PANORAMA NEWS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/48102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINEMA 1 FHD" tvg-logo="https://lo1.in/alb/cine1.png" group-title="MOVIES - AL",AL| CINEMA 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINEMA 2 FHD" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| CINEMA 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45560
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE 1 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE 2 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE 3 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183856
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE 4 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE 5 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE 5 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE 6 HD" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE 6 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE Aksion" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE Aksion
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45663
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE Aventure" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE Aventure
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45662
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE Crime" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE Crime
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45661
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE GOLD Collection" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE GOLD Collection
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45660
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE fantazi" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE fantazi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45659
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE Thriller" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE Thriller
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE Drama" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE Drama
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45657
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE Epik" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE Epik
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45656
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TELE ONE Gags" tvg-logo="https://lo1.in/alb/tl1.png" group-title="MOVIES - AL",AL| TELE ONE Gags
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45655
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| KARATE HD" tvg-logo="https://lo1.in/alb/karate.png" group-title="MOVIES - AL",AL| KARATE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261815
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Globe Tv" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Globe Tv
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45561
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV Pollogu" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| TV Pollogu
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45562
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| PRIME TV FHD" tvg-logo="https://lo1.in/alb/prim.png" group-title="MOVIES - AL",AL| PRIME TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261804
+#EXTINF:-1 tvg-id="tringsuper.al" tvg-name="AL| TRING SUPER FHD" tvg-logo="https://lo1.in/alb/trinspr.png" group-title="MOVIES - AL",AL| TRING SUPER FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360076
+#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="AL| TRING SHQIP HD" tvg-logo="https://lo1.in/alb/trinsh.png" group-title="MOVIES - AL",AL| TRING SHQIP HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118107
+#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="AL| TRING COMEDY FHD" tvg-logo="https://lo1.in/alb/trincom.png" group-title="MOVIES - AL",AL| TRING COMEDY FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183829
+#EXTINF:-1 tvg-id="tringlife.al" tvg-name="AL| TRING LIFE FHD" tvg-logo="https://lo1.in/alb/trinlf.png" group-title="MOVIES - AL",AL| TRING LIFE FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183832
+#EXTINF:-1 tvg-id="tringfantazi.al" tvg-name="AL| TRING FANTASY HD" tvg-logo="https://lo1.in/alb/trinfan.png" group-title="MOVIES - AL",AL| TRING FANTASY HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TRING ACTION FHD" tvg-logo="https://lo1.in/alb/tringact.png" group-title="MOVIES - AL",AL| TRING ACTION FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261848
+#EXTINF:-1 tvg-id="tringinternational.al" tvg-name="AL| TRING INTERNATIONAL FHD" tvg-logo="https://lo1.in/alb/tringinter.png" group-title="MOVIES - AL",AL| TRING INTERNATIONAL FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261847
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TRING FAMILY FHD" tvg-logo="https://lo1.in/alb/trinfam.png" group-title="MOVIES - AL",AL| TRING FAMILY FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261846
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TRING NOVELAS FHD" tvg-logo="https://lo1.in/alb/tringnovel.png" group-title="MOVIES - AL",AL| TRING NOVELAS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261845
+#EXTINF:-1 tvg-id="fox.al" tvg-name="AL| FOX HD" tvg-logo="https://lo1.in/alb/fx.png" group-title="MOVIES - AL",AL| FOX HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183838
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="AL| FOX LIFE HD" tvg-logo="https://lo1.in/alb/fxlf.png" group-title="MOVIES - AL",AL| FOX LIFE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183863
+#EXTINF:-1 tvg-id="foxcrime.al" tvg-name="AL| FOX CRIME HD" tvg-logo="https://lo1.in/alb/fxcrim.png" group-title="MOVIES - AL",AL| FOX CRIME HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183828
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FOX MOVIE HD" tvg-logo="https://lo1.in/alb/fxmv.png" group-title="MOVIES - AL",AL| FOX MOVIE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261844
+#EXTINF:-1 tvg-id="filmnje.al" tvg-name="AL| FILM NJË HD" tvg-logo="https://lo1.in/alb/flmnje.png" group-title="MOVIES - AL",AL| FILM NJË HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183667
+#EXTINF:-1 tvg-id="filmdy.al" tvg-name="AL| FILM DY HD" tvg-logo="https://lo1.in/alb/flmdy.png" group-title="MOVIES - AL",AL| FILM DY HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM HITS HD" tvg-logo="https://lo1.in/alb/flmhits.png" group-title="MOVIES - AL",AL| FILM HITS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183664
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="AL| FILM AKSION FHD" tvg-logo="https://lo1.in/alb/flmakc.png" group-title="MOVIES - AL",AL| FILM AKSION FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/224628
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="AL| FILM THRILLER HD" tvg-logo="https://lo1.in/alb/xthrill.png" group-title="MOVIES - AL",AL| FILM THRILLER HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183669
+#EXTINF:-1 tvg-id="filmdrame.al" tvg-name="AL| FILM DRAME HD" tvg-logo="https://lo1.in/alb/flmdra.png" group-title="MOVIES - AL",AL| FILM DRAME HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183657
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM KOMEDI HD" tvg-logo="https://lo1.in/alb/flmkom.png" group-title="MOVIES - AL",AL| FILM KOMEDI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183665
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM AUTOR HD" tvg-logo="https://lo1.in/alb/flmaut.png" group-title="MOVIES - AL",AL| FILM AUTOR HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183656
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DIZI TDC FHD" tvg-logo="https://lo1.in/alb/dizitdc.png" group-title="MOVIES - AL",AL| DIZI TDC FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/33101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| PLUS FHD" tvg-logo="https://lo1.in/alb/pls.png" group-title="MOVIES - AL",AL| PLUS FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/117945
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FAMILY FHD" tvg-logo="https://lo1.in/alb/fam.png" group-title="MOVIES - AL",AL| FAMILY FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/360073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ARBËRIA 1 FHD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="MOVIES - AL",AL| RTV ARBËRIA 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400271448
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ARBËRIA 2 HD" tvg-logo="https://lo1.in/alb/rtvabr.png" group-title="MOVIES - AL",AL| RTV ARBËRIA 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400271473
+#EXTINF:-1 tvg-id="tchannel.al" tvg-name="AL| T FHD" tvg-logo="https://lo1.in/alb/t.png" group-title="MOVIES - AL",AL| T FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STINET HD" tvg-logo="https://lo1.in/alb/stnt.png" group-title="MOVIES - AL",AL| STINET HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183813
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART DOKU 1 FHD" tvg-logo="https://lo1.in/alb/artdoku1.png" group-title="MOVIES - AL",AL| ART DOKU 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART DOKU 2 FHD" tvg-logo="https://lo1.in/alb/artdoku1.png" group-title="MOVIES - AL",AL| ART DOKU 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183886
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART KINO 1 FHD" tvg-logo="https://lo1.in/alb/artkino.png" group-title="MOVIES - AL",AL| ART KINO 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183820
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART KINO 2 FHD" tvg-logo="https://lo1.in/alb/artkino.png" group-title="MOVIES - AL",AL| ART KINO 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183821
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ART KINO 3 FHD" tvg-logo="https://lo1.in/alb/artkino.png" group-title="MOVIES - AL",AL| ART KINO 3 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183822
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EURO FILM HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="MOVIES - AL",AL| EURO FILM HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EURO FILM 1 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="MOVIES - AL",AL| EURO FILM 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EURO FILM 2 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="MOVIES - AL",AL| EURO FILM 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183653
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EURO FILM 3 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="MOVIES - AL",AL| EURO FILM 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183677
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| EURO FILM 4 HD" tvg-logo="https://lo1.in/alb/eurflm.png" group-title="MOVIES - AL",AL| EURO FILM 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183655
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMBOX EXTRA FHD" tvg-logo="https://lo1.in/alb/flmbx.png" group-title="MOVIES - AL",AL| FILMBOX EXTRA FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261843
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMBOX PREMIUM FHD" tvg-logo="https://lo1.in/alb/flmbxprem.png" group-title="MOVIES - AL",AL| FILMBOX PREMIUM FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261842
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMBOX ARTHOUSE HD" tvg-logo="https://lo1.in/alb/flmbxhos.png" group-title="MOVIES - AL",AL| FILMBOX ARTHOUSE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261841
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM BOX EXTRA FHD" tvg-logo="https://lo1.in/alb/flmbxex.png" group-title="MOVIES - AL",AL| FILM BOX EXTRA FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183671
+#EXTINF:-1 tvg-id="firstchannel.al" tvg-name="AL| FIRST TV FHD" tvg-logo="https://lo1.in/alb/frst.png" group-title="MOVIES - AL",AL| FIRST TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183782
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ALB ACTION HD" tvg-logo="https://lo1.in/alb/albact.png" group-title="MOVIES - AL",AL| ALB ACTION HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183808
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY 7 FHD" tvg-logo="https://lo1.in/alb/sky7.png" group-title="MOVIES - AL",AL| SKY 7 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261840
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY SHQIP HD" tvg-logo="https://lo1.in/alb/skyshq.png" group-title="MOVIES - AL",AL| SKY SHQIP HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261839
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY STAR FHD" tvg-logo="https://lo1.in/alb/skystr.png" group-title="MOVIES - AL",AL| SKY STAR FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261838
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY AKSION FHD" tvg-logo="https://lo1.in/alb/skyaks.png" group-title="MOVIES - AL",AL| SKY AKSION FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY MAX HD" tvg-logo="https://lo1.in/alb/skymx.png" group-title="MOVIES - AL",AL| SKY MAX HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY KOMEDI HD" tvg-logo="https://lo1.in/alb/skycom.png" group-title="MOVIES - AL",AL| SKY KOMEDI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118026
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY DRAMA HD" tvg-logo="https://lo1.in/alb/skydra.png" group-title="MOVIES - AL",AL| SKY DRAMA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183791
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SKY NOVELA FHD" tvg-logo="https://lo1.in/alb/skynov.png" group-title="MOVIES - AL",AL| SKY NOVELA FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV FESTINA HD" tvg-logo="https://lo1.in/alb/tvfest.png" group-title="MOVIES - AL",AL| TV FESTINA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148490
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| X PREMIUM 1 HD" tvg-logo="https://lo1.in/alb/xpremiu.png" group-title="MOVIES - AL",AL| X PREMIUM 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| X PREMIUM 2 HD" tvg-logo="https://lo1.in/alb/xpremiu2.png" group-title="MOVIES - AL",AL| X PREMIUM 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118182
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| PORTOKALLI HD" tvg-logo="https://lo1.in/alb/porkli.png" group-title="MOVIES - AL",AL| PORTOKALLI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183920
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| E MIRË TV FILM 1 HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="MOVIES - AL",AL| E MIRË TV FILM 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261803
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| E MIRË TV FILM ACTION HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="MOVIES - AL",AL| E MIRË TV FILM ACTION HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261802
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| E MIRË TV FILM HITS HD" tvg-logo="https://lo1.in/alb/emirmuz.png" group-title="MOVIES - AL",AL| E MIRË TV FILM HITS HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261801
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINESTAR TV COMEDY HD" tvg-logo="https://lo1.in/alb/cinestrcom.png" group-title="MOVIES - AL",AL| CINESTAR TV COMEDY HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINESTAR TV 1 HD" tvg-logo="https://lo1.in/alb/cinestr1.png" group-title="MOVIES - AL",AL| CINESTAR TV 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINESTAR TV 2 HD" tvg-logo="https://lo1.in/alb/cinestr2.png" group-title="MOVIES - AL",AL| CINESTAR TV 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32105
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINESTAR TV ACTION HD" tvg-logo="https://lo1.in/alb/cinestract.png" group-title="MOVIES - AL",AL| CINESTAR TV ACTION HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINESTAR TV PREMIERE 1 FHD" tvg-logo="https://lo1.in/alb/cinestrprem1.png" group-title="MOVIES - AL",AL| CINESTAR TV PREMIERE 1 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINESTAR TV PREMIERE 2 FHD" tvg-logo="https://lo1.in/alb/cinestrprem2.png" group-title="MOVIES - AL",AL| CINESTAR TV PREMIERE 2 FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| CINESTAR TV FANTASY HD" tvg-logo="https://lo1.in/alb/cinestrfan.png" group-title="MOVIES - AL",AL| CINESTAR TV FANTASY HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM ROMANCE HD" tvg-logo="https://lo1.in/alb/flmrmnc.png" group-title="MOVIES - AL",AL| FILM ROMANCE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261821
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM MIX HD" tvg-logo="https://lo1.in/alb/flmmx.png" group-title="MOVIES - AL",AL| FILM MIX HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261820
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM MIX 2 HD" tvg-logo="https://lo1.in/alb/flmmx.png" group-title="MOVIES - AL",AL| FILM MIX 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM GOLD HD" tvg-logo="https://lo1.in/alb/GOLD.png" group-title="MOVIES - AL",AL| FILM GOLD HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/32523
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMA ROMANCE HD" tvg-logo="https://lo1.in/alb/flmrmnc.png" group-title="MOVIES - AL",AL| FILMA ROMANCE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261818
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMA HORROR HD" tvg-logo="https://lo1.in/alb/flmhrr.png" group-title="MOVIES - AL",AL| FILMA HORROR HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261817
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILMA PREMIER HD" tvg-logo="https://lo1.in/alb/flmprem.png" group-title="MOVIES - AL",AL| FILMA PREMIER HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261816
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ILIRIDA HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="MOVIES - AL",AL| RTV ILIRIDA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/76205
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ILIRIDA FILMA HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="MOVIES - AL",AL| RTV ILIRIDA FILMA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/76200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ILIRIDA FEMIJE HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="MOVIES - AL",AL| RTV ILIRIDA FEMIJE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/76201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ILIRIDA DADOKUMENTAR HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="MOVIES - AL",AL| RTV ILIRIDA DADOKUMENTAR HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/76202
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ILIRIDA HUMOR SHQIP HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="MOVIES - AL",AL| RTV ILIRIDA HUMOR SHQIP HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/76203
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTV ILIRIDA TV MENDI HD" tvg-logo="https://lo1.in/alb/rtvlird.png" group-title="MOVIES - AL",AL| RTV ILIRIDA TV MENDI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/76204
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 1 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261814
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 2 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261813
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 3 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261812
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 4 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261811
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 5 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 5 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261810
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 6 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 6 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261809
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 7 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 7 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261808
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 8 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 8 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261807
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 9 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 9 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261806
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STARFILM 10 HD" tvg-logo="https://lo1.in/alb/strflm.png" group-title="MOVIES - AL",AL| STARFILM 10 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400261805
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX KOMEDI" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX KOMEDI
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188418
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX ROMANC" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX ROMANC
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188419
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX HORROR" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX HORROR
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188420
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX ARNOD SHWARZENEGGER" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX ARNOD SHWARZENEGGER
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188421
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX SYLVESTER STALLONE" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX SYLVESTER STALLONE
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188422
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX VAN DAMME" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX VAN DAMME
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188423
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX DWAYNE JOHNSON" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX DWAYNE JOHNSON
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188424
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX FANTAZI" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX FANTAZI
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188425
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX  EPIK" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX  EPIK
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188426
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX AVANTUR" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX AVANTUR
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| NETFLIX AKSION" tvg-logo="https://lo1.in/ger/ntfx.png" group-title="MOVIES - AL",AL| NETFLIX AKSION
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400188428
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX PREMIER 1 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX PREMIER 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX PREMIER 2 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX PREMIER 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX PREMIER 3 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX PREMIER 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX PREMIER 4 HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX PREMIER 4 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX CINE HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX CINE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38068
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX ELITE HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX ELITE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX ENERGI HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX ENERGI HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX ONE HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX ONE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX RED HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX RED HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| MAX STAR HD" tvg-logo="https://lo1.in/alb/CMAX.png" group-title="MOVIES - AL",AL| MAX STAR HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM24 AKSION 1 HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="MOVIES - AL",AL| FILM24 AKSION 1 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM24 AKSION 2 HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="MOVIES - AL",AL| FILM24 AKSION 2 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM24 AKSION 3 HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="MOVIES - AL",AL| FILM24 AKSION 3 HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM24 AZIATIK HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="MOVIES - AL",AL| FILM24 AZIATIK HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM24 AVENTURE HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="MOVIES - AL",AL| FILM24 AVENTURE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM24 DRAME HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="MOVIES - AL",AL| FILM24 DRAME HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| FILM24 FANTASHKEENC HD" tvg-logo="https://lo1.in/alb/FILM24.png" group-title="MOVIES - AL",AL| FILM24 FANTASHKEENC HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/38074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Aksion" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Aksion
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45576
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Chanel 4K." tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Chanel 4K.
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar ChuChu TV" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar ChuChu TV
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45574
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Cinema DE" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Cinema DE
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45573
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Cinema" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Cinema
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45572
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Drame" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Drame
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45571
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Komedi" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Komedi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45570
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Masha Orso" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Masha Orso
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45569
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Thriller" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Thriller
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45568
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Music CH" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Music CH
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45567
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Muzik" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Muzik
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45566
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Popullore" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Popullore
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45565
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Qifteli" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Qifteli
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45564
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| WebStar Islam" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| WebStar Islam
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45563
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Aksion" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Aksion
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Fantasy" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Fantasy
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45610
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Komedi" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Komedi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45609
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Drama" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Drama
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45608
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Romance" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Romance
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45607
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Marvel" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Marvel
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45606
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Family" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Family
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45605
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Thriller" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Thriller
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45604
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Hits" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Hits
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45603
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Cinema" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Cinema
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45602
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Film" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Film
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45601
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Hindi" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Hindi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45600
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Western" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Western
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45599
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Serial" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Serial
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45598
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Tom & Jerry" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Tom & Jerry
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45597
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV MiMi" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV MiMi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45596
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Jeta" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Jeta
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45595
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Folk" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Folk
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45594
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Humor" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Humor
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45593
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Stupcat" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Stupcat
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45592
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ShqipTV Ilahi" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| ShqipTV Ilahi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45591
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay BabyTV" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay BabyTV
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45612
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Cocomelon" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Cocomelon
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45613
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay CloudBabies" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay CloudBabies
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45614
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay BabyShark" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay BabyShark
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45615
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Bob The Builder" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Bob The Builder
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45616
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Grizzy" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Grizzy
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45617
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Larva" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Larva
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Oddbods" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Oddbods
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45619
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Spidey" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Spidey
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Pets" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Pets
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay SpongeBob" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay SpongeBob
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45622
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Bloopies" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Bloopies
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45623
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Tom&Jerry" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Tom&Jerry
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Peppa Pig" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Peppa Pig
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45625
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Mickey Mouse" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Mickey Mouse
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45626
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Masha&Bear" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Masha&Bear
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45627
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Pj Masks" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Pj Masks
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45628
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Paw Patrol" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Paw Patrol
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45629
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Nastya" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Nastya
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45630
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Diana Show" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Diana Show
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45631
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay Vlad&Niki" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay Vlad&Niki
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45632
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay-Kids Dhelpera" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay-Kids Dhelpera
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45633
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay-Kids Shqip" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay-Kids Shqip
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45634
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| OnePlay-Kids Rritu dhe Meso" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| OnePlay-Kids Rritu dhe Meso
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45635
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Animation" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Animation
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45577
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Super" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Super
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45578
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Milenium 1" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Milenium 1
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Milenium 2" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Milenium 2
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Milenium 3" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Milenium 3
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Milenium 4" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Milenium 4
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45579
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Hits" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Hits
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45583
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Gold" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Gold
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Fantasy" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Fantasy
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45585
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Family" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Family
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45586
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Comedy" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Comedy
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45587
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Classics" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Classics
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45588
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Aksion MAX" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Aksion MAX
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45589
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| Kinema Aksion" tvg-logo="https://lo1.in/alb/alb.png" group-title="MOVIES - AL",AL| Kinema Aksion
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45590
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK PRIME 1" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK PRIME 1
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45654
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK PRIME 2" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK PRIME 2
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45653
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK PRIME 3" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK PRIME 3
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK PRIME 4" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK PRIME 4
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK GOLD 1" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK GOLD 1
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45650
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK GOLD 2" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK GOLD 2
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK GOLD 3" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK GOLD 3
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45648
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK GOLD 4" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK GOLD 4
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Netflix 1" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Netflix 1
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45646
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Netflix 2" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Netflix 2
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Netflix 3" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Netflix 3
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45644
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Netflix 4" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Netflix 4
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45643
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Aksion" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Aksion
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45642
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Komedi" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Komedi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45641
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Western" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Western
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45640
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Classic" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Classic
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45639
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Family" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Family
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45638
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Fantazi" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Fantazi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45637
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| DARK Hindi" tvg-logo="https://lo1.in/alb/dark.png" group-title="MOVIES - AL",AL| DARK Hindi
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/45636
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| STAR PLUS SHKODER HD" tvg-logo="https://lo1.in/alb/strplsshkdr.png" group-title="SHKODER - AL",AL| STAR PLUS SHKODER HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL|  TV 1 SHKODER HD" tvg-logo="https://lo1.in/alb/tv1shkdr.png" group-title="SHKODER - AL",AL|  TV 1 SHKODER HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148307
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV ROZAFA SHKODER HD" tvg-logo="https://lo1.in/alb/tvrozfshkd.png" group-title="SHKODER - AL",AL| TV ROZAFA SHKODER HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148300
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ANTENA HD" tvg-logo="https://lo1.in/alb/antena.png" group-title="SHKODER - AL",AL| ANTENA HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| SYRI BLUE HD" tvg-logo="https://lo1.in/alb/syrblu.png" group-title="SHKODER - AL",AL| SYRI BLUE HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ADRIA NET HD" tvg-logo="https://lo1.in/alb/adrianet.png" group-title="SHKODER - AL",AL| ADRIA NET HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| 24 KITCHEN HD" tvg-logo="https://lo1.in/alb/24kit.png" group-title="SHKODER - AL",AL| 24 KITCHEN HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183860
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| AMOL TV FHD" tvg-logo="https://lo1.in/alb/amol.png" group-title="SHKODER - AL",AL| AMOL TV FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/400148318
+#EXTINF:-1 tvg-id="living.al" tvg-name="AL| LIVING FHD" tvg-logo="https://lo1.in/alb/livin.png" group-title="SHKODER - AL",AL| LIVING FHD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| TV CHICAGO HD" tvg-logo="https://lo1.in/alb/tvchika.png" group-title="SHKODER - AL",AL| TV CHICAGO HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/118124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| ALB UK HD" tvg-logo="https://lo1.in/alb/albuk.png" group-title="SHKODER - AL",AL| ALB UK HD
+http://hamvqkd.megahdtv.xyz:80/7622586430/5514627452/183964

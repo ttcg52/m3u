@@ -425,12 +425,8 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419031
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419100
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| ART SPORT 1 4K" tvg-logo="https://www.artekinofestival.com/assets/img/open_graph_image.png" group-title="SPORTS (1)",|AL| ART SPORT 1 4K
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419162
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| ART Sport 1 HD" tvg-logo="https://i.pinimg.com/originals/0c/4c/ce/0c4cce090968740942de1de4e0bd0a93.png" group-title="SPORTS (1)",|AL| ART Sport 1 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419094
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| ART SPORT 2 4K" tvg-logo="https://www.artekinofestival.com/assets/img/open_graph_image.png" group-title="SPORTS (1)",|AL| ART SPORT 2 4K
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419163
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| ART Sport 2 HD" tvg-logo="https://i.pinimg.com/originals/0c/4c/ce/0c4cce090968740942de1de4e0bd0a93.png" group-title="SPORTS (1)",|AL| ART Sport 2 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419095
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| ART SPORT 3 4K" tvg-logo="https://www.artekinofestival.com/assets/img/open_graph_image.png" group-title="SPORTS (1)",|AL| ART SPORT 3 4K
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419164
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| FIGHT BOX" tvg-logo="http://103.161.34.238/dreamtv/tv/FIGHTBOX%20RAW.png" group-title="SPORTS (1)",|AL| FIGHT BOX
@@ -441,50 +437,18 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419091
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419086
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| K SPORT 3 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/KUJTESASPORT1.png" group-title="SPORTS (1)",|AL| K SPORT 3 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/418995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| KUJTESA SPORT 1" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| KUJTESA SPORT 1
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419158
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Kujtesa Sport 2" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/KUJTESASPORT2.png" group-title="SPORTS (1)",|AL| Kujtesa Sport 2
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| KUJTESA SPORT 2" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| KUJTESA SPORT 2
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419159
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Kujtesa Sport 2 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| Kujtesa Sport 2 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/418996
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Kujtesa Sport 2 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| Kujtesa Sport 2 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419092
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Kujtesa Sport 3" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| Kujtesa Sport 3
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| KUJTESA SPORT 3" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| KUJTESA SPORT 3
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419160
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Kujtesa Sport 4" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| Kujtesa Sport 4
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419089
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| KUJTESA SPORT 4" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| KUJTESA SPORT 4
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419161
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Kujtesa Sport 5 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/KUJTESA.png" group-title="SPORTS (1)",|AL| Kujtesa Sport 5 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419090
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| RTSH Sport FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/RTSHSPORT.png" group-title="SPORTS (1)",|AL| RTSH Sport FHD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419020
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 2 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 2 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419058
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 2 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 2 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419072
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SUPER SPORT 2 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SUPER SPORT 2 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 3 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 3 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419059
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 3 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 3 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419073
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SUPER SPORT 3 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SUPER SPORT 3 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419154
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 4 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 4 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419060
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 4 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 4 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419074
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SUPER SPORT 4 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SUPER SPORT 4 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419155
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 5 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 5 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419061
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport 5 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport 5 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419075
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SUPER SPORT 5 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SUPER SPORT 5 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419156
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SUPER SPORT 6 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SUPER SPORT 6 HD
@@ -493,48 +457,12 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419157
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419093
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Super Sport News HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| Super Sport News HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 2" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 2
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 2 SD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 2 SD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419067
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 3" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 3
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 3 SD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 3 SD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419068
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 4" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 4
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419079
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 4 SD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 4 SD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419070
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 5" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 5
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419080
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 5 SD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 5 SD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419069
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| SuperSport 6 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="SPORTS (1)",|AL| SuperSport 6 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419081
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 1 FHD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| Tring Sport 1 FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 1 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| Tring Sport 1 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419037
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| TRING SPORT 1 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| TRING SPORT 1 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 2 FHD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| Tring Sport 2 FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419083
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 2 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| Tring Sport 2 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419038
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| TRING SPORT 2 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| TRING SPORT 2 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 3 FHD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| Tring Sport 3 FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419039
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 3 FHD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| Tring Sport 3 FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419084
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| TRING SPORT 3 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| TRING SPORT 3 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| TRING SPORT 4 4K" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| TRING SPORT 4 4K
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419165
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 4 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/TRINGSPORT.png" group-title="SPORTS (1)",|AL| Tring Sport 4 FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Tring Sport 4 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| Tring Sport 4 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419040
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| TRING SPORT 4 HD" tvg-logo="http://103.161.34.238/dreamtv/tv/TRING-SPORT.jpg" group-title="SPORTS (1)",|AL| TRING SPORT 4 HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419151
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| STAR PLUS SHKODER HD" tvg-logo="https://i1.wp.com/www.starplus-tv.com/wp-content/uploads/2018/07/image-21.jpg?fit=960%2C960&ssl=1" group-title="SHKODER (1)",|AL| STAR PLUS SHKODER HD

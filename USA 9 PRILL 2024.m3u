@@ -645,6 +645,244 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252616
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252615
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Kids TV by Binge (HG)" tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/18677536/content/1644229158678_tv_ch_256X256_Kids_TV_by_Binge.png" group-title="US | USA KIDS",| US | Kids TV by Binge (HG)
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252614
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="|US| CNN FHD" tvg-logo="https://webunwto.s3.eu-west-1.amazonaws.com/inline-images/cnn-unwto-logo.jpg" group-title="US| USA NEWS",|US| CNN FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119341
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="|US| CNN HD" tvg-logo="https://webunwto.s3.eu-west-1.amazonaws.com/inline-images/cnn-unwto-logo.jpg" group-title="US| USA NEWS",|US| CNN HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119340
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="|US| CNN INTERNATIONAL HD" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="US| USA NEWS",|US| CNN INTERNATIONAL HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119338
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="|US| CNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_us.png" group-title="US| USA NEWS",|US| CNBC HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119331
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="|US| CNBC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_us.png" group-title="US| USA NEWS",|US| CNBC FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119330
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="|US| FOX NEWS CHANNEL HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="US| USA NEWS",|US| FOX NEWS CHANNEL HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119329
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="|US| FOX BUSINESS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-business-us.png" group-title="US| USA NEWS",|US| FOX BUSINESS HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119328
+#EXTINF:-1 tvg-id="wcbs.us" tvg-name="|US| CBS NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-news-us.png" group-title="US| USA NEWS",|US| CBS NEWS HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119327
+#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="|US| CBN NEWS INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-news-us.png" group-title="US| USA NEWS",|US| CBN NEWS INTERNATIONAL
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119326
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="|US| BLOOMBERG FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="US| USA NEWS",|US| BLOOMBERG FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119325
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="|US| BLOOMBERG HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="US| USA NEWS",|US| BLOOMBERG HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119324
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="|US| MSNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us_international.png" group-title="US| USA NEWS",|US| MSNBC HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119294
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="|US| MSNBC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us_international.png" group-title="US| USA NEWS",|US| MSNBC FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119293
+#EXTINF:-1 tvg-id="newsy.us" tvg-name="|US| NEWSY HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsy.png" group-title="US| USA NEWS",|US| NEWSY HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119301
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="|US| NEWSMAX TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax_tv_us.png" group-title="US| USA NEWS",|US| NEWSMAX TV FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119299
+#EXTINF:-1 tvg-id="Cheddar.News.us" tvg-name="|US| CHEDDAR NEWS FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cheddar-news.png" group-title="US| USA NEWS",|US| CHEDDAR NEWS FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119288
+#EXTINF:-1 tvg-id="Cheddar.News.us" tvg-name="|US| CHEDDAR HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cheddar-news.png" group-title="US| USA NEWS",|US| CHEDDAR HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119287
+#EXTINF:-1 tvg-id="News.12.Brooklyn.HDTV.(NEWS12).us" tvg-name="|US| NEWS 12 BLYNROOK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="US| USA NEWS",|US| NEWS 12 BLYNROOK FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119311
+#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="|US| WGN 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgn_cw9_chicago.png" group-title="US| USA NEWS",|US| WGN 9 HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119309
+#EXTINF:-1 tvg-id="weathernation.us" tvg-name="|US| WEATHER NATION HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/weather_nation_us.png" group-title="US| USA NEWS",|US| WEATHER NATION HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119308
+#EXTINF:-1 tvg-id="weathernation.us" tvg-name="|US| WEATHER NATION FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/weather_nation_us.png" group-title="US| USA NEWS",|US| WEATHER NATION FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119307
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="|US| THE WEATHER CHANNEL HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-weather-channel-us.png" group-title="US| USA NEWS",|US| THE WEATHER CHANNEL HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119306
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NBC NEWS NOW HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_us.png" group-title="US| USA NEWS",|US| NBC NEWS NOW HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119297
+#EXTINF:-1 tvg-id="NBC.News.NOW.us" tvg-name="|US| NBC NEWS NOW FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_us.png" group-title="US| USA NEWS",|US| NBC NEWS NOW FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119296
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="|US| CHEDDAR BUSINESS FHD" tvg-logo="https://archive.org/download/cheddar-business/cheddar%20business.png" group-title="US| USA NEWS",|US| CHEDDAR BUSINESS FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119286
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="|US| C-SPAN 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c-span-2-us.png" group-title="US| USA NEWS",|US| C-SPAN 2 FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119284
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| C-SPAN 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-span-us.png" group-title="US| USA NEWS",|US| C-SPAN 1 FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119283
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="|US| BBC WORLD NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_world_news_uk.png" group-title="US| USA NEWS",|US| BBC WORLD NEWS HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| KIRO 7 NEWS" tvg-logo="" group-title="US| USA NEWS",|US| KIRO 7 NEWS
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119292
+#EXTINF:-1 tvg-id="France.24.En.ro" tvg-name="|US| FRANCE 24" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" group-title="US| USA NEWS",|US| FRANCE 24
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119291
+#EXTINF:-1 tvg-id="DW.English.my" tvg-name="|US| DW ENGLISH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="US| USA NEWS",|US| DW ENGLISH
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119290
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 THE BRONX FHD" tvg-logo="https://www.cityharvest.org/wp-content/uploads/2020/03/News12-Bronx.jpg" group-title="US| USA NEWS",|US| NEWS 12 THE BRONX FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119275
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 NEW JERSEY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/News_12_NJ_2019.svg/revision/latest/scale-to-width-down/250?cb=20220414031928" group-title="US| USA NEWS",|US| NEWS 12 NEW JERSEY FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 LONG ISLAND FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiRji1xkA5j4hlNZaEHxIw3kog8-aYdpIGg&usqp=CAU" group-title="US| USA NEWS",|US| NEWS 12 LONG ISLAND FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119273
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 HUDSON VALLEY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hyR_TJupKWadTgXZldhKP90qclguGaZcaA&usqp=CAU" group-title="US| USA NEWS",|US| NEWS 12 HUDSON VALLEY FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 CONNECTICUT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSasSwzIrZNpHZOzoaO7GFBu4q_VWrdYwnPw&usqp=CAU" group-title="US| USA NEWS",|US| NEWS 12 CONNECTICUT FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119271
+#EXTINF:-1 tvg-id="indiatoday.us" tvg-name="|US| ASIAN INDIA TODAY" tvg-logo="https://www.lyngsat.com/logo/tv/ii/india_today_in_international.png" group-title="US| USA NEWS",|US| ASIAN INDIA TODAY
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119269
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 WESTCHESTER FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/News_12_Westchester_2019.svg/revision/latest/scale-to-width-down/250?cb=20220414033849" group-title="US| USA NEWS",|US| NEWS 12 WESTCHESTER FHD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119276
+#EXTINF:-1 tvg-id="nbc2wdtn.us" tvg-name="| US | NBC Dateline" tvg-logo="https://pbs.twimg.com/profile_images/1212359234148601856/8LUKBBhv_400x400.jpg" group-title="US| USA NEWS",| US | NBC Dateline
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252924
+#EXTINF:-1 tvg-id="nbc5wmaq.us" tvg-name="| US | NBC CHICAGO NEWS" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7101628104447555117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="US| USA NEWS",| US | NBC CHICAGO NEWS
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252923
+#EXTINF:-1 tvg-id="I11.11.112400.zap2it.com" tvg-name="| US | NBC SOUTH FLORIDA NEWS (PC)" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/ac7076b9-e3d7-32e3-8d27-6e9aee205acc/16-9?sid=7180919431350549117&language=eng&territory=US&proposition=NBCUOTT&version=bca2501d-050c-3273-99c1-758b456312b5" group-title="US| USA NEWS",| US | NBC SOUTH FLORIDA NEWS (PC)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252922
+#EXTINF:-1 tvg-id="nbc10wcau.us" tvg-name="| US | NBC PHILADELPHIA NEWS (PC)" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_9038535602670617117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="US| USA NEWS",| US | NBC PHILADELPHIA NEWS (PC)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252921
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NBC BOSTON NEWS (PC)" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8132224208671353117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="US| USA NEWS",| US | NBC BOSTON NEWS (PC)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252920
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="| US | FOX NEWS NOW (D)" tvg-logo="https://a.foxdcg.com/dpp-uploaded/images/newsnow-from-fox/seriesList_LiveNOW_el172256_s2021.jpg?fit=inside%7C278:156" group-title="US| USA NEWS",| US | FOX NEWS NOW (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252919
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NEW ENGLAND CABLE NEWS (NECN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NECN_Logo_2015.png/250px-NECN_Logo_2015.png" group-title="US| USA NEWS",| US | NEW ENGLAND CABLE NEWS (NECN)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252918
+#EXTINF:-1 tvg-id="One America News Network US" tvg-name="| US | ONE AMERICA NEWS" tvg-logo="https://m.media-amazon.com/images/I/51DqyTKou1L.png" group-title="US| USA NEWS",| US | ONE AMERICA NEWS
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252917
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | i24 NEWS English (V)" tvg-logo="http://vidg.tmsimg.com/assets/s102309_ll_h3_ab.png" group-title="US| USA NEWS",| US | i24 NEWS English (V)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CBC NEWS EXPLORE" tvg-logo="https://www.cbc.ca/mediacentre/content/images/Explore-PR-Teal-Letterhead-542x296.jpg" group-title="US| USA NEWS",| US | CBC NEWS EXPLORE
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252913
+#EXTINF:-1 tvg-id="abc4wciv.us" tvg-name="|US| ABC NEWS HD" tvg-logo="https://image.roku.com/developer_channels/prod/13f5273bb1c445828b50dd4239d525c104f0d120acdc0494af3b1f5edef94a4a.png" group-title="US| USA NEWS",|US| ABC NEWS HD
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) ABC 10 News San Diego KGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/KGTV_%282021%29.png/225px-KGTV_%282021%29.png" group-title="US| USA NEWS",| US | (LN) ABC 10 News San Diego KGTV
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252911
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | ABC 13 (WVEC) Norfolk/Portsmouth/Newport News (Y)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/WVEC_logo_2021.svg/175px-WVEC_logo_2021.svg.png" group-title="US| USA NEWS",| US | ABC 13 (WVEC) Norfolk/Portsmouth/Newport News (Y)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252890
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) Action News Jax" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612014ce5614eb2ec81f7c63" group-title="US| USA NEWS",| US | (LN) Action News Jax
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252912
+#EXTINF:-1 tvg-id="foxkcpq.us" tvg-name="| US | (LN) FOX 13 News Utah" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a4214d9496824f24028664" group-title="US| USA NEWS",| US | (LN) FOX 13 News Utah
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252910
+#EXTINF:-1 tvg-id="foxkcpq.us" tvg-name="| US | (LN) FOX News 13 (WHBQ) Memphis" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6bd30283a4f149f72b562" group-title="US| USA NEWS",| US | (LN) FOX News 13 (WHBQ) Memphis
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252909
+#EXTINF:-1 tvg-id="foxwxix.us" tvg-name="| US | FOX 19 NOW (WXIX)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxix-tv-us-oh.png" group-title="US| USA NEWS",| US | FOX 19 NOW (WXIX)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | 7NEWS Boston (WHDH) (D)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wsvn.svg" group-title="US| USA NEWS",| US | 7NEWS Boston (WHDH) (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252907
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="| US | CNBC WORLD (A)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-world-us.svg" group-title="US| USA NEWS",| US | CNBC WORLD (A)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252906
+#EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="| US | CBSN PITTSBURGH (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/CBS_News_Pittsburgh.svg/revision/latest/scale-to-width-down/200?cb=20220125011429" group-title="US| USA NEWS",| US | CBSN PITTSBURGH (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252905
+#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="| US | CBSN PHILLY (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/CBS_News_Philly.svg/revision/latest?cb=20220125011356" group-title="US| USA NEWS",| US | CBSN PHILLY (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252904
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="| US | CBSN NEW YORK (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg/revision/latest/scale-to-width-down/300?cb=20220125010951" group-title="US| USA NEWS",| US | CBSN NEW YORK (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252903
+#EXTINF:-1 tvg-id="cbs4wcco.us" tvg-name="| US | CBSN MINNESOTA (D)" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN MINNESOTA (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252902
+#EXTINF:-1 tvg-id="cbs9kcal.us" tvg-name="| US | CBSN LOS ANGELES (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/CBS_News_Los_Angeles.svg/revision/latest/scale-to-width-down/250?cb=20220125011012" group-title="US| USA NEWS",| US | CBSN LOS ANGELES (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252901
+#EXTINF:-1 tvg-id="cbs11kktv.us" tvg-name="| US | CBSN COLORADO (D)" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN COLORADO (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252900
+#EXTINF:-1 tvg-id="cbs10wthi.us" tvg-name="| US | CBSN DFW (D)" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2022/01/19/e9739262-22e9-42ad-93f6-5184018c7224/thumbnail/1280x720/b503baa91a34c67eaf9f38d2fdd78a15/cbsnews-local-dfw-1920x1080.jpg" group-title="US| USA NEWS",| US | CBSN DFW (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252899
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="| US | CBSN CHICAGO (D)" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN CHICAGO (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252898
+#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="| US | CBSN BOSTON (D)" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN BOSTON (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252897
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Al JAZEERA (D)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="US| USA NEWS",| US | Al JAZEERA (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252896
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Africa News (D)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Africa News (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT News America (D)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",RT News America (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary Channel (D)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",RT Documentary Channel (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252893
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) News12" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-news-network-ca.png" group-title="US| USA NEWS",| US | (LN) News12
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252892
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CW 27 (WGNT) Norfolk/Portsmouth/Newport News (Y)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | CW 27 (WGNT) Norfolk/Portsmouth/Newport News (Y)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252891
+#EXTINF:-1 tvg-id="foxweatherwdca4.us" tvg-name="| US | Fox Weather (Y)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Fox_Weather.png?20210721012152" group-title="US| USA NEWS",| US | Fox Weather (Y)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252889
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NewsNation (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NewsNation (S)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252888
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NewsNation SD (Y)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NewsNation SD (Y)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252887
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NewsNation FHD (Y)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NewsNation FHD (Y)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252886
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NEWS 13 CENTRAL FL (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NEWS 13 CENTRAL FL (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | News 9 (KUSI) (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | News 9 (KUSI) (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | News Now (WSEE) (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | News Now (WSEE) (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252883
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CNA (D)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-qa.svg" group-title="US| USA NEWS",| US | CNA (D)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252882
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Euronews (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Euronews (S)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252881
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | 10News2 (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | 10News2 (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252880
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) WXYZ Detroit 7 Action News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ae93026d17532db90a7992" group-title="US| USA NEWS",| US | (LN) WXYZ Detroit 7 Action News
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252879
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEW 1 - GREEN BAY/APPLETON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEW 1 - GREEN BAY/APPLETON (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252878
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEW 1 - MADISON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEW 1 - MADISON (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252877
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEW 1 - MILWAUKEE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEW 1 - MILWAUKEE (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252876
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - (NEW YORK) ROCHESTER (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - (NEW YORK) ROCHESTER (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252875
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - ALBANY CAPITAL REGION (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - ALBANY CAPITAL REGION (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252874
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - AUSTIN (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - AUSTIN (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252873
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - BUFFALO (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - BUFFALO (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252872
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - CENTRAL NY (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - CENTRAL NY (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252871
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - HUDSON VALLEY (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - HUDSON VALLEY (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252870
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - NY1 (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - NY1 (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252869
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - SAN ANTONIO (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - SAN ANTONIO (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252868
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252867
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252866
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252865
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252864
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (MA) PITTSFIELD (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (MA) PITTSFIELD (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252863
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (MA) SPRINGFIELD (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (MA) SPRINGFIELD (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252862
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (MA) WORCESTER (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (MA) WORCESTER (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252861
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - CINCINNATI (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - CINCINNATI (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252860
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - CLEVELAND/AKRON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - CLEVELAND/AKRON (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252859
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - COLUMBUS | (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - COLUMBUS | (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252858
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - DALLAS -FT WORTH (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - DALLAS -FT WORTH (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252857
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - DAYTON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - DAYTON (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252856
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - EL PASO TEXAS (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - EL PASO TEXAS (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252855
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - SO CAL (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - SO CAL (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252854
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - TOLEDO/LIMA (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - TOLEDO/LIMA (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252853
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) -  GREENSBORO (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) -  GREENSBORO (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252852
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - COASTAL (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - COASTAL (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252849
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252848
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Spectrum News 1 Pittsfield (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Spectrum News 1 Pittsfield (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252847
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NOTICIAS NY1 (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NOTICIAS NY1 (SP)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252846
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CGTN (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | CGTN (S)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252845
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Asian News18 (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Asian News18 (S)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252844
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | TVB News (S)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-news-hk.png" group-title="US| USA NEWS",| US | TVB News (S)
+http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252843
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NESN VIP" tvg-logo="https://yt3.googleusercontent.com/_63gsFJdozMxI35B8rfuxxiMYuR3cvx_4_4MDwcS116MBhh5KyWIypyhkUR-0q8pnhBgZhqh=s900-c-k-c0x00ffffff-no-rj" group-title="US | USA SPORTS",|US| NESN VIP
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/455295
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NESN PLUS VIP" tvg-logo="https://yt3.googleusercontent.com/_63gsFJdozMxI35B8rfuxxiMYuR3cvx_4_4MDwcS116MBhh5KyWIypyhkUR-0q8pnhBgZhqh=s900-c-k-c0x00ffffff-no-rj" group-title="US | USA SPORTS",|US| NESN PLUS VIP
@@ -4859,243 +5097,5 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/257735
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/257734
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| BALLY SPORTS OKLAHOMA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bally-sports-oklahoma-us.png" group-title="US | BALLY SPORTS",|US| BALLY SPORTS OKLAHOMA
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/257733
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="|US| CNN FHD" tvg-logo="https://webunwto.s3.eu-west-1.amazonaws.com/inline-images/cnn-unwto-logo.jpg" group-title="US| USA NEWS",|US| CNN FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119341
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="|US| CNN HD" tvg-logo="https://webunwto.s3.eu-west-1.amazonaws.com/inline-images/cnn-unwto-logo.jpg" group-title="US| USA NEWS",|US| CNN HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119340
-#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="|US| CNN INTERNATIONAL HD" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="US| USA NEWS",|US| CNN INTERNATIONAL HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119338
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="|US| CNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_us.png" group-title="US| USA NEWS",|US| CNBC HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119331
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="|US| CNBC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_us.png" group-title="US| USA NEWS",|US| CNBC FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119330
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="|US| FOX NEWS CHANNEL HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="US| USA NEWS",|US| FOX NEWS CHANNEL HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119329
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="|US| FOX BUSINESS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-business-us.png" group-title="US| USA NEWS",|US| FOX BUSINESS HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119328
-#EXTINF:-1 tvg-id="wcbs.us" tvg-name="|US| CBS NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-news-us.png" group-title="US| USA NEWS",|US| CBS NEWS HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119327
-#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="|US| CBN NEWS INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-news-us.png" group-title="US| USA NEWS",|US| CBN NEWS INTERNATIONAL
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119326
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="|US| BLOOMBERG FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="US| USA NEWS",|US| BLOOMBERG FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119325
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="|US| BLOOMBERG HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="US| USA NEWS",|US| BLOOMBERG HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119324
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="|US| MSNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us_international.png" group-title="US| USA NEWS",|US| MSNBC HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119294
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="|US| MSNBC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us_international.png" group-title="US| USA NEWS",|US| MSNBC FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119293
-#EXTINF:-1 tvg-id="newsy.us" tvg-name="|US| NEWSY HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsy.png" group-title="US| USA NEWS",|US| NEWSY HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119301
-#EXTINF:-1 tvg-id="newsmax.us" tvg-name="|US| NEWSMAX TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax_tv_us.png" group-title="US| USA NEWS",|US| NEWSMAX TV FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119299
-#EXTINF:-1 tvg-id="Cheddar.News.us" tvg-name="|US| CHEDDAR NEWS FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cheddar-news.png" group-title="US| USA NEWS",|US| CHEDDAR NEWS FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119288
-#EXTINF:-1 tvg-id="Cheddar.News.us" tvg-name="|US| CHEDDAR HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cheddar-news.png" group-title="US| USA NEWS",|US| CHEDDAR HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119287
-#EXTINF:-1 tvg-id="News.12.Brooklyn.HDTV.(NEWS12).us" tvg-name="|US| NEWS 12 BLYNROOK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="US| USA NEWS",|US| NEWS 12 BLYNROOK FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119311
-#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="|US| WGN 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgn_cw9_chicago.png" group-title="US| USA NEWS",|US| WGN 9 HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119309
-#EXTINF:-1 tvg-id="weathernation.us" tvg-name="|US| WEATHER NATION HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/weather_nation_us.png" group-title="US| USA NEWS",|US| WEATHER NATION HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119308
-#EXTINF:-1 tvg-id="weathernation.us" tvg-name="|US| WEATHER NATION FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/weather_nation_us.png" group-title="US| USA NEWS",|US| WEATHER NATION FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119307
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="|US| THE WEATHER CHANNEL HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-weather-channel-us.png" group-title="US| USA NEWS",|US| THE WEATHER CHANNEL HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119306
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NBC NEWS NOW HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_us.png" group-title="US| USA NEWS",|US| NBC NEWS NOW HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119297
-#EXTINF:-1 tvg-id="NBC.News.NOW.us" tvg-name="|US| NBC NEWS NOW FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_us.png" group-title="US| USA NEWS",|US| NBC NEWS NOW FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119296
-#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="|US| CHEDDAR BUSINESS FHD" tvg-logo="https://archive.org/download/cheddar-business/cheddar%20business.png" group-title="US| USA NEWS",|US| CHEDDAR BUSINESS FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119286
-#EXTINF:-1 tvg-id="cspan2.us" tvg-name="|US| C-SPAN 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c-span-2-us.png" group-title="US| USA NEWS",|US| C-SPAN 2 FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119284
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| C-SPAN 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c-span-us.png" group-title="US| USA NEWS",|US| C-SPAN 1 FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119283
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="|US| BBC WORLD NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_world_news_uk.png" group-title="US| USA NEWS",|US| BBC WORLD NEWS HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119282
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| KIRO 7 NEWS" tvg-logo="" group-title="US| USA NEWS",|US| KIRO 7 NEWS
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119292
-#EXTINF:-1 tvg-id="France.24.En.ro" tvg-name="|US| FRANCE 24" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" group-title="US| USA NEWS",|US| FRANCE 24
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119291
-#EXTINF:-1 tvg-id="DW.English.my" tvg-name="|US| DW ENGLISH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="US| USA NEWS",|US| DW ENGLISH
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119290
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 THE BRONX FHD" tvg-logo="https://www.cityharvest.org/wp-content/uploads/2020/03/News12-Bronx.jpg" group-title="US| USA NEWS",|US| NEWS 12 THE BRONX FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 NEW JERSEY FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/News_12_NJ_2019.svg/revision/latest/scale-to-width-down/250?cb=20220414031928" group-title="US| USA NEWS",|US| NEWS 12 NEW JERSEY FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 LONG ISLAND FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiRji1xkA5j4hlNZaEHxIw3kog8-aYdpIGg&usqp=CAU" group-title="US| USA NEWS",|US| NEWS 12 LONG ISLAND FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 HUDSON VALLEY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hyR_TJupKWadTgXZldhKP90qclguGaZcaA&usqp=CAU" group-title="US| USA NEWS",|US| NEWS 12 HUDSON VALLEY FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 CONNECTICUT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSasSwzIrZNpHZOzoaO7GFBu4q_VWrdYwnPw&usqp=CAU" group-title="US| USA NEWS",|US| NEWS 12 CONNECTICUT FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119271
-#EXTINF:-1 tvg-id="indiatoday.us" tvg-name="|US| ASIAN INDIA TODAY" tvg-logo="https://www.lyngsat.com/logo/tv/ii/india_today_in_international.png" group-title="US| USA NEWS",|US| ASIAN INDIA TODAY
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119269
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NEWS 12 WESTCHESTER FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/News_12_Westchester_2019.svg/revision/latest/scale-to-width-down/250?cb=20220414033849" group-title="US| USA NEWS",|US| NEWS 12 WESTCHESTER FHD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119276
-#EXTINF:-1 tvg-id="nbc2wdtn.us" tvg-name="| US | NBC Dateline" tvg-logo="https://pbs.twimg.com/profile_images/1212359234148601856/8LUKBBhv_400x400.jpg" group-title="US| USA NEWS",| US | NBC Dateline
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252924
-#EXTINF:-1 tvg-id="nbc5wmaq.us" tvg-name="| US | NBC CHICAGO NEWS" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7101628104447555117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="US| USA NEWS",| US | NBC CHICAGO NEWS
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252923
-#EXTINF:-1 tvg-id="I11.11.112400.zap2it.com" tvg-name="| US | NBC SOUTH FLORIDA NEWS (PC)" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/ac7076b9-e3d7-32e3-8d27-6e9aee205acc/16-9?sid=7180919431350549117&language=eng&territory=US&proposition=NBCUOTT&version=bca2501d-050c-3273-99c1-758b456312b5" group-title="US| USA NEWS",| US | NBC SOUTH FLORIDA NEWS (PC)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252922
-#EXTINF:-1 tvg-id="nbc10wcau.us" tvg-name="| US | NBC PHILADELPHIA NEWS (PC)" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_9038535602670617117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="US| USA NEWS",| US | NBC PHILADELPHIA NEWS (PC)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NBC BOSTON NEWS (PC)" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8132224208671353117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="US| USA NEWS",| US | NBC BOSTON NEWS (PC)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252920
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="| US | FOX NEWS NOW (D)" tvg-logo="https://a.foxdcg.com/dpp-uploaded/images/newsnow-from-fox/seriesList_LiveNOW_el172256_s2021.jpg?fit=inside%7C278:156" group-title="US| USA NEWS",| US | FOX NEWS NOW (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252919
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NEW ENGLAND CABLE NEWS (NECN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NECN_Logo_2015.png/250px-NECN_Logo_2015.png" group-title="US| USA NEWS",| US | NEW ENGLAND CABLE NEWS (NECN)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252918
-#EXTINF:-1 tvg-id="One America News Network US" tvg-name="| US | ONE AMERICA NEWS" tvg-logo="https://m.media-amazon.com/images/I/51DqyTKou1L.png" group-title="US| USA NEWS",| US | ONE AMERICA NEWS
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | i24 NEWS English (V)" tvg-logo="http://vidg.tmsimg.com/assets/s102309_ll_h3_ab.png" group-title="US| USA NEWS",| US | i24 NEWS English (V)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252916
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CBC NEWS EXPLORE" tvg-logo="https://www.cbc.ca/mediacentre/content/images/Explore-PR-Teal-Letterhead-542x296.jpg" group-title="US| USA NEWS",| US | CBC NEWS EXPLORE
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252913
-#EXTINF:-1 tvg-id="abc4wciv.us" tvg-name="|US| ABC NEWS HD" tvg-logo="https://image.roku.com/developer_channels/prod/13f5273bb1c445828b50dd4239d525c104f0d120acdc0494af3b1f5edef94a4a.png" group-title="US| USA NEWS",|US| ABC NEWS HD
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/119336
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) ABC 10 News San Diego KGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/KGTV_%282021%29.png/225px-KGTV_%282021%29.png" group-title="US| USA NEWS",| US | (LN) ABC 10 News San Diego KGTV
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252911
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | ABC 13 (WVEC) Norfolk/Portsmouth/Newport News (Y)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/WVEC_logo_2021.svg/175px-WVEC_logo_2021.svg.png" group-title="US| USA NEWS",| US | ABC 13 (WVEC) Norfolk/Portsmouth/Newport News (Y)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252890
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) Action News Jax" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612014ce5614eb2ec81f7c63" group-title="US| USA NEWS",| US | (LN) Action News Jax
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252912
-#EXTINF:-1 tvg-id="foxkcpq.us" tvg-name="| US | (LN) FOX 13 News Utah" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a4214d9496824f24028664" group-title="US| USA NEWS",| US | (LN) FOX 13 News Utah
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252910
-#EXTINF:-1 tvg-id="foxkcpq.us" tvg-name="| US | (LN) FOX News 13 (WHBQ) Memphis" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6bd30283a4f149f72b562" group-title="US| USA NEWS",| US | (LN) FOX News 13 (WHBQ) Memphis
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252909
-#EXTINF:-1 tvg-id="foxwxix.us" tvg-name="| US | FOX 19 NOW (WXIX)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxix-tv-us-oh.png" group-title="US| USA NEWS",| US | FOX 19 NOW (WXIX)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252908
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | 7NEWS Boston (WHDH) (D)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wsvn.svg" group-title="US| USA NEWS",| US | 7NEWS Boston (WHDH) (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252907
-#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="| US | CNBC WORLD (A)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-world-us.svg" group-title="US| USA NEWS",| US | CNBC WORLD (A)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252906
-#EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="| US | CBSN PITTSBURGH (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/CBS_News_Pittsburgh.svg/revision/latest/scale-to-width-down/200?cb=20220125011429" group-title="US| USA NEWS",| US | CBSN PITTSBURGH (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252905
-#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="| US | CBSN PHILLY (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/CBS_News_Philly.svg/revision/latest?cb=20220125011356" group-title="US| USA NEWS",| US | CBSN PHILLY (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252904
-#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="| US | CBSN NEW YORK (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg/revision/latest/scale-to-width-down/300?cb=20220125010951" group-title="US| USA NEWS",| US | CBSN NEW YORK (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252903
-#EXTINF:-1 tvg-id="cbs4wcco.us" tvg-name="| US | CBSN MINNESOTA (D)" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN MINNESOTA (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252902
-#EXTINF:-1 tvg-id="cbs9kcal.us" tvg-name="| US | CBSN LOS ANGELES (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/CBS_News_Los_Angeles.svg/revision/latest/scale-to-width-down/250?cb=20220125011012" group-title="US| USA NEWS",| US | CBSN LOS ANGELES (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252901
-#EXTINF:-1 tvg-id="cbs11kktv.us" tvg-name="| US | CBSN COLORADO (D)" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN COLORADO (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252900
-#EXTINF:-1 tvg-id="cbs10wthi.us" tvg-name="| US | CBSN DFW (D)" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2022/01/19/e9739262-22e9-42ad-93f6-5184018c7224/thumbnail/1280x720/b503baa91a34c67eaf9f38d2fdd78a15/cbsnews-local-dfw-1920x1080.jpg" group-title="US| USA NEWS",| US | CBSN DFW (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252899
-#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="| US | CBSN CHICAGO (D)" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN CHICAGO (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252898
-#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="| US | CBSN BOSTON (D)" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="US| USA NEWS",| US | CBSN BOSTON (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252897
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Al JAZEERA (D)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="US| USA NEWS",| US | Al JAZEERA (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252896
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Africa News (D)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Africa News (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252895
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT News America (D)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",RT News America (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252894
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary Channel (D)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",RT Documentary Channel (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252893
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) News12" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-news-network-ca.png" group-title="US| USA NEWS",| US | (LN) News12
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252892
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CW 27 (WGNT) Norfolk/Portsmouth/Newport News (Y)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | CW 27 (WGNT) Norfolk/Portsmouth/Newport News (Y)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252891
-#EXTINF:-1 tvg-id="foxweatherwdca4.us" tvg-name="| US | Fox Weather (Y)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Fox_Weather.png?20210721012152" group-title="US| USA NEWS",| US | Fox Weather (Y)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252889
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NewsNation (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NewsNation (S)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252888
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NewsNation SD (Y)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NewsNation SD (Y)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252887
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NewsNation FHD (Y)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NewsNation FHD (Y)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252886
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NEWS 13 CENTRAL FL (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | NEWS 13 CENTRAL FL (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252885
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | News 9 (KUSI) (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | News 9 (KUSI) (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252884
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | News Now (WSEE) (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | News Now (WSEE) (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252883
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CNA (D)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-qa.svg" group-title="US| USA NEWS",| US | CNA (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252882
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Euronews (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Euronews (S)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252881
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | 10News2 (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | 10News2 (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252880
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | (LN) WXYZ Detroit 7 Action News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ae93026d17532db90a7992" group-title="US| USA NEWS",| US | (LN) WXYZ Detroit 7 Action News
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEW 1 - GREEN BAY/APPLETON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEW 1 - GREEN BAY/APPLETON (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252878
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEW 1 - MADISON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEW 1 - MADISON (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEW 1 - MILWAUKEE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEW 1 - MILWAUKEE (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252876
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - (NEW YORK) ROCHESTER (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - (NEW YORK) ROCHESTER (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252875
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - ALBANY CAPITAL REGION (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - ALBANY CAPITAL REGION (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252874
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - AUSTIN (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - AUSTIN (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252873
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - BUFFALO (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - BUFFALO (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252872
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - CENTRAL NY (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - CENTRAL NY (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - HUDSON VALLEY (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - HUDSON VALLEY (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252870
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - NY1 (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - NY1 (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252869
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS - SAN ANTONIO (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS - SAN ANTONIO (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252868
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252867
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252866
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252865
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (MA) PITTSFIELD (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (MA) PITTSFIELD (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (MA) SPRINGFIELD (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (MA) SPRINGFIELD (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - (MA) WORCESTER (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - (MA) WORCESTER (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - CINCINNATI (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - CINCINNATI (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252860
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - CLEVELAND/AKRON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - CLEVELAND/AKRON (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - COLUMBUS | (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - COLUMBUS | (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252858
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - DALLAS -FT WORTH (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - DALLAS -FT WORTH (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252857
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - DAYTON (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - DAYTON (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - EL PASO TEXAS (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - EL PASO TEXAS (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - SO CAL (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - SO CAL (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 - TOLEDO/LIMA (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 - TOLEDO/LIMA (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) -  GREENSBORO (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) -  GREENSBORO (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252852
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - COASTAL (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - COASTAL (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252850
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252849
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252848
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Spectrum News 1 Pittsfield (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Spectrum News 1 Pittsfield (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252847
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | SPECTRUM NOTICIAS NY1 (SP)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | SPECTRUM NOTICIAS NY1 (SP)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252846
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | CGTN (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | CGTN (S)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252845
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | Asian News18 (S)" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US| USA NEWS",| US | Asian News18 (S)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252844
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | TVB News (S)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-news-hk.png" group-title="US| USA NEWS",| US | TVB News (S)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252843
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | RFD-TV" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US | ENTERTAINEMNT & MUSIC",| US | RFD-TV
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252020

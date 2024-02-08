@@ -1,109 +1,109 @@
-#EXTM3U
-#EXTINF:-1, group-title="XXX", XXX: REDLIGHT HD
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDLIGHT HD" tvg-logo="" group-title="XXX",XXX: REDLIGHT HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164491.m3u8
-#EXTINF:-1, group-title="XXX", XXX: XXL TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXL TV" tvg-logo="" group-title="XXX",XXX: XXL TV
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164492.m3u8
-#EXTINF:-1, group-title="XXX", XXX: VENUS TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VENUS TV" tvg-logo="" group-title="XXX",XXX: VENUS TV
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164493.m3u8
-#EXTINF:-1, group-title="XXX", XXX: COMPILATION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: COMPILATION" tvg-logo="" group-title="XXX",XXX: COMPILATION
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164494.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 6
-http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164495.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 5
-http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164496.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 4
-http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164497.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 3
-http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164498.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 2
-http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164499.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 1
-http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164500.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 2 FHD
-http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164501.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ALBA XXX 1 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 1 FHD" tvg-logo="" group-title="XXX",XXX: ALBA XXX 1 FHD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164502.m3u8
-#EXTINF:-1, group-title="XXX", XXX: Bunga Bunga
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 2 FHD" tvg-logo="" group-title="XXX",XXX: ALBA XXX 2 FHD
+http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164501.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 1" tvg-logo="" group-title="XXX",XXX: ALBA XXX 1
+http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 2" tvg-logo="" group-title="XXX",XXX: ALBA XXX 2
+http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164499.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 3" tvg-logo="" group-title="XXX",XXX: ALBA XXX 3
+http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164498.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 4" tvg-logo="" group-title="XXX",XXX: ALBA XXX 4
+http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164497.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 5" tvg-logo="" group-title="XXX",XXX: ALBA XXX 5
+http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164496.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 6" tvg-logo="" group-title="XXX",XXX: ALBA XXX 6
+http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164495.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Bunga Bunga" tvg-logo="" group-title="XXX",XXX: Bunga Bunga
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164503.m3u8
-#EXTINF:-1, group-title="XXX", XXX: CZECH STREETS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: CZECH STREETS" tvg-logo="" group-title="XXX",XXX: CZECH STREETS
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164504.m3u8
-#EXTINF:-1, group-title="XXX", XXX: XY plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XY plus" tvg-logo="" group-title="XXX",XXX: XY plus
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164505.m3u8
-#EXTINF:-1, group-title="XXX", XXX: XY mix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XY mix" tvg-logo="" group-title="XXX",XXX: XY mix
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164506.m3u8
-#EXTINF:-1, group-title="XXX", XXX: XY max
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XY max" tvg-logo="" group-title="XXX",XXX: XY max
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164507.m3u8
-#EXTINF:-1, group-title="XXX", XXX: babes 2 4k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: babes 2 4k" tvg-logo="" group-title="XXX",XXX: babes 2 4k
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164508.m3u8
-#EXTINF:-1, group-title="XXX", XXX: XXL HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXL HD" tvg-logo="" group-title="XXX",XXX: XXL HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164509.m3u8
-#EXTINF:-1, group-title="XXX", XXX: VIVID TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VIVID TV" tvg-logo="" group-title="XXX",XXX: VIVID TV
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164510.m3u8
-#EXTINF:-1, group-title="XXX", XXX: VIVID RED HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VIVID RED HD" tvg-logo="" group-title="XXX",XXX: VIVID RED HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164511.m3u8
-#EXTINF:-1, group-title="XXX", XXX: Stars XXX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Stars XXX" tvg-logo="" group-title="XXX",XXX: Stars XXX
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164512.m3u8
-#EXTINF:-1, group-title="XXX", XXX: SCT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCT" tvg-logo="" group-title="XXX",XXX: SCT
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164513.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PlayBoy TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PlayBoy TV" tvg-logo="" group-title="XXX",XXX: PlayBoy TV
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164514.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PRIVATE HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PRIVATE HD" tvg-logo="" group-title="XXX",XXX: PRIVATE HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164515.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PRIVATE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PRIVATE" tvg-logo="" group-title="XXX",XXX: PRIVATE
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164516.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PENTHOUSE PASSION HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PENTHOUSE PASSION HD" tvg-logo="" group-title="XXX",XXX: PENTHOUSE PASSION HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164517.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PENTHOUSE GOLD HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PENTHOUSE GOLD HD" tvg-logo="" group-title="XXX",XXX: PENTHOUSE GOLD HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164518.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PENTHOUSE QUICKIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="" group-title="XXX",XXX: PENTHOUSE QUICKIES
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164519.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PASSIONXXX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PASSIONXXX" tvg-logo="" group-title="XXX",XXX: PASSIONXXX
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164520.m3u8
-#EXTINF:-1, group-title="XXX", XXX: PASSIEXXX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PASSIEXXX" tvg-logo="" group-title="XXX",XXX: PASSIEXXX
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164521.m3u8
-#EXTINF:-1, group-title="XXX", XXX: JASMIN.TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: JASMIN.TV HD" tvg-logo="" group-title="XXX",XXX: JASMIN.TV HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164522.m3u8
-#EXTINF:-1, group-title="XXX", XXX: BHot
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BHot" tvg-logo="" group-title="XXX",XXX: BHot
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164523.m3u8
-#EXTINF:-1, group-title="XXX", XXX: HUSTLER TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: HUSTLER TV" tvg-logo="" group-title="XXX",XXX: HUSTLER TV
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164524.m3u8
-#EXTINF:-1, group-title="XXX", XXX: HUSTLER HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: HUSTLER HD" tvg-logo="" group-title="XXX",XXX: HUSTLER HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164525.m3u8
-#EXTINF:-1, group-title="XXX", XXX: Barely Legal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Barely Legal" tvg-logo="" group-title="XXX",XXX: Barely Legal
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164526.m3u8
-#EXTINF:-1, group-title="XXX", XXX: babes 4k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: babes 4k" tvg-logo="" group-title="XXX",XXX: babes 4k
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164527.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROXXX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROXXX" tvg-logo="" group-title="XXX",XXX: EROXXX
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164528.m3u8
-#EXTINF:-1, group-title="XXX", XXX: ERO-X
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ERO-X" tvg-logo="" group-title="XXX",XXX: ERO-X
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164529.m3u8
-#EXTINF:-1, group-title="XXX", XXX: DUSK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DUSK" tvg-logo="" group-title="XXX",XXX: DUSK
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164530.m3u8
-#EXTINF:-1, group-title="XXX", XXX: DORCEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DORCEL" tvg-logo="" group-title="XXX",XXX: DORCEL
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164531.m3u8
-#EXTINF:-1, group-title="XXX", XXX: BRAZZERS TV EUROPE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BRAZZERS TV EUROPE" tvg-logo="" group-title="XXX",XXX: BRAZZERS TV EUROPE
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164532.m3u8
-#EXTINF:-1, group-title="XXX", XXX: babes 3 4k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: babes 3 4k" tvg-logo="" group-title="XXX",XXX: babes 3 4k
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164533.m3u8
-#EXTINF:-1, group-title="XXX", XXX: SuperOne HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SuperOne HD" tvg-logo="" group-title="XXX",XXX: SuperOne HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164534.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 8" tvg-logo="" group-title="XXX",XXX: EROTIC 8
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164535.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 7" tvg-logo="" group-title="XXX",XXX: EROTIC 7
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164536.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 6" tvg-logo="" group-title="XXX",XXX: EROTIC 6
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164537.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 5" tvg-logo="" group-title="XXX",XXX: EROTIC 5
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164538.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 4" tvg-logo="" group-title="XXX",XXX: EROTIC 4
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164539.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 3" tvg-logo="" group-title="XXX",XXX: EROTIC 3
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164540.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 2" tvg-logo="" group-title="XXX",XXX: EROTIC 2
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164541.m3u8
-#EXTINF:-1, group-title="XXX", XXX: EROTIC 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROTIC 1" tvg-logo="" group-title="XXX",XXX: EROTIC 1
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164542.m3u8
-#EXTINF:-1, group-title="XXX", XXX: XXX 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 2 HD" tvg-logo="" group-title="XXX",XXX: XXX 2 HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164543.m3u8
-#EXTINF:-1, group-title="XXX", XXX: XXX 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 1 HD" tvg-logo="" group-title="XXX",XXX: XXX 1 HD
 http://kingtv4k.xyz:8880/live/Pasqualeina/V8LYEkMgxpv4/164544.m3u8

@@ -531,11 +531,6 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/418970
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/418963
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AL| Dark Fara e Flliqt HD" tvg-logo="" group-title="LEFTOVERS",|AL| Dark Fara e Flliqt HD
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/419246
-
-
-
-
-
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="| US | National Geographic Wild (V)" tvg-logo="https://vidgo.kiswe.com/vidgo/channel_logos/NGeoWildHD_s56425_h3_aa.png" group-title="US | USA DOC",| US | National Geographic Wild (V)
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252820
 #EXTINF:-1 tvg-id="National Geographic Wild US" tvg-name="| US | National Geographic Wild (F)" tvg-logo="https://vidgo.kiswe.com/vidgo/channel_logos/NGeoWildHD_s56425_h3_aa.png" group-title="US | USA DOC",| US | National Geographic Wild (F)
@@ -4596,10 +4591,6 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/335318
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/335317
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | NBC 56 (KETK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/KETKnbcHD.png/150px-KETKnbcHD.png" group-title="US | NBC",| US | NBC 56 (KETK)
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/335316
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TX (D)" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kwes_midland_odessa.png" group-title="US_LOCALS",TX (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/335432
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NC (D)" tvg-logo="" group-title="US_LOCALS",NC (D)
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/335337
 #EXTINF:-1 tvg-id="I2.1.19586.zap2it.com" tvg-name="| US | ABC" tvg-logo="https://vidgo.kiswe.com/vidgo/channel_logos/ABC_s28708_h3_aa.png" group-title="US | ABC",| US | ABC
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/328833
 #EXTINF:-1 tvg-id="I2.1.19586.zap2it.com" tvg-name="| US | ABC" tvg-logo="https://vidgo.kiswe.com/vidgo/channel_logos/ABC_s28708_h3_aa.png" group-title="US | ABC",| US | ABC
@@ -5634,5 +5625,3 @@ http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/257735
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/257734
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| BALLY SPORTS OKLAHOMA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bally-sports-oklahoma-us.png" group-title="US | BALLY SPORTS",|US| BALLY SPORTS OKLAHOMA
 http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/257733
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="| US | RFD-TV" tvg-logo="https://i.ibb.co/85h0jDD/output-onlinepngtools-15.png" group-title="US | ENTERTAINEMNT & MUSIC",| US | RFD-TV
-http://m3u.sea-iptv.com:80/2y0n4ctfd7/l34by32i/252020

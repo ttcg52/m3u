@@ -1,6 +1,4 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✦●✦ RTSH ✦●✦" tvg-logo="https://lo1.in/alb/flg.png" group-title="EU | ALBANIA RTSH",✦●✦ RTSH ✦●✦
-http://yqdjqsk.smart-tv.xyz:80/live/4395733950/4331418158/400148406.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTSH SAT HD" tvg-logo="https://lo1.in/alb/rtshsat.png" group-title="EU | ALBANIA RTSH",AL| RTSH SAT HD
 http://yqdjqsk.smart-tv.xyz:80/live/4395733950/4331418158/400148405.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL| RTSH SAT HEVC" tvg-logo="https://lo1.in/alb/rtshsat.png" group-title="EU | ALBANIA RTSH",AL| RTSH SAT HEVC

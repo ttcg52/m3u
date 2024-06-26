@@ -6249,3 +6249,15 @@ http://yqdjqsk.smart-tv.xyz:80/live/4395733950/4331418158/400199893.m3u8
 http://yqdjqsk.smart-tv.xyz:80/live/4395733950/4331418158/360627.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NHL CENTER ICE HD" tvg-logo="https://lo1.in/us/nhl.png" group-title="AM | USA NHL",US| NHL CENTER ICE HD
 http://yqdjqsk.smart-tv.xyz:80/live/4395733950/4331418158/360625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO-IT| RAI SPORT FHD" tvg-logo="https://lo1.in/it/raisp.png" group-title="VIP | EURO 2024",EURO-IT| RAI SPORT FHD
+http://yqdjqsk.msuperab.xyz:80/4395733950/4331418158/401245822
+#EXTINF:-1 tvg-id="" tvg-name="EURO-IT| RAI 1 HD" tvg-logo="https://lo1.in/it/rai1.png" group-title="VIP | EURO 2024",EURO-IT| RAI 1 HD
+http://yqdjqsk.msuperab.xyz:80/4395733950/4331418158/401245827
+#EXTINF:-1 tvg-id="" tvg-name="EURO-IT| RAI 2 HD" tvg-logo="https://lo1.in/it/rai2.png" group-title="VIP | EURO 2024",EURO-IT| RAI 2 HD
+http://yqdjqsk.msuperab.xyz:80/4395733950/4331418158/401245826
+#EXTINF:-1 tvg-id="" tvg-name="EURO-IT| RAI 4 HD" tvg-logo="https://lo1.in/it/rai4.png" group-title="VIP | EURO 2024",EURO-IT| RAI 4 HD
+http://yqdjqsk.msuperab.xyz:80/4395733950/4331418158/401245825
+#EXTINF:-1 tvg-id="" tvg-name="EURO-IT| RAI 3 HD" tvg-logo="https://lo1.in/it/rai3.png" group-title="VIP | EURO 2024",EURO-IT| RAI 3 HD
+http://yqdjqsk.msuperab.xyz:80/4395733950/4331418158/401245824
+#EXTINF:-1 tvg-id="" tvg-name="EURO-IT| RAI 5 HD" tvg-logo="https://lo1.in/it/rain5.png" group-title="VIP | EURO 2024",EURO-IT| RAI 5 HD
+http://yqdjqsk.msuperab.xyz:80/4395733950/4331418158/401245823

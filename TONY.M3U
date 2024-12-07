@@ -10,8 +10,5 @@ http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="LBTV.us" tvg-logo="https://i.imgur.com/DjkVuFF.png" group-title="Legislative",Long Beach Television (720p)
 https://edge-f.swagit.com/live/longbeachca/live-1-a/playlist.m3u8
 
-#EXTINF:36,XilamTV (1080p)
-https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:25,Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
